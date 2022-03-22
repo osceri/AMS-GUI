@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>Graphics/KTHFS.png</file>
+    <file>Graphics/KTHFS0.png</file>
+    <file>Graphics/KTHFS1.png</file>
+    <file>Graphics/KTHFS2.png</file>
+    <file>Graphics/KTHFS3.png</file>
+    <file>Graphics/KTHFS4.png</file>
+    <file>Graphics/KTHFS5.png</file>
+    <file>Graphics/KTHFS6.png</file>
+    <file>Graphics/KTHFS7.png</file>
+  </qresource>
+  <qresource prefix="Guide">
+    <file>Graphics/Guide.jpg</file>
+  </qresource>
+</RCC>
