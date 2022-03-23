@@ -1,0 +1,14 @@
+from PyQt5 import QtCore, QtGui, QtWidgets
+import monitor
+
+class Ui_MainWindow(monitor.Ui_MainWindow):
+    def __init__(self, MainWindow):
+        self.setupUi(MainWindow)
+
+if __name__ == "__main__":
+    import sys
+    app = QtWidgets.QApplication(sys.argv)
+    MainWindow = QtWidgets.QMainWindow()
+    ui = Ui_MainWindow(MainWindow)
+    MainWindow.show()
+    sys.exit(app.exec_())
