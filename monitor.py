@@ -298,7 +298,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_voltage_entry_stats_A_voltage_7.setProperty("value", 48)
+        self.segment_voltage_entry_stats_A_voltage_7.setProperty("value", 0)
         self.segment_voltage_entry_stats_A_voltage_7.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_voltage_entry_stats_A_voltage_7.setTextVisible(False)
         self.segment_voltage_entry_stats_A_voltage_7.setObjectName("segment_voltage_entry_stats_A_voltage_7")
@@ -546,7 +546,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_64.setProperty("value", 48)
+        self.voltage_entry_bar_64.setProperty("value", 0)
         self.voltage_entry_bar_64.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_64.setTextVisible(False)
         self.voltage_entry_bar_64.setObjectName("voltage_entry_bar_64")
@@ -634,7 +634,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_65.setProperty("value", 48)
+        self.voltage_entry_bar_65.setProperty("value", 0)
         self.voltage_entry_bar_65.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_65.setTextVisible(False)
         self.voltage_entry_bar_65.setObjectName("voltage_entry_bar_65")
@@ -722,7 +722,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_66.setProperty("value", 48)
+        self.voltage_entry_bar_66.setProperty("value", 0)
         self.voltage_entry_bar_66.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_66.setTextVisible(False)
         self.voltage_entry_bar_66.setObjectName("voltage_entry_bar_66")
@@ -810,7 +810,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_67.setProperty("value", 48)
+        self.voltage_entry_bar_67.setProperty("value", 0)
         self.voltage_entry_bar_67.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_67.setTextVisible(False)
         self.voltage_entry_bar_67.setObjectName("voltage_entry_bar_67")
@@ -886,7 +886,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_68.setProperty("value", 48)
+        self.voltage_entry_bar_68.setProperty("value", 0)
         self.voltage_entry_bar_68.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_68.setTextVisible(False)
         self.voltage_entry_bar_68.setObjectName("voltage_entry_bar_68")
@@ -986,7 +986,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_69.setProperty("value", 48)
+        self.voltage_entry_bar_69.setProperty("value", 0)
         self.voltage_entry_bar_69.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_69.setTextVisible(False)
         self.voltage_entry_bar_69.setObjectName("voltage_entry_bar_69")
@@ -1074,7 +1074,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_70.setProperty("value", 48)
+        self.voltage_entry_bar_70.setProperty("value", 0)
         self.voltage_entry_bar_70.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_70.setTextVisible(False)
         self.voltage_entry_bar_70.setObjectName("voltage_entry_bar_70")
@@ -1162,7 +1162,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_71.setProperty("value", 48)
+        self.voltage_entry_bar_71.setProperty("value", 0)
         self.voltage_entry_bar_71.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_71.setTextVisible(False)
         self.voltage_entry_bar_71.setObjectName("voltage_entry_bar_71")
@@ -1250,7 +1250,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_72.setProperty("value", 48)
+        self.voltage_entry_bar_72.setProperty("value", 0)
         self.voltage_entry_bar_72.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_72.setTextVisible(False)
         self.voltage_entry_bar_72.setObjectName("voltage_entry_bar_72")
@@ -1344,7 +1344,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_73.setProperty("value", 48)
+        self.voltage_entry_bar_73.setProperty("value", 0)
         self.voltage_entry_bar_73.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_73.setTextVisible(False)
         self.voltage_entry_bar_73.setObjectName("voltage_entry_bar_73")
@@ -1432,7 +1432,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_74.setProperty("value", 48)
+        self.voltage_entry_bar_74.setProperty("value", 0)
         self.voltage_entry_bar_74.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_74.setTextVisible(False)
         self.voltage_entry_bar_74.setObjectName("voltage_entry_bar_74")
@@ -1625,7 +1625,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_voltage_head_entry_stats_C_voltage_4.setProperty("value", 48)
+        self.segment_voltage_head_entry_stats_C_voltage_4.setProperty("value", 0)
         self.segment_voltage_head_entry_stats_C_voltage_4.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_voltage_head_entry_stats_C_voltage_4.setTextVisible(False)
         self.segment_voltage_head_entry_stats_C_voltage_4.setObjectName("segment_voltage_head_entry_stats_C_voltage_4")
@@ -1672,7 +1672,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_voltage_head_entry_A_temperature_4.setProperty("value", 48)
+        self.segment_voltage_head_entry_A_temperature_4.setProperty("value", 0)
         self.segment_voltage_head_entry_A_temperature_4.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_voltage_head_entry_A_temperature_4.setTextVisible(False)
         self.segment_voltage_head_entry_A_temperature_4.setObjectName("segment_voltage_head_entry_A_temperature_4")
@@ -1681,7 +1681,7 @@ class Ui_MainWindow(object):
         self.segment_voltage_head_entry_A_nomality_4.setEnabled(False)
         self.segment_voltage_head_entry_A_nomality_4.setMinimumSize(QtCore.QSize(60, 20))
         self.segment_voltage_head_entry_A_nomality_4.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_voltage_head_entry_A_nomality_4.setStyleSheet("background-color: rgb(203, 120, 130);\n"
+        self.segment_voltage_head_entry_A_nomality_4.setStyleSheet("background-color: rgb(80, 203, 156);\n"
 "color: rgb(31, 31, 31);\n"
 "border: 4px;\n"
 "border-radius: 4px;")
@@ -1745,7 +1745,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_voltage_entry_stats_A_voltage_8.setProperty("value", 48)
+        self.segment_voltage_entry_stats_A_voltage_8.setProperty("value", 0)
         self.segment_voltage_entry_stats_A_voltage_8.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_voltage_entry_stats_A_voltage_8.setTextVisible(False)
         self.segment_voltage_entry_stats_A_voltage_8.setObjectName("segment_voltage_entry_stats_A_voltage_8")
@@ -1993,7 +1993,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_75.setProperty("value", 48)
+        self.voltage_entry_bar_75.setProperty("value", 0)
         self.voltage_entry_bar_75.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_75.setTextVisible(False)
         self.voltage_entry_bar_75.setObjectName("voltage_entry_bar_75")
@@ -2081,7 +2081,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_76.setProperty("value", 48)
+        self.voltage_entry_bar_76.setProperty("value", 0)
         self.voltage_entry_bar_76.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_76.setTextVisible(False)
         self.voltage_entry_bar_76.setObjectName("voltage_entry_bar_76")
@@ -2169,7 +2169,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_77.setProperty("value", 48)
+        self.voltage_entry_bar_77.setProperty("value", 0)
         self.voltage_entry_bar_77.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_77.setTextVisible(False)
         self.voltage_entry_bar_77.setObjectName("voltage_entry_bar_77")
@@ -2257,7 +2257,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_78.setProperty("value", 48)
+        self.voltage_entry_bar_78.setProperty("value", 0)
         self.voltage_entry_bar_78.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_78.setTextVisible(False)
         self.voltage_entry_bar_78.setObjectName("voltage_entry_bar_78")
@@ -2345,7 +2345,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_79.setProperty("value", 48)
+        self.voltage_entry_bar_79.setProperty("value", 0)
         self.voltage_entry_bar_79.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_79.setTextVisible(False)
         self.voltage_entry_bar_79.setObjectName("voltage_entry_bar_79")
@@ -2433,7 +2433,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_80.setProperty("value", 48)
+        self.voltage_entry_bar_80.setProperty("value", 0)
         self.voltage_entry_bar_80.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_80.setTextVisible(False)
         self.voltage_entry_bar_80.setObjectName("voltage_entry_bar_80")
@@ -2521,7 +2521,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_81.setProperty("value", 48)
+        self.voltage_entry_bar_81.setProperty("value", 0)
         self.voltage_entry_bar_81.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_81.setTextVisible(False)
         self.voltage_entry_bar_81.setObjectName("voltage_entry_bar_81")
@@ -2609,7 +2609,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_82.setProperty("value", 48)
+        self.voltage_entry_bar_82.setProperty("value", 0)
         self.voltage_entry_bar_82.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_82.setTextVisible(False)
         self.voltage_entry_bar_82.setObjectName("voltage_entry_bar_82")
@@ -2691,7 +2691,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_83.setProperty("value", 48)
+        self.voltage_entry_bar_83.setProperty("value", 0)
         self.voltage_entry_bar_83.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_83.setTextVisible(False)
         self.voltage_entry_bar_83.setObjectName("voltage_entry_bar_83")
@@ -2791,7 +2791,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_84.setProperty("value", 48)
+        self.voltage_entry_bar_84.setProperty("value", 0)
         self.voltage_entry_bar_84.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_84.setTextVisible(False)
         self.voltage_entry_bar_84.setObjectName("voltage_entry_bar_84")
@@ -3013,7 +3013,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_voltage_head_entry_stats_C_voltage.setProperty("value", 48)
+        self.segment_voltage_head_entry_stats_C_voltage.setProperty("value", 0)
         self.segment_voltage_head_entry_stats_C_voltage.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_voltage_head_entry_stats_C_voltage.setTextVisible(False)
         self.segment_voltage_head_entry_stats_C_voltage.setObjectName("segment_voltage_head_entry_stats_C_voltage")
@@ -3060,7 +3060,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_voltage_head_entry_A_temperature.setProperty("value", 48)
+        self.segment_voltage_head_entry_A_temperature.setProperty("value", 0)
         self.segment_voltage_head_entry_A_temperature.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_voltage_head_entry_A_temperature.setTextVisible(False)
         self.segment_voltage_head_entry_A_temperature.setObjectName("segment_voltage_head_entry_A_temperature")
@@ -3069,7 +3069,7 @@ class Ui_MainWindow(object):
         self.segment_voltage_head_entry_A_nomality.setEnabled(False)
         self.segment_voltage_head_entry_A_nomality.setMinimumSize(QtCore.QSize(60, 20))
         self.segment_voltage_head_entry_A_nomality.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_voltage_head_entry_A_nomality.setStyleSheet("background-color: rgb(203, 120, 130);\n"
+        self.segment_voltage_head_entry_A_nomality.setStyleSheet("background-color: rgb(80, 203, 156);\n"
 "color: rgb(31, 31, 31);\n"
 "border: 4px;\n"
 "border-radius: 4px;")
@@ -3133,7 +3133,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_voltage_entry_stats_A_voltage.setProperty("value", 48)
+        self.segment_voltage_entry_stats_A_voltage.setProperty("value", 0)
         self.segment_voltage_entry_stats_A_voltage.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_voltage_entry_stats_A_voltage.setTextVisible(False)
         self.segment_voltage_entry_stats_A_voltage.setObjectName("segment_voltage_entry_stats_A_voltage")
@@ -3382,7 +3382,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_7.setProperty("value", 48)
+        self.voltage_entry_bar_7.setProperty("value", 0)
         self.voltage_entry_bar_7.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_7.setTextVisible(False)
         self.voltage_entry_bar_7.setObjectName("voltage_entry_bar_7")
@@ -3470,7 +3470,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_6.setProperty("value", 48)
+        self.voltage_entry_bar_6.setProperty("value", 0)
         self.voltage_entry_bar_6.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_6.setTextVisible(False)
         self.voltage_entry_bar_6.setObjectName("voltage_entry_bar_6")
@@ -3558,7 +3558,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_8.setProperty("value", 48)
+        self.voltage_entry_bar_8.setProperty("value", 0)
         self.voltage_entry_bar_8.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_8.setTextVisible(False)
         self.voltage_entry_bar_8.setObjectName("voltage_entry_bar_8")
@@ -3646,7 +3646,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_9.setProperty("value", 48)
+        self.voltage_entry_bar_9.setProperty("value", 0)
         self.voltage_entry_bar_9.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_9.setTextVisible(False)
         self.voltage_entry_bar_9.setObjectName("voltage_entry_bar_9")
@@ -3722,7 +3722,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_2.setProperty("value", 48)
+        self.voltage_entry_bar_2.setProperty("value", 0)
         self.voltage_entry_bar_2.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_2.setTextVisible(False)
         self.voltage_entry_bar_2.setObjectName("voltage_entry_bar_2")
@@ -3822,7 +3822,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_3.setProperty("value", 48)
+        self.voltage_entry_bar_3.setProperty("value", 0)
         self.voltage_entry_bar_3.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_3.setTextVisible(False)
         self.voltage_entry_bar_3.setObjectName("voltage_entry_bar_3")
@@ -3910,7 +3910,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar.setProperty("value", 48)
+        self.voltage_entry_bar.setProperty("value", 0)
         self.voltage_entry_bar.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar.setTextVisible(False)
         self.voltage_entry_bar.setObjectName("voltage_entry_bar")
@@ -3998,7 +3998,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_10.setProperty("value", 48)
+        self.voltage_entry_bar_10.setProperty("value", 0)
         self.voltage_entry_bar_10.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_10.setTextVisible(False)
         self.voltage_entry_bar_10.setObjectName("voltage_entry_bar_10")
@@ -4086,7 +4086,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_4.setProperty("value", 48)
+        self.voltage_entry_bar_4.setProperty("value", 0)
         self.voltage_entry_bar_4.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_4.setTextVisible(False)
         self.voltage_entry_bar_4.setObjectName("voltage_entry_bar_4")
@@ -4180,7 +4180,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_5.setProperty("value", 48)
+        self.voltage_entry_bar_5.setProperty("value", 0)
         self.voltage_entry_bar_5.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_5.setTextVisible(False)
         self.voltage_entry_bar_5.setObjectName("voltage_entry_bar_5")
@@ -4268,7 +4268,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_11.setProperty("value", 48)
+        self.voltage_entry_bar_11.setProperty("value", 0)
         self.voltage_entry_bar_11.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_11.setTextVisible(False)
         self.voltage_entry_bar_11.setObjectName("voltage_entry_bar_11")
@@ -4329,7 +4329,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_voltage_entry_stats_A_voltage_2.setProperty("value", 48)
+        self.segment_voltage_entry_stats_A_voltage_2.setProperty("value", 0)
         self.segment_voltage_entry_stats_A_voltage_2.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_voltage_entry_stats_A_voltage_2.setTextVisible(False)
         self.segment_voltage_entry_stats_A_voltage_2.setObjectName("segment_voltage_entry_stats_A_voltage_2")
@@ -4577,7 +4577,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_12.setProperty("value", 48)
+        self.voltage_entry_bar_12.setProperty("value", 0)
         self.voltage_entry_bar_12.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_12.setTextVisible(False)
         self.voltage_entry_bar_12.setObjectName("voltage_entry_bar_12")
@@ -4665,7 +4665,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_18.setProperty("value", 48)
+        self.voltage_entry_bar_18.setProperty("value", 0)
         self.voltage_entry_bar_18.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_18.setTextVisible(False)
         self.voltage_entry_bar_18.setObjectName("voltage_entry_bar_18")
@@ -4753,7 +4753,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_13.setProperty("value", 48)
+        self.voltage_entry_bar_13.setProperty("value", 0)
         self.voltage_entry_bar_13.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_13.setTextVisible(False)
         self.voltage_entry_bar_13.setObjectName("voltage_entry_bar_13")
@@ -4841,7 +4841,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_14.setProperty("value", 48)
+        self.voltage_entry_bar_14.setProperty("value", 0)
         self.voltage_entry_bar_14.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_14.setTextVisible(False)
         self.voltage_entry_bar_14.setObjectName("voltage_entry_bar_14")
@@ -4929,7 +4929,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_17.setProperty("value", 48)
+        self.voltage_entry_bar_17.setProperty("value", 0)
         self.voltage_entry_bar_17.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_17.setTextVisible(False)
         self.voltage_entry_bar_17.setObjectName("voltage_entry_bar_17")
@@ -5017,7 +5017,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_21.setProperty("value", 48)
+        self.voltage_entry_bar_21.setProperty("value", 0)
         self.voltage_entry_bar_21.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_21.setTextVisible(False)
         self.voltage_entry_bar_21.setObjectName("voltage_entry_bar_21")
@@ -5105,7 +5105,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_20.setProperty("value", 48)
+        self.voltage_entry_bar_20.setProperty("value", 0)
         self.voltage_entry_bar_20.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_20.setTextVisible(False)
         self.voltage_entry_bar_20.setObjectName("voltage_entry_bar_20")
@@ -5193,7 +5193,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_19.setProperty("value", 48)
+        self.voltage_entry_bar_19.setProperty("value", 0)
         self.voltage_entry_bar_19.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_19.setTextVisible(False)
         self.voltage_entry_bar_19.setObjectName("voltage_entry_bar_19")
@@ -5275,7 +5275,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_16.setProperty("value", 48)
+        self.voltage_entry_bar_16.setProperty("value", 0)
         self.voltage_entry_bar_16.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_16.setTextVisible(False)
         self.voltage_entry_bar_16.setObjectName("voltage_entry_bar_16")
@@ -5375,7 +5375,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_15.setProperty("value", 48)
+        self.voltage_entry_bar_15.setProperty("value", 0)
         self.voltage_entry_bar_15.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_15.setTextVisible(False)
         self.voltage_entry_bar_15.setObjectName("voltage_entry_bar_15")
@@ -5634,7 +5634,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_voltage_head_entry_stats_C_voltage_3.setProperty("value", 48)
+        self.segment_voltage_head_entry_stats_C_voltage_3.setProperty("value", 0)
         self.segment_voltage_head_entry_stats_C_voltage_3.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_voltage_head_entry_stats_C_voltage_3.setTextVisible(False)
         self.segment_voltage_head_entry_stats_C_voltage_3.setObjectName("segment_voltage_head_entry_stats_C_voltage_3")
@@ -5681,7 +5681,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_voltage_head_entry_A_temperature_3.setProperty("value", 48)
+        self.segment_voltage_head_entry_A_temperature_3.setProperty("value", 0)
         self.segment_voltage_head_entry_A_temperature_3.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_voltage_head_entry_A_temperature_3.setTextVisible(False)
         self.segment_voltage_head_entry_A_temperature_3.setObjectName("segment_voltage_head_entry_A_temperature_3")
@@ -5690,7 +5690,7 @@ class Ui_MainWindow(object):
         self.segment_voltage_head_entry_A_nomality_3.setEnabled(False)
         self.segment_voltage_head_entry_A_nomality_3.setMinimumSize(QtCore.QSize(60, 20))
         self.segment_voltage_head_entry_A_nomality_3.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_voltage_head_entry_A_nomality_3.setStyleSheet("background-color: rgb(203, 120, 130);\n"
+        self.segment_voltage_head_entry_A_nomality_3.setStyleSheet("background-color: rgb(80, 203, 156);\n"
 "color: rgb(31, 31, 31);\n"
 "border: 4px;\n"
 "border-radius: 4px;")
@@ -5754,7 +5754,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_voltage_entry_stats_A_voltage_6.setProperty("value", 48)
+        self.segment_voltage_entry_stats_A_voltage_6.setProperty("value", 0)
         self.segment_voltage_entry_stats_A_voltage_6.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_voltage_entry_stats_A_voltage_6.setTextVisible(False)
         self.segment_voltage_entry_stats_A_voltage_6.setObjectName("segment_voltage_entry_stats_A_voltage_6")
@@ -6002,7 +6002,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_54.setProperty("value", 48)
+        self.voltage_entry_bar_54.setProperty("value", 0)
         self.voltage_entry_bar_54.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_54.setTextVisible(False)
         self.voltage_entry_bar_54.setObjectName("voltage_entry_bar_54")
@@ -6090,7 +6090,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_55.setProperty("value", 48)
+        self.voltage_entry_bar_55.setProperty("value", 0)
         self.voltage_entry_bar_55.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_55.setTextVisible(False)
         self.voltage_entry_bar_55.setObjectName("voltage_entry_bar_55")
@@ -6178,7 +6178,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_56.setProperty("value", 48)
+        self.voltage_entry_bar_56.setProperty("value", 0)
         self.voltage_entry_bar_56.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_56.setTextVisible(False)
         self.voltage_entry_bar_56.setObjectName("voltage_entry_bar_56")
@@ -6266,7 +6266,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_57.setProperty("value", 48)
+        self.voltage_entry_bar_57.setProperty("value", 0)
         self.voltage_entry_bar_57.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_57.setTextVisible(False)
         self.voltage_entry_bar_57.setObjectName("voltage_entry_bar_57")
@@ -6354,7 +6354,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_58.setProperty("value", 48)
+        self.voltage_entry_bar_58.setProperty("value", 0)
         self.voltage_entry_bar_58.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_58.setTextVisible(False)
         self.voltage_entry_bar_58.setObjectName("voltage_entry_bar_58")
@@ -6442,7 +6442,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_59.setProperty("value", 48)
+        self.voltage_entry_bar_59.setProperty("value", 0)
         self.voltage_entry_bar_59.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_59.setTextVisible(False)
         self.voltage_entry_bar_59.setObjectName("voltage_entry_bar_59")
@@ -6530,7 +6530,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_60.setProperty("value", 48)
+        self.voltage_entry_bar_60.setProperty("value", 0)
         self.voltage_entry_bar_60.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_60.setTextVisible(False)
         self.voltage_entry_bar_60.setObjectName("voltage_entry_bar_60")
@@ -6618,7 +6618,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_61.setProperty("value", 48)
+        self.voltage_entry_bar_61.setProperty("value", 0)
         self.voltage_entry_bar_61.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_61.setTextVisible(False)
         self.voltage_entry_bar_61.setObjectName("voltage_entry_bar_61")
@@ -6700,7 +6700,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_62.setProperty("value", 48)
+        self.voltage_entry_bar_62.setProperty("value", 0)
         self.voltage_entry_bar_62.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_62.setTextVisible(False)
         self.voltage_entry_bar_62.setObjectName("voltage_entry_bar_62")
@@ -6800,7 +6800,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_63.setProperty("value", 48)
+        self.voltage_entry_bar_63.setProperty("value", 0)
         self.voltage_entry_bar_63.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_63.setTextVisible(False)
         self.voltage_entry_bar_63.setObjectName("voltage_entry_bar_63")
@@ -6861,7 +6861,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_voltage_entry_stats_A_voltage_5.setProperty("value", 48)
+        self.segment_voltage_entry_stats_A_voltage_5.setProperty("value", 0)
         self.segment_voltage_entry_stats_A_voltage_5.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_voltage_entry_stats_A_voltage_5.setTextVisible(False)
         self.segment_voltage_entry_stats_A_voltage_5.setObjectName("segment_voltage_entry_stats_A_voltage_5")
@@ -7109,7 +7109,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_43.setProperty("value", 48)
+        self.voltage_entry_bar_43.setProperty("value", 0)
         self.voltage_entry_bar_43.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_43.setTextVisible(False)
         self.voltage_entry_bar_43.setObjectName("voltage_entry_bar_43")
@@ -7197,7 +7197,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_44.setProperty("value", 48)
+        self.voltage_entry_bar_44.setProperty("value", 0)
         self.voltage_entry_bar_44.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_44.setTextVisible(False)
         self.voltage_entry_bar_44.setObjectName("voltage_entry_bar_44")
@@ -7285,7 +7285,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_45.setProperty("value", 48)
+        self.voltage_entry_bar_45.setProperty("value", 0)
         self.voltage_entry_bar_45.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_45.setTextVisible(False)
         self.voltage_entry_bar_45.setObjectName("voltage_entry_bar_45")
@@ -7373,7 +7373,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_46.setProperty("value", 48)
+        self.voltage_entry_bar_46.setProperty("value", 0)
         self.voltage_entry_bar_46.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_46.setTextVisible(False)
         self.voltage_entry_bar_46.setObjectName("voltage_entry_bar_46")
@@ -7449,7 +7449,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_47.setProperty("value", 48)
+        self.voltage_entry_bar_47.setProperty("value", 0)
         self.voltage_entry_bar_47.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_47.setTextVisible(False)
         self.voltage_entry_bar_47.setObjectName("voltage_entry_bar_47")
@@ -7549,7 +7549,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_48.setProperty("value", 48)
+        self.voltage_entry_bar_48.setProperty("value", 0)
         self.voltage_entry_bar_48.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_48.setTextVisible(False)
         self.voltage_entry_bar_48.setObjectName("voltage_entry_bar_48")
@@ -7637,7 +7637,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_49.setProperty("value", 48)
+        self.voltage_entry_bar_49.setProperty("value", 0)
         self.voltage_entry_bar_49.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_49.setTextVisible(False)
         self.voltage_entry_bar_49.setObjectName("voltage_entry_bar_49")
@@ -7725,7 +7725,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_50.setProperty("value", 48)
+        self.voltage_entry_bar_50.setProperty("value", 0)
         self.voltage_entry_bar_50.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_50.setTextVisible(False)
         self.voltage_entry_bar_50.setObjectName("voltage_entry_bar_50")
@@ -7813,7 +7813,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_51.setProperty("value", 48)
+        self.voltage_entry_bar_51.setProperty("value", 0)
         self.voltage_entry_bar_51.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_51.setTextVisible(False)
         self.voltage_entry_bar_51.setObjectName("voltage_entry_bar_51")
@@ -7907,7 +7907,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_52.setProperty("value", 48)
+        self.voltage_entry_bar_52.setProperty("value", 0)
         self.voltage_entry_bar_52.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_52.setTextVisible(False)
         self.voltage_entry_bar_52.setObjectName("voltage_entry_bar_52")
@@ -7995,7 +7995,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_53.setProperty("value", 48)
+        self.voltage_entry_bar_53.setProperty("value", 0)
         self.voltage_entry_bar_53.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_53.setTextVisible(False)
         self.voltage_entry_bar_53.setObjectName("voltage_entry_bar_53")
@@ -8083,7 +8083,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_voltage_entry_stats_A_voltage_12.setProperty("value", 48)
+        self.segment_voltage_entry_stats_A_voltage_12.setProperty("value", 0)
         self.segment_voltage_entry_stats_A_voltage_12.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_voltage_entry_stats_A_voltage_12.setTextVisible(False)
         self.segment_voltage_entry_stats_A_voltage_12.setObjectName("segment_voltage_entry_stats_A_voltage_12")
@@ -8331,7 +8331,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_117.setProperty("value", 48)
+        self.voltage_entry_bar_117.setProperty("value", 0)
         self.voltage_entry_bar_117.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_117.setTextVisible(False)
         self.voltage_entry_bar_117.setObjectName("voltage_entry_bar_117")
@@ -8419,7 +8419,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_118.setProperty("value", 48)
+        self.voltage_entry_bar_118.setProperty("value", 0)
         self.voltage_entry_bar_118.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_118.setTextVisible(False)
         self.voltage_entry_bar_118.setObjectName("voltage_entry_bar_118")
@@ -8507,7 +8507,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_119.setProperty("value", 48)
+        self.voltage_entry_bar_119.setProperty("value", 0)
         self.voltage_entry_bar_119.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_119.setTextVisible(False)
         self.voltage_entry_bar_119.setObjectName("voltage_entry_bar_119")
@@ -8595,7 +8595,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_120.setProperty("value", 48)
+        self.voltage_entry_bar_120.setProperty("value", 0)
         self.voltage_entry_bar_120.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_120.setTextVisible(False)
         self.voltage_entry_bar_120.setObjectName("voltage_entry_bar_120")
@@ -8683,7 +8683,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_121.setProperty("value", 48)
+        self.voltage_entry_bar_121.setProperty("value", 0)
         self.voltage_entry_bar_121.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_121.setTextVisible(False)
         self.voltage_entry_bar_121.setObjectName("voltage_entry_bar_121")
@@ -8771,7 +8771,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_122.setProperty("value", 48)
+        self.voltage_entry_bar_122.setProperty("value", 0)
         self.voltage_entry_bar_122.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_122.setTextVisible(False)
         self.voltage_entry_bar_122.setObjectName("voltage_entry_bar_122")
@@ -8859,7 +8859,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_123.setProperty("value", 48)
+        self.voltage_entry_bar_123.setProperty("value", 0)
         self.voltage_entry_bar_123.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_123.setTextVisible(False)
         self.voltage_entry_bar_123.setObjectName("voltage_entry_bar_123")
@@ -8947,7 +8947,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_124.setProperty("value", 48)
+        self.voltage_entry_bar_124.setProperty("value", 0)
         self.voltage_entry_bar_124.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_124.setTextVisible(False)
         self.voltage_entry_bar_124.setObjectName("voltage_entry_bar_124")
@@ -9029,7 +9029,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_125.setProperty("value", 48)
+        self.voltage_entry_bar_125.setProperty("value", 0)
         self.voltage_entry_bar_125.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_125.setTextVisible(False)
         self.voltage_entry_bar_125.setObjectName("voltage_entry_bar_125")
@@ -9129,7 +9129,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_126.setProperty("value", 48)
+        self.voltage_entry_bar_126.setProperty("value", 0)
         self.voltage_entry_bar_126.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_126.setTextVisible(False)
         self.voltage_entry_bar_126.setObjectName("voltage_entry_bar_126")
@@ -9190,7 +9190,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_voltage_entry_stats_A_voltage_11.setProperty("value", 48)
+        self.segment_voltage_entry_stats_A_voltage_11.setProperty("value", 0)
         self.segment_voltage_entry_stats_A_voltage_11.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_voltage_entry_stats_A_voltage_11.setTextVisible(False)
         self.segment_voltage_entry_stats_A_voltage_11.setObjectName("segment_voltage_entry_stats_A_voltage_11")
@@ -9438,7 +9438,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_106.setProperty("value", 48)
+        self.voltage_entry_bar_106.setProperty("value", 0)
         self.voltage_entry_bar_106.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_106.setTextVisible(False)
         self.voltage_entry_bar_106.setObjectName("voltage_entry_bar_106")
@@ -9526,7 +9526,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_107.setProperty("value", 48)
+        self.voltage_entry_bar_107.setProperty("value", 0)
         self.voltage_entry_bar_107.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_107.setTextVisible(False)
         self.voltage_entry_bar_107.setObjectName("voltage_entry_bar_107")
@@ -9614,7 +9614,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_108.setProperty("value", 48)
+        self.voltage_entry_bar_108.setProperty("value", 0)
         self.voltage_entry_bar_108.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_108.setTextVisible(False)
         self.voltage_entry_bar_108.setObjectName("voltage_entry_bar_108")
@@ -9702,7 +9702,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_109.setProperty("value", 48)
+        self.voltage_entry_bar_109.setProperty("value", 0)
         self.voltage_entry_bar_109.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_109.setTextVisible(False)
         self.voltage_entry_bar_109.setObjectName("voltage_entry_bar_109")
@@ -9778,7 +9778,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_110.setProperty("value", 48)
+        self.voltage_entry_bar_110.setProperty("value", 0)
         self.voltage_entry_bar_110.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_110.setTextVisible(False)
         self.voltage_entry_bar_110.setObjectName("voltage_entry_bar_110")
@@ -9878,7 +9878,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_111.setProperty("value", 48)
+        self.voltage_entry_bar_111.setProperty("value", 0)
         self.voltage_entry_bar_111.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_111.setTextVisible(False)
         self.voltage_entry_bar_111.setObjectName("voltage_entry_bar_111")
@@ -9966,7 +9966,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_112.setProperty("value", 48)
+        self.voltage_entry_bar_112.setProperty("value", 0)
         self.voltage_entry_bar_112.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_112.setTextVisible(False)
         self.voltage_entry_bar_112.setObjectName("voltage_entry_bar_112")
@@ -10054,7 +10054,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_113.setProperty("value", 48)
+        self.voltage_entry_bar_113.setProperty("value", 0)
         self.voltage_entry_bar_113.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_113.setTextVisible(False)
         self.voltage_entry_bar_113.setObjectName("voltage_entry_bar_113")
@@ -10142,7 +10142,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_114.setProperty("value", 48)
+        self.voltage_entry_bar_114.setProperty("value", 0)
         self.voltage_entry_bar_114.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_114.setTextVisible(False)
         self.voltage_entry_bar_114.setObjectName("voltage_entry_bar_114")
@@ -10236,7 +10236,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_115.setProperty("value", 48)
+        self.voltage_entry_bar_115.setProperty("value", 0)
         self.voltage_entry_bar_115.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_115.setTextVisible(False)
         self.voltage_entry_bar_115.setObjectName("voltage_entry_bar_115")
@@ -10324,7 +10324,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_116.setProperty("value", 48)
+        self.voltage_entry_bar_116.setProperty("value", 0)
         self.voltage_entry_bar_116.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_116.setTextVisible(False)
         self.voltage_entry_bar_116.setObjectName("voltage_entry_bar_116")
@@ -10517,7 +10517,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_voltage_head_entry_stats_C_voltage_6.setProperty("value", 48)
+        self.segment_voltage_head_entry_stats_C_voltage_6.setProperty("value", 0)
         self.segment_voltage_head_entry_stats_C_voltage_6.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_voltage_head_entry_stats_C_voltage_6.setTextVisible(False)
         self.segment_voltage_head_entry_stats_C_voltage_6.setObjectName("segment_voltage_head_entry_stats_C_voltage_6")
@@ -10564,7 +10564,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_voltage_head_entry_A_temperature_6.setProperty("value", 48)
+        self.segment_voltage_head_entry_A_temperature_6.setProperty("value", 0)
         self.segment_voltage_head_entry_A_temperature_6.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_voltage_head_entry_A_temperature_6.setTextVisible(False)
         self.segment_voltage_head_entry_A_temperature_6.setObjectName("segment_voltage_head_entry_A_temperature_6")
@@ -10573,7 +10573,7 @@ class Ui_MainWindow(object):
         self.segment_voltage_head_entry_A_nomality_6.setEnabled(False)
         self.segment_voltage_head_entry_A_nomality_6.setMinimumSize(QtCore.QSize(60, 20))
         self.segment_voltage_head_entry_A_nomality_6.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_voltage_head_entry_A_nomality_6.setStyleSheet("background-color: rgb(203, 120, 130);\n"
+        self.segment_voltage_head_entry_A_nomality_6.setStyleSheet("background-color: rgb(80, 203, 156);\n"
 "color: rgb(31, 31, 31);\n"
 "border: 4px;\n"
 "border-radius: 4px;")
@@ -10664,7 +10664,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_voltage_entry_stats_A_voltage_3.setProperty("value", 48)
+        self.segment_voltage_entry_stats_A_voltage_3.setProperty("value", 0)
         self.segment_voltage_entry_stats_A_voltage_3.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_voltage_entry_stats_A_voltage_3.setTextVisible(False)
         self.segment_voltage_entry_stats_A_voltage_3.setObjectName("segment_voltage_entry_stats_A_voltage_3")
@@ -10912,7 +10912,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_22.setProperty("value", 48)
+        self.voltage_entry_bar_22.setProperty("value", 0)
         self.voltage_entry_bar_22.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_22.setTextVisible(False)
         self.voltage_entry_bar_22.setObjectName("voltage_entry_bar_22")
@@ -11000,7 +11000,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_23.setProperty("value", 48)
+        self.voltage_entry_bar_23.setProperty("value", 0)
         self.voltage_entry_bar_23.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_23.setTextVisible(False)
         self.voltage_entry_bar_23.setObjectName("voltage_entry_bar_23")
@@ -11088,7 +11088,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_24.setProperty("value", 48)
+        self.voltage_entry_bar_24.setProperty("value", 0)
         self.voltage_entry_bar_24.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_24.setTextVisible(False)
         self.voltage_entry_bar_24.setObjectName("voltage_entry_bar_24")
@@ -11176,7 +11176,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_25.setProperty("value", 48)
+        self.voltage_entry_bar_25.setProperty("value", 0)
         self.voltage_entry_bar_25.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_25.setTextVisible(False)
         self.voltage_entry_bar_25.setObjectName("voltage_entry_bar_25")
@@ -11252,7 +11252,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_26.setProperty("value", 48)
+        self.voltage_entry_bar_26.setProperty("value", 0)
         self.voltage_entry_bar_26.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_26.setTextVisible(False)
         self.voltage_entry_bar_26.setObjectName("voltage_entry_bar_26")
@@ -11352,7 +11352,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_27.setProperty("value", 48)
+        self.voltage_entry_bar_27.setProperty("value", 0)
         self.voltage_entry_bar_27.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_27.setTextVisible(False)
         self.voltage_entry_bar_27.setObjectName("voltage_entry_bar_27")
@@ -11440,7 +11440,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_28.setProperty("value", 48)
+        self.voltage_entry_bar_28.setProperty("value", 0)
         self.voltage_entry_bar_28.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_28.setTextVisible(False)
         self.voltage_entry_bar_28.setObjectName("voltage_entry_bar_28")
@@ -11528,7 +11528,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_29.setProperty("value", 48)
+        self.voltage_entry_bar_29.setProperty("value", 0)
         self.voltage_entry_bar_29.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_29.setTextVisible(False)
         self.voltage_entry_bar_29.setObjectName("voltage_entry_bar_29")
@@ -11616,7 +11616,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_30.setProperty("value", 48)
+        self.voltage_entry_bar_30.setProperty("value", 0)
         self.voltage_entry_bar_30.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_30.setTextVisible(False)
         self.voltage_entry_bar_30.setObjectName("voltage_entry_bar_30")
@@ -11710,7 +11710,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_31.setProperty("value", 48)
+        self.voltage_entry_bar_31.setProperty("value", 0)
         self.voltage_entry_bar_31.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_31.setTextVisible(False)
         self.voltage_entry_bar_31.setObjectName("voltage_entry_bar_31")
@@ -11798,7 +11798,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_32.setProperty("value", 48)
+        self.voltage_entry_bar_32.setProperty("value", 0)
         self.voltage_entry_bar_32.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_32.setTextVisible(False)
         self.voltage_entry_bar_32.setObjectName("voltage_entry_bar_32")
@@ -11991,7 +11991,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_voltage_head_entry_stats_C_voltage_2.setProperty("value", 48)
+        self.segment_voltage_head_entry_stats_C_voltage_2.setProperty("value", 0)
         self.segment_voltage_head_entry_stats_C_voltage_2.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_voltage_head_entry_stats_C_voltage_2.setTextVisible(False)
         self.segment_voltage_head_entry_stats_C_voltage_2.setObjectName("segment_voltage_head_entry_stats_C_voltage_2")
@@ -12038,7 +12038,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_voltage_head_entry_A_temperature_2.setProperty("value", 48)
+        self.segment_voltage_head_entry_A_temperature_2.setProperty("value", 0)
         self.segment_voltage_head_entry_A_temperature_2.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_voltage_head_entry_A_temperature_2.setTextVisible(False)
         self.segment_voltage_head_entry_A_temperature_2.setObjectName("segment_voltage_head_entry_A_temperature_2")
@@ -12047,7 +12047,7 @@ class Ui_MainWindow(object):
         self.segment_voltage_head_entry_A_nomality_2.setEnabled(False)
         self.segment_voltage_head_entry_A_nomality_2.setMinimumSize(QtCore.QSize(60, 20))
         self.segment_voltage_head_entry_A_nomality_2.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_voltage_head_entry_A_nomality_2.setStyleSheet("background-color: rgb(203, 120, 130);\n"
+        self.segment_voltage_head_entry_A_nomality_2.setStyleSheet("background-color: rgb(80, 203, 156);\n"
 "color: rgb(31, 31, 31);\n"
 "border: 4px;\n"
 "border-radius: 4px;")
@@ -12111,7 +12111,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_voltage_entry_stats_A_voltage_4.setProperty("value", 48)
+        self.segment_voltage_entry_stats_A_voltage_4.setProperty("value", 0)
         self.segment_voltage_entry_stats_A_voltage_4.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_voltage_entry_stats_A_voltage_4.setTextVisible(False)
         self.segment_voltage_entry_stats_A_voltage_4.setObjectName("segment_voltage_entry_stats_A_voltage_4")
@@ -12359,7 +12359,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_33.setProperty("value", 48)
+        self.voltage_entry_bar_33.setProperty("value", 0)
         self.voltage_entry_bar_33.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_33.setTextVisible(False)
         self.voltage_entry_bar_33.setObjectName("voltage_entry_bar_33")
@@ -12447,7 +12447,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_34.setProperty("value", 48)
+        self.voltage_entry_bar_34.setProperty("value", 0)
         self.voltage_entry_bar_34.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_34.setTextVisible(False)
         self.voltage_entry_bar_34.setObjectName("voltage_entry_bar_34")
@@ -12535,7 +12535,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_35.setProperty("value", 48)
+        self.voltage_entry_bar_35.setProperty("value", 0)
         self.voltage_entry_bar_35.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_35.setTextVisible(False)
         self.voltage_entry_bar_35.setObjectName("voltage_entry_bar_35")
@@ -12623,7 +12623,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_36.setProperty("value", 48)
+        self.voltage_entry_bar_36.setProperty("value", 0)
         self.voltage_entry_bar_36.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_36.setTextVisible(False)
         self.voltage_entry_bar_36.setObjectName("voltage_entry_bar_36")
@@ -12711,7 +12711,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_37.setProperty("value", 48)
+        self.voltage_entry_bar_37.setProperty("value", 0)
         self.voltage_entry_bar_37.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_37.setTextVisible(False)
         self.voltage_entry_bar_37.setObjectName("voltage_entry_bar_37")
@@ -12799,7 +12799,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_38.setProperty("value", 48)
+        self.voltage_entry_bar_38.setProperty("value", 0)
         self.voltage_entry_bar_38.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_38.setTextVisible(False)
         self.voltage_entry_bar_38.setObjectName("voltage_entry_bar_38")
@@ -12887,7 +12887,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_39.setProperty("value", 48)
+        self.voltage_entry_bar_39.setProperty("value", 0)
         self.voltage_entry_bar_39.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_39.setTextVisible(False)
         self.voltage_entry_bar_39.setObjectName("voltage_entry_bar_39")
@@ -12975,7 +12975,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_40.setProperty("value", 48)
+        self.voltage_entry_bar_40.setProperty("value", 0)
         self.voltage_entry_bar_40.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_40.setTextVisible(False)
         self.voltage_entry_bar_40.setObjectName("voltage_entry_bar_40")
@@ -13057,7 +13057,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_41.setProperty("value", 48)
+        self.voltage_entry_bar_41.setProperty("value", 0)
         self.voltage_entry_bar_41.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_41.setTextVisible(False)
         self.voltage_entry_bar_41.setObjectName("voltage_entry_bar_41")
@@ -13157,7 +13157,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_42.setProperty("value", 48)
+        self.voltage_entry_bar_42.setProperty("value", 0)
         self.voltage_entry_bar_42.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_42.setTextVisible(False)
         self.voltage_entry_bar_42.setObjectName("voltage_entry_bar_42")
@@ -13232,7 +13232,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_voltage_entry_stats_A_voltage_9.setProperty("value", 48)
+        self.segment_voltage_entry_stats_A_voltage_9.setProperty("value", 0)
         self.segment_voltage_entry_stats_A_voltage_9.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_voltage_entry_stats_A_voltage_9.setTextVisible(False)
         self.segment_voltage_entry_stats_A_voltage_9.setObjectName("segment_voltage_entry_stats_A_voltage_9")
@@ -13480,7 +13480,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_85.setProperty("value", 48)
+        self.voltage_entry_bar_85.setProperty("value", 0)
         self.voltage_entry_bar_85.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_85.setTextVisible(False)
         self.voltage_entry_bar_85.setObjectName("voltage_entry_bar_85")
@@ -13568,7 +13568,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_86.setProperty("value", 48)
+        self.voltage_entry_bar_86.setProperty("value", 0)
         self.voltage_entry_bar_86.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_86.setTextVisible(False)
         self.voltage_entry_bar_86.setObjectName("voltage_entry_bar_86")
@@ -13656,7 +13656,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_87.setProperty("value", 48)
+        self.voltage_entry_bar_87.setProperty("value", 0)
         self.voltage_entry_bar_87.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_87.setTextVisible(False)
         self.voltage_entry_bar_87.setObjectName("voltage_entry_bar_87")
@@ -13744,7 +13744,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_88.setProperty("value", 48)
+        self.voltage_entry_bar_88.setProperty("value", 0)
         self.voltage_entry_bar_88.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_88.setTextVisible(False)
         self.voltage_entry_bar_88.setObjectName("voltage_entry_bar_88")
@@ -13820,7 +13820,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_89.setProperty("value", 48)
+        self.voltage_entry_bar_89.setProperty("value", 0)
         self.voltage_entry_bar_89.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_89.setTextVisible(False)
         self.voltage_entry_bar_89.setObjectName("voltage_entry_bar_89")
@@ -13920,7 +13920,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_90.setProperty("value", 48)
+        self.voltage_entry_bar_90.setProperty("value", 0)
         self.voltage_entry_bar_90.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_90.setTextVisible(False)
         self.voltage_entry_bar_90.setObjectName("voltage_entry_bar_90")
@@ -14008,7 +14008,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_91.setProperty("value", 48)
+        self.voltage_entry_bar_91.setProperty("value", 0)
         self.voltage_entry_bar_91.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_91.setTextVisible(False)
         self.voltage_entry_bar_91.setObjectName("voltage_entry_bar_91")
@@ -14096,7 +14096,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_92.setProperty("value", 48)
+        self.voltage_entry_bar_92.setProperty("value", 0)
         self.voltage_entry_bar_92.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_92.setTextVisible(False)
         self.voltage_entry_bar_92.setObjectName("voltage_entry_bar_92")
@@ -14184,7 +14184,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_93.setProperty("value", 48)
+        self.voltage_entry_bar_93.setProperty("value", 0)
         self.voltage_entry_bar_93.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_93.setTextVisible(False)
         self.voltage_entry_bar_93.setObjectName("voltage_entry_bar_93")
@@ -14278,7 +14278,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_94.setProperty("value", 48)
+        self.voltage_entry_bar_94.setProperty("value", 0)
         self.voltage_entry_bar_94.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_94.setTextVisible(False)
         self.voltage_entry_bar_94.setObjectName("voltage_entry_bar_94")
@@ -14366,7 +14366,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_95.setProperty("value", 48)
+        self.voltage_entry_bar_95.setProperty("value", 0)
         self.voltage_entry_bar_95.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_95.setTextVisible(False)
         self.voltage_entry_bar_95.setObjectName("voltage_entry_bar_95")
@@ -14559,7 +14559,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_voltage_head_entry_stats_C_voltage_5.setProperty("value", 48)
+        self.segment_voltage_head_entry_stats_C_voltage_5.setProperty("value", 0)
         self.segment_voltage_head_entry_stats_C_voltage_5.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_voltage_head_entry_stats_C_voltage_5.setTextVisible(False)
         self.segment_voltage_head_entry_stats_C_voltage_5.setObjectName("segment_voltage_head_entry_stats_C_voltage_5")
@@ -14606,7 +14606,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_voltage_head_entry_A_temperature_5.setProperty("value", 48)
+        self.segment_voltage_head_entry_A_temperature_5.setProperty("value", 0)
         self.segment_voltage_head_entry_A_temperature_5.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_voltage_head_entry_A_temperature_5.setTextVisible(False)
         self.segment_voltage_head_entry_A_temperature_5.setObjectName("segment_voltage_head_entry_A_temperature_5")
@@ -14615,7 +14615,7 @@ class Ui_MainWindow(object):
         self.segment_voltage_head_entry_A_nomality_5.setEnabled(False)
         self.segment_voltage_head_entry_A_nomality_5.setMinimumSize(QtCore.QSize(60, 20))
         self.segment_voltage_head_entry_A_nomality_5.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_voltage_head_entry_A_nomality_5.setStyleSheet("background-color: rgb(203, 120, 130);\n"
+        self.segment_voltage_head_entry_A_nomality_5.setStyleSheet("background-color: rgb(80, 203, 156);\n"
 "color: rgb(31, 31, 31);\n"
 "border: 4px;\n"
 "border-radius: 4px;")
@@ -14679,7 +14679,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_voltage_entry_stats_A_voltage_10.setProperty("value", 48)
+        self.segment_voltage_entry_stats_A_voltage_10.setProperty("value", 0)
         self.segment_voltage_entry_stats_A_voltage_10.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_voltage_entry_stats_A_voltage_10.setTextVisible(False)
         self.segment_voltage_entry_stats_A_voltage_10.setObjectName("segment_voltage_entry_stats_A_voltage_10")
@@ -14927,7 +14927,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_96.setProperty("value", 48)
+        self.voltage_entry_bar_96.setProperty("value", 0)
         self.voltage_entry_bar_96.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_96.setTextVisible(False)
         self.voltage_entry_bar_96.setObjectName("voltage_entry_bar_96")
@@ -15015,7 +15015,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_97.setProperty("value", 48)
+        self.voltage_entry_bar_97.setProperty("value", 0)
         self.voltage_entry_bar_97.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_97.setTextVisible(False)
         self.voltage_entry_bar_97.setObjectName("voltage_entry_bar_97")
@@ -15103,7 +15103,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_98.setProperty("value", 48)
+        self.voltage_entry_bar_98.setProperty("value", 0)
         self.voltage_entry_bar_98.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_98.setTextVisible(False)
         self.voltage_entry_bar_98.setObjectName("voltage_entry_bar_98")
@@ -15191,7 +15191,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_99.setProperty("value", 48)
+        self.voltage_entry_bar_99.setProperty("value", 0)
         self.voltage_entry_bar_99.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_99.setTextVisible(False)
         self.voltage_entry_bar_99.setObjectName("voltage_entry_bar_99")
@@ -15279,7 +15279,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_100.setProperty("value", 48)
+        self.voltage_entry_bar_100.setProperty("value", 0)
         self.voltage_entry_bar_100.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_100.setTextVisible(False)
         self.voltage_entry_bar_100.setObjectName("voltage_entry_bar_100")
@@ -15367,7 +15367,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_101.setProperty("value", 48)
+        self.voltage_entry_bar_101.setProperty("value", 0)
         self.voltage_entry_bar_101.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_101.setTextVisible(False)
         self.voltage_entry_bar_101.setObjectName("voltage_entry_bar_101")
@@ -15455,7 +15455,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_102.setProperty("value", 48)
+        self.voltage_entry_bar_102.setProperty("value", 0)
         self.voltage_entry_bar_102.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_102.setTextVisible(False)
         self.voltage_entry_bar_102.setObjectName("voltage_entry_bar_102")
@@ -15543,7 +15543,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_103.setProperty("value", 48)
+        self.voltage_entry_bar_103.setProperty("value", 0)
         self.voltage_entry_bar_103.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_103.setTextVisible(False)
         self.voltage_entry_bar_103.setObjectName("voltage_entry_bar_103")
@@ -15625,7 +15625,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_104.setProperty("value", 48)
+        self.voltage_entry_bar_104.setProperty("value", 0)
         self.voltage_entry_bar_104.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_104.setTextVisible(False)
         self.voltage_entry_bar_104.setObjectName("voltage_entry_bar_104")
@@ -15725,7 +15725,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.voltage_entry_bar_105.setProperty("value", 48)
+        self.voltage_entry_bar_105.setProperty("value", 0)
         self.voltage_entry_bar_105.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.voltage_entry_bar_105.setTextVisible(False)
         self.voltage_entry_bar_105.setObjectName("voltage_entry_bar_105")
@@ -15955,7 +15955,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_temperature_head_entry_stats_C_voltage.setProperty("value", 48)
+        self.segment_temperature_head_entry_stats_C_voltage.setProperty("value", 0)
         self.segment_temperature_head_entry_stats_C_voltage.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_temperature_head_entry_stats_C_voltage.setTextVisible(False)
         self.segment_temperature_head_entry_stats_C_voltage.setObjectName("segment_temperature_head_entry_stats_C_voltage")
@@ -16002,7 +16002,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_temperature_head_entry_A_temperature.setProperty("value", 48)
+        self.segment_temperature_head_entry_A_temperature.setProperty("value", 0)
         self.segment_temperature_head_entry_A_temperature.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_temperature_head_entry_A_temperature.setTextVisible(False)
         self.segment_temperature_head_entry_A_temperature.setObjectName("segment_temperature_head_entry_A_temperature")
@@ -16011,7 +16011,7 @@ class Ui_MainWindow(object):
         self.segment_temperature_head_entry_A_nomality.setEnabled(False)
         self.segment_temperature_head_entry_A_nomality.setMinimumSize(QtCore.QSize(60, 20))
         self.segment_temperature_head_entry_A_nomality.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_head_entry_A_nomality.setStyleSheet("background-color: rgb(203, 120, 130);\n"
+        self.segment_temperature_head_entry_A_nomality.setStyleSheet("background-color: rgb(80, 203, 156);\n"
 "color: rgb(31, 31, 31);\n"
 "border: 4px;\n"
 "border-radius: 4px;")
@@ -16022,654 +16022,6 @@ class Ui_MainWindow(object):
         self.segment_entry_stats_Al_15.addWidget(self.segment_temperature_head_entry_A_nomality, 0, 1, 1, 1)
         self.gridLayout_66.addWidget(self.segment_temperature_head_entry_stats_A, 5, 0, 1, 1)
         self.segment_entry_wrapper_4.addWidget(self.segment_temperature_head_entry_header, 1, 0, 1, 1)
-        self.segment_temperature_entry_frame = QtWidgets.QFrame(self.segment_temperature_head_entry)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temperature_entry_frame.sizePolicy().hasHeightForWidth())
-        self.segment_temperature_entry_frame.setSizePolicy(sizePolicy)
-        self.segment_temperature_entry_frame.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.segment_temperature_entry_frame.setObjectName("segment_temperature_entry_frame")
-        self.segment_entry_wrapper = QtWidgets.QGridLayout(self.segment_temperature_entry_frame)
-        self.segment_entry_wrapper.setContentsMargins(0, 0, 0, 0)
-        self.segment_entry_wrapper.setSpacing(0)
-        self.segment_entry_wrapper.setObjectName("segment_entry_wrapper")
-        self.segment_temperature_entry_header = QtWidgets.QFrame(self.segment_temperature_entry_frame)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Fixed)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temperature_entry_header.sizePolicy().hasHeightForWidth())
-        self.segment_temperature_entry_header.setSizePolicy(sizePolicy)
-        self.segment_temperature_entry_header.setMinimumSize(QtCore.QSize(150, 0))
-        self.segment_temperature_entry_header.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.segment_temperature_entry_header.setObjectName("segment_temperature_entry_header")
-        self.gridLayout_38 = QtWidgets.QGridLayout(self.segment_temperature_entry_header)
-        self.gridLayout_38.setContentsMargins(0, 0, 0, 0)
-        self.gridLayout_38.setSpacing(0)
-        self.gridLayout_38.setObjectName("gridLayout_38")
-        self.segment_temperature_entry_id = QtWidgets.QTextBrowser(self.segment_temperature_entry_header)
-        self.segment_temperature_entry_id.setEnabled(False)
-        self.segment_temperature_entry_id.setMinimumSize(QtCore.QSize(0, 20))
-        self.segment_temperature_entry_id.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_entry_id.setStyleSheet("background-color: rgb(230, 230, 230);\n"
-"color: rgb(31, 31, 31);\n"
-"border: 4px;\n"
-"border-radius: 4px;")
-        self.segment_temperature_entry_id.setLineWidth(0)
-        self.segment_temperature_entry_id.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_id.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_id.setObjectName("segment_temperature_entry_id")
-        self.gridLayout_38.addWidget(self.segment_temperature_entry_id, 0, 0, 1, 1)
-        self.segment_temperature_entry_stats_A = QtWidgets.QFrame(self.segment_temperature_entry_header)
-        self.segment_temperature_entry_stats_A.setMinimumSize(QtCore.QSize(0, 20))
-        self.segment_temperature_entry_stats_A.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_entry_stats_A.setObjectName("segment_temperature_entry_stats_A")
-        self.segment_entry_stats_Al_12 = QtWidgets.QGridLayout(self.segment_temperature_entry_stats_A)
-        self.segment_entry_stats_Al_12.setContentsMargins(0, 0, 0, 0)
-        self.segment_entry_stats_Al_12.setHorizontalSpacing(6)
-        self.segment_entry_stats_Al_12.setVerticalSpacing(0)
-        self.segment_entry_stats_Al_12.setObjectName("segment_entry_stats_Al_12")
-        self.segment_temperature_entry_stats_A_temperature = QtWidgets.QProgressBar(self.segment_temperature_entry_stats_A)
-        self.segment_temperature_entry_stats_A_temperature.setMinimumSize(QtCore.QSize(0, 12))
-        self.segment_temperature_entry_stats_A_temperature.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.segment_temperature_entry_stats_A_temperature.setStyleSheet("QProgressBar\n"
-"{\n"
-"background-color: rgb(31, 31, 31);\n"
-"border-radius: 4px;\n"
-"border: 1px solid rgb(145, 145, 145);\n"
-"margin-left: 8px;\n"
-"margin-right: 8px;\n"
-"}\n"
-"\n"
-"QProgressBar::chunk\n"
-"{\n"
-"background-color: rgb(203, 120, 130);\n"
-"border-radius: 4px;\n"
-"border: 4px;\n"
-"margin:2px;\n"
-"}")
-        self.segment_temperature_entry_stats_A_temperature.setProperty("value", 48)
-        self.segment_temperature_entry_stats_A_temperature.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
-        self.segment_temperature_entry_stats_A_temperature.setTextVisible(False)
-        self.segment_temperature_entry_stats_A_temperature.setObjectName("segment_temperature_entry_stats_A_temperature")
-        self.segment_entry_stats_Al_12.addWidget(self.segment_temperature_entry_stats_A_temperature, 0, 2, 1, 1)
-        self.segment_temperature_entry_stats_A_nomality = QtWidgets.QTextBrowser(self.segment_temperature_entry_stats_A)
-        self.segment_temperature_entry_stats_A_nomality.setEnabled(False)
-        self.segment_temperature_entry_stats_A_nomality.setMinimumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_entry_stats_A_nomality.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_entry_stats_A_nomality.setStyleSheet("background-color: rgb(203, 120, 130);\n"
-"color: rgb(31, 31, 31);\n"
-"border: 4px;\n"
-"border-radius: 4px;")
-        self.segment_temperature_entry_stats_A_nomality.setLineWidth(0)
-        self.segment_temperature_entry_stats_A_nomality.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_stats_A_nomality.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_stats_A_nomality.setObjectName("segment_temperature_entry_stats_A_nomality")
-        self.segment_entry_stats_Al_12.addWidget(self.segment_temperature_entry_stats_A_nomality, 0, 1, 1, 1)
-        self.gridLayout_38.addWidget(self.segment_temperature_entry_stats_A, 2, 0, 1, 1)
-        self.segment_temperature_entry_stats_B = QtWidgets.QFrame(self.segment_temperature_entry_header)
-        self.segment_temperature_entry_stats_B.setMinimumSize(QtCore.QSize(0, 20))
-        self.segment_temperature_entry_stats_B.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_entry_stats_B.setObjectName("segment_temperature_entry_stats_B")
-        self.segment_entry_stats_Bl_11 = QtWidgets.QGridLayout(self.segment_temperature_entry_stats_B)
-        self.segment_entry_stats_Bl_11.setContentsMargins(0, 0, 0, 0)
-        self.segment_entry_stats_Bl_11.setHorizontalSpacing(2)
-        self.segment_entry_stats_Bl_11.setVerticalSpacing(0)
-        self.segment_entry_stats_Bl_11.setObjectName("segment_entry_stats_Bl_11")
-        self.segment_temperature_entry_stats_B_value = QtWidgets.QTextBrowser(self.segment_temperature_entry_stats_B)
-        self.segment_temperature_entry_stats_B_value.setEnabled(False)
-        self.segment_temperature_entry_stats_B_value.setMinimumSize(QtCore.QSize(50, 20))
-        self.segment_temperature_entry_stats_B_value.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_entry_stats_B_value.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.segment_temperature_entry_stats_B_value.setLineWidth(0)
-        self.segment_temperature_entry_stats_B_value.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_stats_B_value.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_stats_B_value.setObjectName("segment_temperature_entry_stats_B_value")
-        self.segment_entry_stats_Bl_11.addWidget(self.segment_temperature_entry_stats_B_value, 0, 1, 1, 1)
-        self.segment_temperature_entry_stats_B_name = QtWidgets.QTextBrowser(self.segment_temperature_entry_stats_B)
-        self.segment_temperature_entry_stats_B_name.setEnabled(False)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Preferred)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temperature_entry_stats_B_name.sizePolicy().hasHeightForWidth())
-        self.segment_temperature_entry_stats_B_name.setSizePolicy(sizePolicy)
-        self.segment_temperature_entry_stats_B_name.setMinimumSize(QtCore.QSize(108, 20))
-        self.segment_temperature_entry_stats_B_name.setMaximumSize(QtCore.QSize(108, 20))
-        self.segment_temperature_entry_stats_B_name.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.segment_temperature_entry_stats_B_name.setLineWidth(0)
-        self.segment_temperature_entry_stats_B_name.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_stats_B_name.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_stats_B_name.setObjectName("segment_temperature_entry_stats_B_name")
-        self.segment_entry_stats_Bl_11.addWidget(self.segment_temperature_entry_stats_B_name, 0, 0, 1, 1)
-        self.gridLayout_38.addWidget(self.segment_temperature_entry_stats_B, 1, 0, 1, 1)
-        self.segment_temperature_entry_label = QtWidgets.QFrame(self.segment_temperature_entry_header)
-        self.segment_temperature_entry_label.setMinimumSize(QtCore.QSize(0, 20))
-        self.segment_temperature_entry_label.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_entry_label.setObjectName("segment_temperature_entry_label")
-        self.segment_entry_stats_Al_11 = QtWidgets.QGridLayout(self.segment_temperature_entry_label)
-        self.segment_entry_stats_Al_11.setContentsMargins(0, 0, 0, 0)
-        self.segment_entry_stats_Al_11.setSpacing(0)
-        self.segment_entry_stats_Al_11.setObjectName("segment_entry_stats_Al_11")
-        self.segment_temperature_entry_label_C = QtWidgets.QTextBrowser(self.segment_temperature_entry_label)
-        self.segment_temperature_entry_label_C.setEnabled(False)
-        self.segment_temperature_entry_label_C.setMinimumSize(QtCore.QSize(0, 16))
-        self.segment_temperature_entry_label_C.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.segment_temperature_entry_label_C.setStyleSheet("background-color: rgb(230, 230, 230);\n"
-"color: rgb(31, 31, 31);\n"
-"border: 4px;\n"
-"\n"
-"border-top-right-radius: 4px;\n"
-"border-bottom-right-radius: 4px;\n"
-"border-top-left-radius: 0px;\n"
-"border-bottom-left-radius: 0px;")
-        self.segment_temperature_entry_label_C.setLineWidth(0)
-        self.segment_temperature_entry_label_C.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_label_C.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_label_C.setObjectName("segment_temperature_entry_label_C")
-        self.segment_entry_stats_Al_11.addWidget(self.segment_temperature_entry_label_C, 0, 2, 1, 1)
-        self.segment_temperature_entry_label_A = QtWidgets.QTextBrowser(self.segment_temperature_entry_label)
-        self.segment_temperature_entry_label_A.setEnabled(False)
-        self.segment_temperature_entry_label_A.setMinimumSize(QtCore.QSize(0, 16))
-        self.segment_temperature_entry_label_A.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.segment_temperature_entry_label_A.setStyleSheet("background-color: rgb(230, 230, 230);\n"
-"color: rgb(31, 31, 31);\n"
-"border: 4px;\n"
-"\n"
-"border-top-right-radius: 0px;\n"
-"border-bottom-right-radius: 0px;\n"
-"border-top-left-radius: 4px;\n"
-"border-bottom-left-radius: 4px;")
-        self.segment_temperature_entry_label_A.setLineWidth(0)
-        self.segment_temperature_entry_label_A.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_label_A.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_label_A.setObjectName("segment_temperature_entry_label_A")
-        self.segment_entry_stats_Al_11.addWidget(self.segment_temperature_entry_label_A, 0, 0, 1, 1)
-        self.segment_temperature_entry_label_B = QtWidgets.QTextBrowser(self.segment_temperature_entry_label)
-        self.segment_temperature_entry_label_B.setEnabled(False)
-        self.segment_temperature_entry_label_B.setMinimumSize(QtCore.QSize(0, 16))
-        self.segment_temperature_entry_label_B.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.segment_temperature_entry_label_B.setStyleSheet("background-color: rgb(230, 230, 230);\n"
-"color: rgb(31, 31, 31);\n"
-"border: 4px;\n"
-"\n"
-"border-top-right-radius: 0px;\n"
-"border-bottom-right-radius: 0px;\n"
-"border-top-left-radius: 0px;\n"
-"border-bottom-left-radius: 0px;")
-        self.segment_temperature_entry_label_B.setLineWidth(0)
-        self.segment_temperature_entry_label_B.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_label_B.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_label_B.setObjectName("segment_temperature_entry_label_B")
-        self.segment_entry_stats_Al_11.addWidget(self.segment_temperature_entry_label_B, 0, 1, 1, 1)
-        self.gridLayout_38.addWidget(self.segment_temperature_entry_label, 3, 0, 1, 1)
-        self.segment_entry_wrapper.addWidget(self.segment_temperature_entry_header, 2, 0, 1, 1)
-        self.segment_temperature_entry = QtWidgets.QFrame(self.segment_temperature_entry_frame)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temperature_entry.sizePolicy().hasHeightForWidth())
-        self.segment_temperature_entry.setSizePolicy(sizePolicy)
-        self.segment_temperature_entry.setMinimumSize(QtCore.QSize(160, 0))
-        self.segment_temperature_entry.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.segment_temperature_entry.setFrameShape(QtWidgets.QFrame.NoFrame)
-        self.segment_temperature_entry.setLineWidth(0)
-        self.segment_temperature_entry.setObjectName("segment_temperature_entry")
-        self.segment_entry_Al_7 = QtWidgets.QGridLayout(self.segment_temperature_entry)
-        self.segment_entry_Al_7.setContentsMargins(0, 0, 0, 0)
-        self.segment_entry_Al_7.setSpacing(0)
-        self.segment_entry_Al_7.setObjectName("segment_entry_Al_7")
-        self.segment_temperature_entry_hline = QtWidgets.QFrame(self.segment_temperature_entry)
-        self.segment_temperature_entry_hline.setStyleSheet("color: rgb(145, 145, 145);")
-        self.segment_temperature_entry_hline.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.segment_temperature_entry_hline.setFrameShape(QtWidgets.QFrame.HLine)
-        self.segment_temperature_entry_hline.setObjectName("segment_temperature_entry_hline")
-        self.segment_entry_Al_7.addWidget(self.segment_temperature_entry_hline, 0, 0, 1, 1)
-        self.temperature_entry_4 = QtWidgets.QFrame(self.segment_temperature_entry)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_4.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_4.setSizePolicy(sizePolicy)
-        self.temperature_entry_4.setMinimumSize(QtCore.QSize(100, 20))
-        self.temperature_entry_4.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.temperature_entry_4.setObjectName("temperature_entry_4")
-        self.gridLayout_64 = QtWidgets.QGridLayout(self.temperature_entry_4)
-        self.gridLayout_64.setContentsMargins(0, 0, 0, 0)
-        self.gridLayout_64.setSpacing(0)
-        self.gridLayout_64.setObjectName("gridLayout_64")
-        self.temperature_entry_name_4 = QtWidgets.QTextBrowser(self.temperature_entry_4)
-        self.temperature_entry_name_4.setEnabled(False)
-        self.temperature_entry_name_4.setMinimumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_4.setMaximumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_4.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_name_4.setLineWidth(0)
-        self.temperature_entry_name_4.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_4.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_4.setObjectName("temperature_entry_name_4")
-        self.gridLayout_64.addWidget(self.temperature_entry_name_4, 0, 0, 1, 1)
-        self.temperature_entry_right_line_4 = QtWidgets.QFrame(self.temperature_entry_4)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_4.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_right_line_4.setSizePolicy(sizePolicy)
-        self.temperature_entry_right_line_4.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_right_line_4.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_right_line_4.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_right_line_4.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_right_line_4.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_right_line_4.setObjectName("temperature_entry_right_line_4")
-        self.gridLayout_64.addWidget(self.temperature_entry_right_line_4, 0, 5, 1, 1)
-        self.temperature_entry_left_line_4 = QtWidgets.QFrame(self.temperature_entry_4)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_4.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_left_line_4.setSizePolicy(sizePolicy)
-        self.temperature_entry_left_line_4.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_left_line_4.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_left_line_4.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_left_line_4.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_left_line_4.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_left_line_4.setObjectName("temperature_entry_left_line_4")
-        self.gridLayout_64.addWidget(self.temperature_entry_left_line_4, 0, 1, 1, 1)
-        self.temperature_entry_value_4 = QtWidgets.QTextBrowser(self.temperature_entry_4)
-        self.temperature_entry_value_4.setEnabled(False)
-        self.temperature_entry_value_4.setMinimumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_4.setMaximumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_4.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_value_4.setLineWidth(0)
-        self.temperature_entry_value_4.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_4.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_4.setObjectName("temperature_entry_value_4")
-        self.gridLayout_64.addWidget(self.temperature_entry_value_4, 0, 6, 1, 1)
-        self.temperature_entry_bar_4 = QtWidgets.QProgressBar(self.temperature_entry_4)
-        self.temperature_entry_bar_4.setMinimumSize(QtCore.QSize(0, 12))
-        self.temperature_entry_bar_4.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.temperature_entry_bar_4.setStyleSheet("QProgressBar\n"
-"{\n"
-"background-color: rgb(31, 31, 31);\n"
-"border-radius: 4px;\n"
-"border: 1px solid rgb(145, 145, 145);\n"
-"margin-left: 8px;\n"
-"margin-right: 8px;\n"
-"}\n"
-"\n"
-"QProgressBar::chunk\n"
-"{\n"
-"background-color: rgb(203, 120, 130);\n"
-"border-radius: 4px;\n"
-"border: 4px;\n"
-"margin:2px;\n"
-"}")
-        self.temperature_entry_bar_4.setProperty("value", 48)
-        self.temperature_entry_bar_4.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
-        self.temperature_entry_bar_4.setTextVisible(False)
-        self.temperature_entry_bar_4.setObjectName("temperature_entry_bar_4")
-        self.gridLayout_64.addWidget(self.temperature_entry_bar_4, 0, 2, 1, 1)
-        self.segment_entry_Al_7.addWidget(self.temperature_entry_4, 8621, 0, 1, 1)
-        self.temperature_entry_2 = QtWidgets.QFrame(self.segment_temperature_entry)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_2.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_2.setSizePolicy(sizePolicy)
-        self.temperature_entry_2.setMinimumSize(QtCore.QSize(100, 20))
-        self.temperature_entry_2.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.temperature_entry_2.setObjectName("temperature_entry_2")
-        self.gridLayout_62 = QtWidgets.QGridLayout(self.temperature_entry_2)
-        self.gridLayout_62.setContentsMargins(0, 0, 0, 0)
-        self.gridLayout_62.setSpacing(0)
-        self.gridLayout_62.setObjectName("gridLayout_62")
-        self.temperature_entry_name_2 = QtWidgets.QTextBrowser(self.temperature_entry_2)
-        self.temperature_entry_name_2.setEnabled(False)
-        self.temperature_entry_name_2.setMinimumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_2.setMaximumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_2.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_name_2.setLineWidth(0)
-        self.temperature_entry_name_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_2.setObjectName("temperature_entry_name_2")
-        self.gridLayout_62.addWidget(self.temperature_entry_name_2, 0, 0, 1, 1)
-        self.temperature_entry_right_line_2 = QtWidgets.QFrame(self.temperature_entry_2)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_2.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_right_line_2.setSizePolicy(sizePolicy)
-        self.temperature_entry_right_line_2.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_right_line_2.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_right_line_2.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_right_line_2.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_right_line_2.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_right_line_2.setObjectName("temperature_entry_right_line_2")
-        self.gridLayout_62.addWidget(self.temperature_entry_right_line_2, 0, 5, 1, 1)
-        self.temperature_entry_left_line_2 = QtWidgets.QFrame(self.temperature_entry_2)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_2.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_left_line_2.setSizePolicy(sizePolicy)
-        self.temperature_entry_left_line_2.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_left_line_2.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_left_line_2.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_left_line_2.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_left_line_2.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_left_line_2.setObjectName("temperature_entry_left_line_2")
-        self.gridLayout_62.addWidget(self.temperature_entry_left_line_2, 0, 1, 1, 1)
-        self.temperature_entry_value_2 = QtWidgets.QTextBrowser(self.temperature_entry_2)
-        self.temperature_entry_value_2.setEnabled(False)
-        self.temperature_entry_value_2.setMinimumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_2.setMaximumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_2.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_value_2.setLineWidth(0)
-        self.temperature_entry_value_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_2.setObjectName("temperature_entry_value_2")
-        self.gridLayout_62.addWidget(self.temperature_entry_value_2, 0, 6, 1, 1)
-        self.temperature_entry_bar_2 = QtWidgets.QProgressBar(self.temperature_entry_2)
-        self.temperature_entry_bar_2.setMinimumSize(QtCore.QSize(0, 12))
-        self.temperature_entry_bar_2.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.temperature_entry_bar_2.setStyleSheet("QProgressBar\n"
-"{\n"
-"background-color: rgb(31, 31, 31);\n"
-"border-radius: 4px;\n"
-"border: 1px solid rgb(145, 145, 145);\n"
-"margin-left: 8px;\n"
-"margin-right: 8px;\n"
-"}\n"
-"\n"
-"QProgressBar::chunk\n"
-"{\n"
-"background-color: rgb(203, 120, 130);\n"
-"border-radius: 4px;\n"
-"border: 4px;\n"
-"margin:2px;\n"
-"}")
-        self.temperature_entry_bar_2.setProperty("value", 48)
-        self.temperature_entry_bar_2.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
-        self.temperature_entry_bar_2.setTextVisible(False)
-        self.temperature_entry_bar_2.setObjectName("temperature_entry_bar_2")
-        self.gridLayout_62.addWidget(self.temperature_entry_bar_2, 0, 2, 1, 1)
-        self.segment_entry_Al_7.addWidget(self.temperature_entry_2, 8665, 0, 1, 1)
-        self.temperature_entry_3 = QtWidgets.QFrame(self.segment_temperature_entry)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_3.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_3.setSizePolicy(sizePolicy)
-        self.temperature_entry_3.setMinimumSize(QtCore.QSize(100, 20))
-        self.temperature_entry_3.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.temperature_entry_3.setObjectName("temperature_entry_3")
-        self.gridLayout_63 = QtWidgets.QGridLayout(self.temperature_entry_3)
-        self.gridLayout_63.setContentsMargins(0, 0, 0, 0)
-        self.gridLayout_63.setSpacing(0)
-        self.gridLayout_63.setObjectName("gridLayout_63")
-        self.temperature_entry_name_3 = QtWidgets.QTextBrowser(self.temperature_entry_3)
-        self.temperature_entry_name_3.setEnabled(False)
-        self.temperature_entry_name_3.setMinimumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_3.setMaximumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_3.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_name_3.setLineWidth(0)
-        self.temperature_entry_name_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_3.setObjectName("temperature_entry_name_3")
-        self.gridLayout_63.addWidget(self.temperature_entry_name_3, 0, 0, 1, 1)
-        self.temperature_entry_right_line_3 = QtWidgets.QFrame(self.temperature_entry_3)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_3.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_right_line_3.setSizePolicy(sizePolicy)
-        self.temperature_entry_right_line_3.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_right_line_3.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_right_line_3.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_right_line_3.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_right_line_3.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_right_line_3.setObjectName("temperature_entry_right_line_3")
-        self.gridLayout_63.addWidget(self.temperature_entry_right_line_3, 0, 5, 1, 1)
-        self.temperature_entry_left_line_3 = QtWidgets.QFrame(self.temperature_entry_3)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_3.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_left_line_3.setSizePolicy(sizePolicy)
-        self.temperature_entry_left_line_3.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_left_line_3.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_left_line_3.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_left_line_3.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_left_line_3.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_left_line_3.setObjectName("temperature_entry_left_line_3")
-        self.gridLayout_63.addWidget(self.temperature_entry_left_line_3, 0, 1, 1, 1)
-        self.temperature_entry_value_3 = QtWidgets.QTextBrowser(self.temperature_entry_3)
-        self.temperature_entry_value_3.setEnabled(False)
-        self.temperature_entry_value_3.setMinimumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_3.setMaximumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_3.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_value_3.setLineWidth(0)
-        self.temperature_entry_value_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_3.setObjectName("temperature_entry_value_3")
-        self.gridLayout_63.addWidget(self.temperature_entry_value_3, 0, 6, 1, 1)
-        self.temperature_entry_bar_3 = QtWidgets.QProgressBar(self.temperature_entry_3)
-        self.temperature_entry_bar_3.setMinimumSize(QtCore.QSize(0, 12))
-        self.temperature_entry_bar_3.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.temperature_entry_bar_3.setStyleSheet("QProgressBar\n"
-"{\n"
-"background-color: rgb(31, 31, 31);\n"
-"border-radius: 4px;\n"
-"border: 1px solid rgb(145, 145, 145);\n"
-"margin-left: 8px;\n"
-"margin-right: 8px;\n"
-"}\n"
-"\n"
-"QProgressBar::chunk\n"
-"{\n"
-"background-color: rgb(203, 120, 130);\n"
-"border-radius: 4px;\n"
-"border: 4px;\n"
-"margin:2px;\n"
-"}")
-        self.temperature_entry_bar_3.setProperty("value", 48)
-        self.temperature_entry_bar_3.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
-        self.temperature_entry_bar_3.setTextVisible(False)
-        self.temperature_entry_bar_3.setObjectName("temperature_entry_bar_3")
-        self.gridLayout_63.addWidget(self.temperature_entry_bar_3, 0, 2, 1, 1)
-        self.segment_entry_Al_7.addWidget(self.temperature_entry_3, 8710, 0, 1, 1)
-        self.temperature_entry = QtWidgets.QFrame(self.segment_temperature_entry)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry.sizePolicy().hasHeightForWidth())
-        self.temperature_entry.setSizePolicy(sizePolicy)
-        self.temperature_entry.setMinimumSize(QtCore.QSize(100, 20))
-        self.temperature_entry.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.temperature_entry.setObjectName("temperature_entry")
-        self.gridLayout_40 = QtWidgets.QGridLayout(self.temperature_entry)
-        self.gridLayout_40.setContentsMargins(0, 0, 0, 0)
-        self.gridLayout_40.setSpacing(0)
-        self.gridLayout_40.setObjectName("gridLayout_40")
-        self.temperature_entry_name = QtWidgets.QTextBrowser(self.temperature_entry)
-        self.temperature_entry_name.setEnabled(False)
-        self.temperature_entry_name.setMinimumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name.setMaximumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_name.setLineWidth(0)
-        self.temperature_entry_name.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name.setObjectName("temperature_entry_name")
-        self.gridLayout_40.addWidget(self.temperature_entry_name, 0, 0, 1, 1)
-        self.temperature_entry_right_line = QtWidgets.QFrame(self.temperature_entry)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_right_line.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_right_line.setSizePolicy(sizePolicy)
-        self.temperature_entry_right_line.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_right_line.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_right_line.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_right_line.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_right_line.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_right_line.setObjectName("temperature_entry_right_line")
-        self.gridLayout_40.addWidget(self.temperature_entry_right_line, 0, 5, 1, 1)
-        self.temperature_entry_left_line = QtWidgets.QFrame(self.temperature_entry)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_left_line.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_left_line.setSizePolicy(sizePolicy)
-        self.temperature_entry_left_line.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_left_line.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_left_line.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_left_line.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_left_line.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_left_line.setObjectName("temperature_entry_left_line")
-        self.gridLayout_40.addWidget(self.temperature_entry_left_line, 0, 1, 1, 1)
-        self.temperature_entry_value = QtWidgets.QTextBrowser(self.temperature_entry)
-        self.temperature_entry_value.setEnabled(False)
-        self.temperature_entry_value.setMinimumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value.setMaximumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_value.setLineWidth(0)
-        self.temperature_entry_value.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value.setObjectName("temperature_entry_value")
-        self.gridLayout_40.addWidget(self.temperature_entry_value, 0, 6, 1, 1)
-        self.temperature_entry_bar = QtWidgets.QProgressBar(self.temperature_entry)
-        self.temperature_entry_bar.setMinimumSize(QtCore.QSize(0, 12))
-        self.temperature_entry_bar.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.temperature_entry_bar.setStyleSheet("QProgressBar\n"
-"{\n"
-"background-color: rgb(31, 31, 31);\n"
-"border-radius: 4px;\n"
-"border: 1px solid rgb(145, 145, 145);\n"
-"margin-left: 8px;\n"
-"margin-right: 8px;\n"
-"}\n"
-"\n"
-"QProgressBar::chunk\n"
-"{\n"
-"background-color: rgb(203, 120, 130);\n"
-"border-radius: 4px;\n"
-"border: 4px;\n"
-"margin:2px;\n"
-"}")
-        self.temperature_entry_bar.setProperty("value", 48)
-        self.temperature_entry_bar.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
-        self.temperature_entry_bar.setTextVisible(False)
-        self.temperature_entry_bar.setObjectName("temperature_entry_bar")
-        self.gridLayout_40.addWidget(self.temperature_entry_bar, 0, 2, 1, 1)
-        self.segment_entry_Al_7.addWidget(self.temperature_entry, 8755, 0, 1, 1)
-        self.temperature_entry_5 = QtWidgets.QFrame(self.segment_temperature_entry)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_5.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_5.setSizePolicy(sizePolicy)
-        self.temperature_entry_5.setMinimumSize(QtCore.QSize(100, 20))
-        self.temperature_entry_5.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.temperature_entry_5.setObjectName("temperature_entry_5")
-        self.gridLayout_65 = QtWidgets.QGridLayout(self.temperature_entry_5)
-        self.gridLayout_65.setContentsMargins(0, 0, 0, 0)
-        self.gridLayout_65.setSpacing(0)
-        self.gridLayout_65.setObjectName("gridLayout_65")
-        self.temperature_entry_name_5 = QtWidgets.QTextBrowser(self.temperature_entry_5)
-        self.temperature_entry_name_5.setEnabled(False)
-        self.temperature_entry_name_5.setMinimumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_5.setMaximumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_5.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_name_5.setLineWidth(0)
-        self.temperature_entry_name_5.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_5.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_5.setObjectName("temperature_entry_name_5")
-        self.gridLayout_65.addWidget(self.temperature_entry_name_5, 0, 0, 1, 1)
-        self.temperature_entry_right_line_5 = QtWidgets.QFrame(self.temperature_entry_5)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_5.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_right_line_5.setSizePolicy(sizePolicy)
-        self.temperature_entry_right_line_5.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_right_line_5.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_right_line_5.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_right_line_5.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_right_line_5.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_right_line_5.setObjectName("temperature_entry_right_line_5")
-        self.gridLayout_65.addWidget(self.temperature_entry_right_line_5, 0, 5, 1, 1)
-        self.temperature_entry_left_line_5 = QtWidgets.QFrame(self.temperature_entry_5)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_5.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_left_line_5.setSizePolicy(sizePolicy)
-        self.temperature_entry_left_line_5.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_left_line_5.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_left_line_5.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_left_line_5.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_left_line_5.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_left_line_5.setObjectName("temperature_entry_left_line_5")
-        self.gridLayout_65.addWidget(self.temperature_entry_left_line_5, 0, 1, 1, 1)
-        self.temperature_entry_value_5 = QtWidgets.QTextBrowser(self.temperature_entry_5)
-        self.temperature_entry_value_5.setEnabled(False)
-        self.temperature_entry_value_5.setMinimumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_5.setMaximumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_5.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_value_5.setLineWidth(0)
-        self.temperature_entry_value_5.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_5.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_5.setObjectName("temperature_entry_value_5")
-        self.gridLayout_65.addWidget(self.temperature_entry_value_5, 0, 6, 1, 1)
-        self.temperature_entry_bar_5 = QtWidgets.QProgressBar(self.temperature_entry_5)
-        self.temperature_entry_bar_5.setMinimumSize(QtCore.QSize(0, 12))
-        self.temperature_entry_bar_5.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.temperature_entry_bar_5.setStyleSheet("QProgressBar\n"
-"{\n"
-"background-color: rgb(31, 31, 31);\n"
-"border-radius: 4px;\n"
-"border: 1px solid rgb(145, 145, 145);\n"
-"margin-left: 8px;\n"
-"margin-right: 8px;\n"
-"}\n"
-"\n"
-"QProgressBar::chunk\n"
-"{\n"
-"background-color: rgb(203, 120, 130);\n"
-"border-radius: 4px;\n"
-"border: 4px;\n"
-"margin:2px;\n"
-"}")
-        self.temperature_entry_bar_5.setProperty("value", 48)
-        self.temperature_entry_bar_5.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
-        self.temperature_entry_bar_5.setTextVisible(False)
-        self.temperature_entry_bar_5.setObjectName("temperature_entry_bar_5")
-        self.gridLayout_65.addWidget(self.temperature_entry_bar_5, 0, 2, 1, 1)
-        self.segment_entry_Al_7.addWidget(self.temperature_entry_5, 8800, 0, 1, 1)
-        self.segment_entry_wrapper.addWidget(self.segment_temperature_entry, 4, 0, 1, 1)
-        self.segment_entry_wrapper_4.addWidget(self.segment_temperature_entry_frame, 2, 0, 1, 1)
         self.segment_temperature_entry_frame_2 = QtWidgets.QFrame(self.segment_temperature_head_entry)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -16736,7 +16088,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_temperature_entry_stats_A_temperature_2.setProperty("value", 48)
+        self.segment_temperature_entry_stats_A_temperature_2.setProperty("value", 0)
         self.segment_temperature_entry_stats_A_temperature_2.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_temperature_entry_stats_A_temperature_2.setTextVisible(False)
         self.segment_temperature_entry_stats_A_temperature_2.setObjectName("segment_temperature_entry_stats_A_temperature_2")
@@ -16745,7 +16097,7 @@ class Ui_MainWindow(object):
         self.segment_temperature_entry_stats_A_nomality_2.setEnabled(False)
         self.segment_temperature_entry_stats_A_nomality_2.setMinimumSize(QtCore.QSize(60, 20))
         self.segment_temperature_entry_stats_A_nomality_2.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_entry_stats_A_nomality_2.setStyleSheet("background-color: rgb(203, 120, 130);\n"
+        self.segment_temperature_entry_stats_A_nomality_2.setStyleSheet("background-color: rgb(80, 203, 156);\n"
 "color: rgb(31, 31, 31);\n"
 "border: 4px;\n"
 "border-radius: 4px;")
@@ -16958,7 +16310,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_6.setProperty("value", 48)
+        self.temperature_entry_bar_6.setProperty("value", 0)
         self.temperature_entry_bar_6.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_6.setTextVisible(False)
         self.temperature_entry_bar_6.setObjectName("temperature_entry_bar_6")
@@ -17046,7 +16398,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_7.setProperty("value", 48)
+        self.temperature_entry_bar_7.setProperty("value", 0)
         self.temperature_entry_bar_7.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_7.setTextVisible(False)
         self.temperature_entry_bar_7.setObjectName("temperature_entry_bar_7")
@@ -17134,7 +16486,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_8.setProperty("value", 48)
+        self.temperature_entry_bar_8.setProperty("value", 0)
         self.temperature_entry_bar_8.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_8.setTextVisible(False)
         self.temperature_entry_bar_8.setObjectName("temperature_entry_bar_8")
@@ -17222,7 +16574,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_9.setProperty("value", 48)
+        self.temperature_entry_bar_9.setProperty("value", 0)
         self.temperature_entry_bar_9.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_9.setTextVisible(False)
         self.temperature_entry_bar_9.setObjectName("temperature_entry_bar_9")
@@ -17310,7 +16662,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_10.setProperty("value", 48)
+        self.temperature_entry_bar_10.setProperty("value", 0)
         self.temperature_entry_bar_10.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_10.setTextVisible(False)
         self.temperature_entry_bar_10.setObjectName("temperature_entry_bar_10")
@@ -17318,6 +16670,654 @@ class Ui_MainWindow(object):
         self.segment_entry_Al_18.addWidget(self.temperature_entry_10, 9140, 0, 1, 1)
         self.segment_entry_wrapper_21.addWidget(self.segment_temperature_entry_2, 3, 0, 1, 1)
         self.segment_entry_wrapper_4.addWidget(self.segment_temperature_entry_frame_2, 3, 0, 1, 1)
+        self.segment_temperature_entry_frame = QtWidgets.QFrame(self.segment_temperature_head_entry)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temperature_entry_frame.sizePolicy().hasHeightForWidth())
+        self.segment_temperature_entry_frame.setSizePolicy(sizePolicy)
+        self.segment_temperature_entry_frame.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.segment_temperature_entry_frame.setObjectName("segment_temperature_entry_frame")
+        self.segment_entry_wrapper = QtWidgets.QGridLayout(self.segment_temperature_entry_frame)
+        self.segment_entry_wrapper.setContentsMargins(0, 0, 0, 0)
+        self.segment_entry_wrapper.setSpacing(0)
+        self.segment_entry_wrapper.setObjectName("segment_entry_wrapper")
+        self.segment_temperature_entry_header = QtWidgets.QFrame(self.segment_temperature_entry_frame)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Fixed)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temperature_entry_header.sizePolicy().hasHeightForWidth())
+        self.segment_temperature_entry_header.setSizePolicy(sizePolicy)
+        self.segment_temperature_entry_header.setMinimumSize(QtCore.QSize(150, 0))
+        self.segment_temperature_entry_header.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.segment_temperature_entry_header.setObjectName("segment_temperature_entry_header")
+        self.gridLayout_38 = QtWidgets.QGridLayout(self.segment_temperature_entry_header)
+        self.gridLayout_38.setContentsMargins(0, 0, 0, 0)
+        self.gridLayout_38.setSpacing(0)
+        self.gridLayout_38.setObjectName("gridLayout_38")
+        self.segment_temperature_entry_id = QtWidgets.QTextBrowser(self.segment_temperature_entry_header)
+        self.segment_temperature_entry_id.setEnabled(False)
+        self.segment_temperature_entry_id.setMinimumSize(QtCore.QSize(0, 20))
+        self.segment_temperature_entry_id.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_entry_id.setStyleSheet("background-color: rgb(230, 230, 230);\n"
+"color: rgb(31, 31, 31);\n"
+"border: 4px;\n"
+"border-radius: 4px;")
+        self.segment_temperature_entry_id.setLineWidth(0)
+        self.segment_temperature_entry_id.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_id.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_id.setObjectName("segment_temperature_entry_id")
+        self.gridLayout_38.addWidget(self.segment_temperature_entry_id, 0, 0, 1, 1)
+        self.segment_temperature_entry_stats_A = QtWidgets.QFrame(self.segment_temperature_entry_header)
+        self.segment_temperature_entry_stats_A.setMinimumSize(QtCore.QSize(0, 20))
+        self.segment_temperature_entry_stats_A.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_entry_stats_A.setObjectName("segment_temperature_entry_stats_A")
+        self.segment_entry_stats_Al_12 = QtWidgets.QGridLayout(self.segment_temperature_entry_stats_A)
+        self.segment_entry_stats_Al_12.setContentsMargins(0, 0, 0, 0)
+        self.segment_entry_stats_Al_12.setHorizontalSpacing(6)
+        self.segment_entry_stats_Al_12.setVerticalSpacing(0)
+        self.segment_entry_stats_Al_12.setObjectName("segment_entry_stats_Al_12")
+        self.segment_temperature_entry_stats_A_temperature = QtWidgets.QProgressBar(self.segment_temperature_entry_stats_A)
+        self.segment_temperature_entry_stats_A_temperature.setMinimumSize(QtCore.QSize(0, 12))
+        self.segment_temperature_entry_stats_A_temperature.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.segment_temperature_entry_stats_A_temperature.setStyleSheet("QProgressBar\n"
+"{\n"
+"background-color: rgb(31, 31, 31);\n"
+"border-radius: 4px;\n"
+"border: 1px solid rgb(145, 145, 145);\n"
+"margin-left: 8px;\n"
+"margin-right: 8px;\n"
+"}\n"
+"\n"
+"QProgressBar::chunk\n"
+"{\n"
+"background-color: rgb(203, 120, 130);\n"
+"border-radius: 4px;\n"
+"border: 4px;\n"
+"margin:2px;\n"
+"}")
+        self.segment_temperature_entry_stats_A_temperature.setProperty("value", 0)
+        self.segment_temperature_entry_stats_A_temperature.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
+        self.segment_temperature_entry_stats_A_temperature.setTextVisible(False)
+        self.segment_temperature_entry_stats_A_temperature.setObjectName("segment_temperature_entry_stats_A_temperature")
+        self.segment_entry_stats_Al_12.addWidget(self.segment_temperature_entry_stats_A_temperature, 0, 2, 1, 1)
+        self.segment_temperature_entry_stats_A_nomality = QtWidgets.QTextBrowser(self.segment_temperature_entry_stats_A)
+        self.segment_temperature_entry_stats_A_nomality.setEnabled(False)
+        self.segment_temperature_entry_stats_A_nomality.setMinimumSize(QtCore.QSize(60, 20))
+        self.segment_temperature_entry_stats_A_nomality.setMaximumSize(QtCore.QSize(60, 20))
+        self.segment_temperature_entry_stats_A_nomality.setStyleSheet("background-color: rgb(80, 203, 156);\n"
+"color: rgb(31, 31, 31);\n"
+"border: 4px;\n"
+"border-radius: 4px;")
+        self.segment_temperature_entry_stats_A_nomality.setLineWidth(0)
+        self.segment_temperature_entry_stats_A_nomality.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_stats_A_nomality.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_stats_A_nomality.setObjectName("segment_temperature_entry_stats_A_nomality")
+        self.segment_entry_stats_Al_12.addWidget(self.segment_temperature_entry_stats_A_nomality, 0, 1, 1, 1)
+        self.gridLayout_38.addWidget(self.segment_temperature_entry_stats_A, 2, 0, 1, 1)
+        self.segment_temperature_entry_stats_B = QtWidgets.QFrame(self.segment_temperature_entry_header)
+        self.segment_temperature_entry_stats_B.setMinimumSize(QtCore.QSize(0, 20))
+        self.segment_temperature_entry_stats_B.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_entry_stats_B.setObjectName("segment_temperature_entry_stats_B")
+        self.segment_entry_stats_Bl_11 = QtWidgets.QGridLayout(self.segment_temperature_entry_stats_B)
+        self.segment_entry_stats_Bl_11.setContentsMargins(0, 0, 0, 0)
+        self.segment_entry_stats_Bl_11.setHorizontalSpacing(2)
+        self.segment_entry_stats_Bl_11.setVerticalSpacing(0)
+        self.segment_entry_stats_Bl_11.setObjectName("segment_entry_stats_Bl_11")
+        self.segment_temperature_entry_stats_B_value = QtWidgets.QTextBrowser(self.segment_temperature_entry_stats_B)
+        self.segment_temperature_entry_stats_B_value.setEnabled(False)
+        self.segment_temperature_entry_stats_B_value.setMinimumSize(QtCore.QSize(50, 20))
+        self.segment_temperature_entry_stats_B_value.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_entry_stats_B_value.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.segment_temperature_entry_stats_B_value.setLineWidth(0)
+        self.segment_temperature_entry_stats_B_value.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_stats_B_value.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_stats_B_value.setObjectName("segment_temperature_entry_stats_B_value")
+        self.segment_entry_stats_Bl_11.addWidget(self.segment_temperature_entry_stats_B_value, 0, 1, 1, 1)
+        self.segment_temperature_entry_stats_B_name = QtWidgets.QTextBrowser(self.segment_temperature_entry_stats_B)
+        self.segment_temperature_entry_stats_B_name.setEnabled(False)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Preferred)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temperature_entry_stats_B_name.sizePolicy().hasHeightForWidth())
+        self.segment_temperature_entry_stats_B_name.setSizePolicy(sizePolicy)
+        self.segment_temperature_entry_stats_B_name.setMinimumSize(QtCore.QSize(108, 20))
+        self.segment_temperature_entry_stats_B_name.setMaximumSize(QtCore.QSize(108, 20))
+        self.segment_temperature_entry_stats_B_name.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.segment_temperature_entry_stats_B_name.setLineWidth(0)
+        self.segment_temperature_entry_stats_B_name.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_stats_B_name.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_stats_B_name.setObjectName("segment_temperature_entry_stats_B_name")
+        self.segment_entry_stats_Bl_11.addWidget(self.segment_temperature_entry_stats_B_name, 0, 0, 1, 1)
+        self.gridLayout_38.addWidget(self.segment_temperature_entry_stats_B, 1, 0, 1, 1)
+        self.segment_temperature_entry_label = QtWidgets.QFrame(self.segment_temperature_entry_header)
+        self.segment_temperature_entry_label.setMinimumSize(QtCore.QSize(0, 20))
+        self.segment_temperature_entry_label.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_entry_label.setObjectName("segment_temperature_entry_label")
+        self.segment_entry_stats_Al_11 = QtWidgets.QGridLayout(self.segment_temperature_entry_label)
+        self.segment_entry_stats_Al_11.setContentsMargins(0, 0, 0, 0)
+        self.segment_entry_stats_Al_11.setSpacing(0)
+        self.segment_entry_stats_Al_11.setObjectName("segment_entry_stats_Al_11")
+        self.segment_temperature_entry_label_C = QtWidgets.QTextBrowser(self.segment_temperature_entry_label)
+        self.segment_temperature_entry_label_C.setEnabled(False)
+        self.segment_temperature_entry_label_C.setMinimumSize(QtCore.QSize(0, 16))
+        self.segment_temperature_entry_label_C.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.segment_temperature_entry_label_C.setStyleSheet("background-color: rgb(230, 230, 230);\n"
+"color: rgb(31, 31, 31);\n"
+"border: 4px;\n"
+"\n"
+"border-top-right-radius: 4px;\n"
+"border-bottom-right-radius: 4px;\n"
+"border-top-left-radius: 0px;\n"
+"border-bottom-left-radius: 0px;")
+        self.segment_temperature_entry_label_C.setLineWidth(0)
+        self.segment_temperature_entry_label_C.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_label_C.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_label_C.setObjectName("segment_temperature_entry_label_C")
+        self.segment_entry_stats_Al_11.addWidget(self.segment_temperature_entry_label_C, 0, 2, 1, 1)
+        self.segment_temperature_entry_label_A = QtWidgets.QTextBrowser(self.segment_temperature_entry_label)
+        self.segment_temperature_entry_label_A.setEnabled(False)
+        self.segment_temperature_entry_label_A.setMinimumSize(QtCore.QSize(0, 16))
+        self.segment_temperature_entry_label_A.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.segment_temperature_entry_label_A.setStyleSheet("background-color: rgb(230, 230, 230);\n"
+"color: rgb(31, 31, 31);\n"
+"border: 4px;\n"
+"\n"
+"border-top-right-radius: 0px;\n"
+"border-bottom-right-radius: 0px;\n"
+"border-top-left-radius: 4px;\n"
+"border-bottom-left-radius: 4px;")
+        self.segment_temperature_entry_label_A.setLineWidth(0)
+        self.segment_temperature_entry_label_A.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_label_A.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_label_A.setObjectName("segment_temperature_entry_label_A")
+        self.segment_entry_stats_Al_11.addWidget(self.segment_temperature_entry_label_A, 0, 0, 1, 1)
+        self.segment_temperature_entry_label_B = QtWidgets.QTextBrowser(self.segment_temperature_entry_label)
+        self.segment_temperature_entry_label_B.setEnabled(False)
+        self.segment_temperature_entry_label_B.setMinimumSize(QtCore.QSize(0, 16))
+        self.segment_temperature_entry_label_B.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.segment_temperature_entry_label_B.setStyleSheet("background-color: rgb(230, 230, 230);\n"
+"color: rgb(31, 31, 31);\n"
+"border: 4px;\n"
+"\n"
+"border-top-right-radius: 0px;\n"
+"border-bottom-right-radius: 0px;\n"
+"border-top-left-radius: 0px;\n"
+"border-bottom-left-radius: 0px;")
+        self.segment_temperature_entry_label_B.setLineWidth(0)
+        self.segment_temperature_entry_label_B.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_label_B.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_label_B.setObjectName("segment_temperature_entry_label_B")
+        self.segment_entry_stats_Al_11.addWidget(self.segment_temperature_entry_label_B, 0, 1, 1, 1)
+        self.gridLayout_38.addWidget(self.segment_temperature_entry_label, 3, 0, 1, 1)
+        self.segment_entry_wrapper.addWidget(self.segment_temperature_entry_header, 2, 0, 1, 1)
+        self.segment_temperature_entry = QtWidgets.QFrame(self.segment_temperature_entry_frame)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temperature_entry.sizePolicy().hasHeightForWidth())
+        self.segment_temperature_entry.setSizePolicy(sizePolicy)
+        self.segment_temperature_entry.setMinimumSize(QtCore.QSize(160, 0))
+        self.segment_temperature_entry.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.segment_temperature_entry.setFrameShape(QtWidgets.QFrame.NoFrame)
+        self.segment_temperature_entry.setLineWidth(0)
+        self.segment_temperature_entry.setObjectName("segment_temperature_entry")
+        self.segment_entry_Al_7 = QtWidgets.QGridLayout(self.segment_temperature_entry)
+        self.segment_entry_Al_7.setContentsMargins(0, 0, 0, 0)
+        self.segment_entry_Al_7.setSpacing(0)
+        self.segment_entry_Al_7.setObjectName("segment_entry_Al_7")
+        self.segment_temperature_entry_hline = QtWidgets.QFrame(self.segment_temperature_entry)
+        self.segment_temperature_entry_hline.setStyleSheet("color: rgb(145, 145, 145);")
+        self.segment_temperature_entry_hline.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.segment_temperature_entry_hline.setFrameShape(QtWidgets.QFrame.HLine)
+        self.segment_temperature_entry_hline.setObjectName("segment_temperature_entry_hline")
+        self.segment_entry_Al_7.addWidget(self.segment_temperature_entry_hline, 0, 0, 1, 1)
+        self.temperature_entry_4 = QtWidgets.QFrame(self.segment_temperature_entry)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_4.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_4.setSizePolicy(sizePolicy)
+        self.temperature_entry_4.setMinimumSize(QtCore.QSize(100, 20))
+        self.temperature_entry_4.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.temperature_entry_4.setObjectName("temperature_entry_4")
+        self.gridLayout_64 = QtWidgets.QGridLayout(self.temperature_entry_4)
+        self.gridLayout_64.setContentsMargins(0, 0, 0, 0)
+        self.gridLayout_64.setSpacing(0)
+        self.gridLayout_64.setObjectName("gridLayout_64")
+        self.temperature_entry_name_4 = QtWidgets.QTextBrowser(self.temperature_entry_4)
+        self.temperature_entry_name_4.setEnabled(False)
+        self.temperature_entry_name_4.setMinimumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_4.setMaximumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_4.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_name_4.setLineWidth(0)
+        self.temperature_entry_name_4.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_4.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_4.setObjectName("temperature_entry_name_4")
+        self.gridLayout_64.addWidget(self.temperature_entry_name_4, 0, 0, 1, 1)
+        self.temperature_entry_right_line_4 = QtWidgets.QFrame(self.temperature_entry_4)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_4.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_right_line_4.setSizePolicy(sizePolicy)
+        self.temperature_entry_right_line_4.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_right_line_4.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_right_line_4.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_right_line_4.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_right_line_4.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_right_line_4.setObjectName("temperature_entry_right_line_4")
+        self.gridLayout_64.addWidget(self.temperature_entry_right_line_4, 0, 5, 1, 1)
+        self.temperature_entry_left_line_4 = QtWidgets.QFrame(self.temperature_entry_4)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_4.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_left_line_4.setSizePolicy(sizePolicy)
+        self.temperature_entry_left_line_4.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_left_line_4.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_left_line_4.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_left_line_4.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_left_line_4.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_left_line_4.setObjectName("temperature_entry_left_line_4")
+        self.gridLayout_64.addWidget(self.temperature_entry_left_line_4, 0, 1, 1, 1)
+        self.temperature_entry_value_4 = QtWidgets.QTextBrowser(self.temperature_entry_4)
+        self.temperature_entry_value_4.setEnabled(False)
+        self.temperature_entry_value_4.setMinimumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_4.setMaximumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_4.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_value_4.setLineWidth(0)
+        self.temperature_entry_value_4.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_4.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_4.setObjectName("temperature_entry_value_4")
+        self.gridLayout_64.addWidget(self.temperature_entry_value_4, 0, 6, 1, 1)
+        self.temperature_entry_bar_4 = QtWidgets.QProgressBar(self.temperature_entry_4)
+        self.temperature_entry_bar_4.setMinimumSize(QtCore.QSize(0, 12))
+        self.temperature_entry_bar_4.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.temperature_entry_bar_4.setStyleSheet("QProgressBar\n"
+"{\n"
+"background-color: rgb(31, 31, 31);\n"
+"border-radius: 4px;\n"
+"border: 1px solid rgb(145, 145, 145);\n"
+"margin-left: 8px;\n"
+"margin-right: 8px;\n"
+"}\n"
+"\n"
+"QProgressBar::chunk\n"
+"{\n"
+"background-color: rgb(203, 120, 130);\n"
+"border-radius: 4px;\n"
+"border: 4px;\n"
+"margin:2px;\n"
+"}")
+        self.temperature_entry_bar_4.setProperty("value", 0)
+        self.temperature_entry_bar_4.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
+        self.temperature_entry_bar_4.setTextVisible(False)
+        self.temperature_entry_bar_4.setObjectName("temperature_entry_bar_4")
+        self.gridLayout_64.addWidget(self.temperature_entry_bar_4, 0, 2, 1, 1)
+        self.segment_entry_Al_7.addWidget(self.temperature_entry_4, 8621, 0, 1, 1)
+        self.temperature_entry_2 = QtWidgets.QFrame(self.segment_temperature_entry)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_2.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_2.setSizePolicy(sizePolicy)
+        self.temperature_entry_2.setMinimumSize(QtCore.QSize(100, 20))
+        self.temperature_entry_2.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.temperature_entry_2.setObjectName("temperature_entry_2")
+        self.gridLayout_62 = QtWidgets.QGridLayout(self.temperature_entry_2)
+        self.gridLayout_62.setContentsMargins(0, 0, 0, 0)
+        self.gridLayout_62.setSpacing(0)
+        self.gridLayout_62.setObjectName("gridLayout_62")
+        self.temperature_entry_name_2 = QtWidgets.QTextBrowser(self.temperature_entry_2)
+        self.temperature_entry_name_2.setEnabled(False)
+        self.temperature_entry_name_2.setMinimumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_2.setMaximumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_2.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_name_2.setLineWidth(0)
+        self.temperature_entry_name_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_2.setObjectName("temperature_entry_name_2")
+        self.gridLayout_62.addWidget(self.temperature_entry_name_2, 0, 0, 1, 1)
+        self.temperature_entry_right_line_2 = QtWidgets.QFrame(self.temperature_entry_2)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_2.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_right_line_2.setSizePolicy(sizePolicy)
+        self.temperature_entry_right_line_2.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_right_line_2.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_right_line_2.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_right_line_2.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_right_line_2.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_right_line_2.setObjectName("temperature_entry_right_line_2")
+        self.gridLayout_62.addWidget(self.temperature_entry_right_line_2, 0, 5, 1, 1)
+        self.temperature_entry_left_line_2 = QtWidgets.QFrame(self.temperature_entry_2)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_2.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_left_line_2.setSizePolicy(sizePolicy)
+        self.temperature_entry_left_line_2.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_left_line_2.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_left_line_2.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_left_line_2.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_left_line_2.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_left_line_2.setObjectName("temperature_entry_left_line_2")
+        self.gridLayout_62.addWidget(self.temperature_entry_left_line_2, 0, 1, 1, 1)
+        self.temperature_entry_value_2 = QtWidgets.QTextBrowser(self.temperature_entry_2)
+        self.temperature_entry_value_2.setEnabled(False)
+        self.temperature_entry_value_2.setMinimumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_2.setMaximumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_2.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_value_2.setLineWidth(0)
+        self.temperature_entry_value_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_2.setObjectName("temperature_entry_value_2")
+        self.gridLayout_62.addWidget(self.temperature_entry_value_2, 0, 6, 1, 1)
+        self.temperature_entry_bar_2 = QtWidgets.QProgressBar(self.temperature_entry_2)
+        self.temperature_entry_bar_2.setMinimumSize(QtCore.QSize(0, 12))
+        self.temperature_entry_bar_2.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.temperature_entry_bar_2.setStyleSheet("QProgressBar\n"
+"{\n"
+"background-color: rgb(31, 31, 31);\n"
+"border-radius: 4px;\n"
+"border: 1px solid rgb(145, 145, 145);\n"
+"margin-left: 8px;\n"
+"margin-right: 8px;\n"
+"}\n"
+"\n"
+"QProgressBar::chunk\n"
+"{\n"
+"background-color: rgb(203, 120, 130);\n"
+"border-radius: 4px;\n"
+"border: 4px;\n"
+"margin:2px;\n"
+"}")
+        self.temperature_entry_bar_2.setProperty("value", 0)
+        self.temperature_entry_bar_2.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
+        self.temperature_entry_bar_2.setTextVisible(False)
+        self.temperature_entry_bar_2.setObjectName("temperature_entry_bar_2")
+        self.gridLayout_62.addWidget(self.temperature_entry_bar_2, 0, 2, 1, 1)
+        self.segment_entry_Al_7.addWidget(self.temperature_entry_2, 8665, 0, 1, 1)
+        self.temperature_entry_3 = QtWidgets.QFrame(self.segment_temperature_entry)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_3.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_3.setSizePolicy(sizePolicy)
+        self.temperature_entry_3.setMinimumSize(QtCore.QSize(100, 20))
+        self.temperature_entry_3.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.temperature_entry_3.setObjectName("temperature_entry_3")
+        self.gridLayout_63 = QtWidgets.QGridLayout(self.temperature_entry_3)
+        self.gridLayout_63.setContentsMargins(0, 0, 0, 0)
+        self.gridLayout_63.setSpacing(0)
+        self.gridLayout_63.setObjectName("gridLayout_63")
+        self.temperature_entry_name_3 = QtWidgets.QTextBrowser(self.temperature_entry_3)
+        self.temperature_entry_name_3.setEnabled(False)
+        self.temperature_entry_name_3.setMinimumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_3.setMaximumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_3.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_name_3.setLineWidth(0)
+        self.temperature_entry_name_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_3.setObjectName("temperature_entry_name_3")
+        self.gridLayout_63.addWidget(self.temperature_entry_name_3, 0, 0, 1, 1)
+        self.temperature_entry_right_line_3 = QtWidgets.QFrame(self.temperature_entry_3)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_3.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_right_line_3.setSizePolicy(sizePolicy)
+        self.temperature_entry_right_line_3.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_right_line_3.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_right_line_3.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_right_line_3.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_right_line_3.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_right_line_3.setObjectName("temperature_entry_right_line_3")
+        self.gridLayout_63.addWidget(self.temperature_entry_right_line_3, 0, 5, 1, 1)
+        self.temperature_entry_left_line_3 = QtWidgets.QFrame(self.temperature_entry_3)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_3.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_left_line_3.setSizePolicy(sizePolicy)
+        self.temperature_entry_left_line_3.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_left_line_3.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_left_line_3.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_left_line_3.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_left_line_3.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_left_line_3.setObjectName("temperature_entry_left_line_3")
+        self.gridLayout_63.addWidget(self.temperature_entry_left_line_3, 0, 1, 1, 1)
+        self.temperature_entry_value_3 = QtWidgets.QTextBrowser(self.temperature_entry_3)
+        self.temperature_entry_value_3.setEnabled(False)
+        self.temperature_entry_value_3.setMinimumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_3.setMaximumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_3.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_value_3.setLineWidth(0)
+        self.temperature_entry_value_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_3.setObjectName("temperature_entry_value_3")
+        self.gridLayout_63.addWidget(self.temperature_entry_value_3, 0, 6, 1, 1)
+        self.temperature_entry_bar_3 = QtWidgets.QProgressBar(self.temperature_entry_3)
+        self.temperature_entry_bar_3.setMinimumSize(QtCore.QSize(0, 12))
+        self.temperature_entry_bar_3.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.temperature_entry_bar_3.setStyleSheet("QProgressBar\n"
+"{\n"
+"background-color: rgb(31, 31, 31);\n"
+"border-radius: 4px;\n"
+"border: 1px solid rgb(145, 145, 145);\n"
+"margin-left: 8px;\n"
+"margin-right: 8px;\n"
+"}\n"
+"\n"
+"QProgressBar::chunk\n"
+"{\n"
+"background-color: rgb(203, 120, 130);\n"
+"border-radius: 4px;\n"
+"border: 4px;\n"
+"margin:2px;\n"
+"}")
+        self.temperature_entry_bar_3.setProperty("value", 0)
+        self.temperature_entry_bar_3.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
+        self.temperature_entry_bar_3.setTextVisible(False)
+        self.temperature_entry_bar_3.setObjectName("temperature_entry_bar_3")
+        self.gridLayout_63.addWidget(self.temperature_entry_bar_3, 0, 2, 1, 1)
+        self.segment_entry_Al_7.addWidget(self.temperature_entry_3, 8710, 0, 1, 1)
+        self.temperature_entry = QtWidgets.QFrame(self.segment_temperature_entry)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry.sizePolicy().hasHeightForWidth())
+        self.temperature_entry.setSizePolicy(sizePolicy)
+        self.temperature_entry.setMinimumSize(QtCore.QSize(100, 20))
+        self.temperature_entry.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.temperature_entry.setObjectName("temperature_entry")
+        self.gridLayout_40 = QtWidgets.QGridLayout(self.temperature_entry)
+        self.gridLayout_40.setContentsMargins(0, 0, 0, 0)
+        self.gridLayout_40.setSpacing(0)
+        self.gridLayout_40.setObjectName("gridLayout_40")
+        self.temperature_entry_name = QtWidgets.QTextBrowser(self.temperature_entry)
+        self.temperature_entry_name.setEnabled(False)
+        self.temperature_entry_name.setMinimumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name.setMaximumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_name.setLineWidth(0)
+        self.temperature_entry_name.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name.setObjectName("temperature_entry_name")
+        self.gridLayout_40.addWidget(self.temperature_entry_name, 0, 0, 1, 1)
+        self.temperature_entry_right_line = QtWidgets.QFrame(self.temperature_entry)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_right_line.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_right_line.setSizePolicy(sizePolicy)
+        self.temperature_entry_right_line.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_right_line.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_right_line.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_right_line.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_right_line.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_right_line.setObjectName("temperature_entry_right_line")
+        self.gridLayout_40.addWidget(self.temperature_entry_right_line, 0, 5, 1, 1)
+        self.temperature_entry_left_line = QtWidgets.QFrame(self.temperature_entry)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_left_line.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_left_line.setSizePolicy(sizePolicy)
+        self.temperature_entry_left_line.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_left_line.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_left_line.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_left_line.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_left_line.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_left_line.setObjectName("temperature_entry_left_line")
+        self.gridLayout_40.addWidget(self.temperature_entry_left_line, 0, 1, 1, 1)
+        self.temperature_entry_value = QtWidgets.QTextBrowser(self.temperature_entry)
+        self.temperature_entry_value.setEnabled(False)
+        self.temperature_entry_value.setMinimumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value.setMaximumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_value.setLineWidth(0)
+        self.temperature_entry_value.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value.setObjectName("temperature_entry_value")
+        self.gridLayout_40.addWidget(self.temperature_entry_value, 0, 6, 1, 1)
+        self.temperature_entry_bar = QtWidgets.QProgressBar(self.temperature_entry)
+        self.temperature_entry_bar.setMinimumSize(QtCore.QSize(0, 12))
+        self.temperature_entry_bar.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.temperature_entry_bar.setStyleSheet("QProgressBar\n"
+"{\n"
+"background-color: rgb(31, 31, 31);\n"
+"border-radius: 4px;\n"
+"border: 1px solid rgb(145, 145, 145);\n"
+"margin-left: 8px;\n"
+"margin-right: 8px;\n"
+"}\n"
+"\n"
+"QProgressBar::chunk\n"
+"{\n"
+"background-color: rgb(203, 120, 130);\n"
+"border-radius: 4px;\n"
+"border: 4px;\n"
+"margin:2px;\n"
+"}")
+        self.temperature_entry_bar.setProperty("value", 0)
+        self.temperature_entry_bar.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
+        self.temperature_entry_bar.setTextVisible(False)
+        self.temperature_entry_bar.setObjectName("temperature_entry_bar")
+        self.gridLayout_40.addWidget(self.temperature_entry_bar, 0, 2, 1, 1)
+        self.segment_entry_Al_7.addWidget(self.temperature_entry, 8755, 0, 1, 1)
+        self.temperature_entry_5 = QtWidgets.QFrame(self.segment_temperature_entry)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_5.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_5.setSizePolicy(sizePolicy)
+        self.temperature_entry_5.setMinimumSize(QtCore.QSize(100, 20))
+        self.temperature_entry_5.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.temperature_entry_5.setObjectName("temperature_entry_5")
+        self.gridLayout_65 = QtWidgets.QGridLayout(self.temperature_entry_5)
+        self.gridLayout_65.setContentsMargins(0, 0, 0, 0)
+        self.gridLayout_65.setSpacing(0)
+        self.gridLayout_65.setObjectName("gridLayout_65")
+        self.temperature_entry_name_5 = QtWidgets.QTextBrowser(self.temperature_entry_5)
+        self.temperature_entry_name_5.setEnabled(False)
+        self.temperature_entry_name_5.setMinimumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_5.setMaximumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_5.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_name_5.setLineWidth(0)
+        self.temperature_entry_name_5.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_5.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_5.setObjectName("temperature_entry_name_5")
+        self.gridLayout_65.addWidget(self.temperature_entry_name_5, 0, 0, 1, 1)
+        self.temperature_entry_right_line_5 = QtWidgets.QFrame(self.temperature_entry_5)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_5.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_right_line_5.setSizePolicy(sizePolicy)
+        self.temperature_entry_right_line_5.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_right_line_5.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_right_line_5.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_right_line_5.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_right_line_5.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_right_line_5.setObjectName("temperature_entry_right_line_5")
+        self.gridLayout_65.addWidget(self.temperature_entry_right_line_5, 0, 5, 1, 1)
+        self.temperature_entry_left_line_5 = QtWidgets.QFrame(self.temperature_entry_5)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_5.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_left_line_5.setSizePolicy(sizePolicy)
+        self.temperature_entry_left_line_5.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_left_line_5.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_left_line_5.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_left_line_5.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_left_line_5.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_left_line_5.setObjectName("temperature_entry_left_line_5")
+        self.gridLayout_65.addWidget(self.temperature_entry_left_line_5, 0, 1, 1, 1)
+        self.temperature_entry_value_5 = QtWidgets.QTextBrowser(self.temperature_entry_5)
+        self.temperature_entry_value_5.setEnabled(False)
+        self.temperature_entry_value_5.setMinimumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_5.setMaximumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_5.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_value_5.setLineWidth(0)
+        self.temperature_entry_value_5.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_5.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_5.setObjectName("temperature_entry_value_5")
+        self.gridLayout_65.addWidget(self.temperature_entry_value_5, 0, 6, 1, 1)
+        self.temperature_entry_bar_5 = QtWidgets.QProgressBar(self.temperature_entry_5)
+        self.temperature_entry_bar_5.setMinimumSize(QtCore.QSize(0, 12))
+        self.temperature_entry_bar_5.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.temperature_entry_bar_5.setStyleSheet("QProgressBar\n"
+"{\n"
+"background-color: rgb(31, 31, 31);\n"
+"border-radius: 4px;\n"
+"border: 1px solid rgb(145, 145, 145);\n"
+"margin-left: 8px;\n"
+"margin-right: 8px;\n"
+"}\n"
+"\n"
+"QProgressBar::chunk\n"
+"{\n"
+"background-color: rgb(203, 120, 130);\n"
+"border-radius: 4px;\n"
+"border: 4px;\n"
+"margin:2px;\n"
+"}")
+        self.temperature_entry_bar_5.setProperty("value", 0)
+        self.temperature_entry_bar_5.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
+        self.temperature_entry_bar_5.setTextVisible(False)
+        self.temperature_entry_bar_5.setObjectName("temperature_entry_bar_5")
+        self.gridLayout_65.addWidget(self.temperature_entry_bar_5, 0, 2, 1, 1)
+        self.segment_entry_Al_7.addWidget(self.temperature_entry_5, 8800, 0, 1, 1)
+        self.segment_entry_wrapper.addWidget(self.segment_temperature_entry, 4, 0, 1, 1)
+        self.segment_entry_wrapper_4.addWidget(self.segment_temperature_entry_frame, 2, 0, 1, 1)
         self.segment_temperature_viz_A = QtWidgets.QWidget(self.segment_temperature_head_entry)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -17343,16 +17343,6 @@ class Ui_MainWindow(object):
         self.segment_temperature_visualization_2.setContentsMargins(0, 0, 0, 0)
         self.segment_temperature_visualization_2.setSpacing(0)
         self.segment_temperature_visualization_2.setObjectName("segment_temperature_visualization_2")
-        self.segment_temperature_minus = QtWidgets.QLabel(self.segment_temperature_viz_B)
-        self.segment_temperature_minus.setMinimumSize(QtCore.QSize(18, 18))
-        self.segment_temperature_minus.setMaximumSize(QtCore.QSize(18, 18))
-        self.segment_temperature_minus.setObjectName("segment_temperature_minus")
-        self.segment_temperature_visualization_2.addWidget(self.segment_temperature_minus, 0, 0, 1, 1)
-        self.segment_temperature_plus = QtWidgets.QLabel(self.segment_temperature_viz_B)
-        self.segment_temperature_plus.setMinimumSize(QtCore.QSize(18, 18))
-        self.segment_temperature_plus.setMaximumSize(QtCore.QSize(18, 18))
-        self.segment_temperature_plus.setObjectName("segment_temperature_plus")
-        self.segment_temperature_visualization_2.addWidget(self.segment_temperature_plus, 2, 2, 1, 1)
         self.segment_temperature_vertical_p = QtWidgets.QFrame(self.segment_temperature_viz_B)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -17367,54 +17357,6 @@ class Ui_MainWindow(object):
         self.segment_temperature_vertical.setHorizontalSpacing(0)
         self.segment_temperature_vertical.setVerticalSpacing(4)
         self.segment_temperature_vertical.setObjectName("segment_temperature_vertical")
-        self.segment_temperature_horizontal = QtWidgets.QFrame(self.segment_temperature_vertical_p)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temperature_horizontal.sizePolicy().hasHeightForWidth())
-        self.segment_temperature_horizontal.setSizePolicy(sizePolicy)
-        self.segment_temperature_horizontal.setMinimumSize(QtCore.QSize(10, 10))
-        self.segment_temperature_horizontal.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.segment_temperature_horizontal.setObjectName("segment_temperature_horizontal")
-        self.gridLayout_4 = QtWidgets.QGridLayout(self.segment_temperature_horizontal)
-        self.gridLayout_4.setContentsMargins(0, 0, 0, 0)
-        self.gridLayout_4.setHorizontalSpacing(8)
-        self.gridLayout_4.setVerticalSpacing(0)
-        self.gridLayout_4.setObjectName("gridLayout_4")
-        self.segment_temp_node = QtWidgets.QLabel(self.segment_temperature_horizontal)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node.setSizePolicy(sizePolicy)
-        self.segment_temp_node.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node.setObjectName("segment_temp_node")
-        self.gridLayout_4.addWidget(self.segment_temp_node, 0, 0, 1, 1)
-        self.segment_temp_node_2 = QtWidgets.QLabel(self.segment_temperature_horizontal)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_2.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_2.setSizePolicy(sizePolicy)
-        self.segment_temp_node_2.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_2.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_2.setObjectName("segment_temp_node_2")
-        self.gridLayout_4.addWidget(self.segment_temp_node_2, 0, 1, 1, 1)
-        self.segment_temp_node_3 = QtWidgets.QLabel(self.segment_temperature_horizontal)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_3.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_3.setSizePolicy(sizePolicy)
-        self.segment_temp_node_3.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_3.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_3.setObjectName("segment_temp_node_3")
-        self.gridLayout_4.addWidget(self.segment_temp_node_3, 0, 2, 1, 1)
-        self.segment_temperature_vertical.addWidget(self.segment_temperature_horizontal, 0, 0, 1, 1)
         self.segment_temperature_horizontal_2 = QtWidgets.QFrame(self.segment_temperature_vertical_p)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -17429,17 +17371,6 @@ class Ui_MainWindow(object):
         self.gridLayout_6.setHorizontalSpacing(8)
         self.gridLayout_6.setVerticalSpacing(0)
         self.gridLayout_6.setObjectName("gridLayout_6")
-        self.segment_temp_node_4 = QtWidgets.QLabel(self.segment_temperature_horizontal_2)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_4.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_4.setSizePolicy(sizePolicy)
-        self.segment_temp_node_4.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_4.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_4.setObjectName("segment_temp_node_4")
-        self.gridLayout_6.addWidget(self.segment_temp_node_4, 0, 0, 1, 1)
         self.segment_temp_node_6 = QtWidgets.QLabel(self.segment_temperature_horizontal_2)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -17450,7 +17381,7 @@ class Ui_MainWindow(object):
         self.segment_temp_node_6.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
         self.segment_temp_node_6.setObjectName("segment_temp_node_6")
-        self.gridLayout_6.addWidget(self.segment_temp_node_6, 0, 2, 1, 1)
+        self.gridLayout_6.addWidget(self.segment_temp_node_6, 2, 1, 1, 1)
         self.segment_temp_node_5 = QtWidgets.QLabel(self.segment_temperature_horizontal_2)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -17461,7 +17392,18 @@ class Ui_MainWindow(object):
         self.segment_temp_node_5.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
         self.segment_temp_node_5.setObjectName("segment_temp_node_5")
-        self.gridLayout_6.addWidget(self.segment_temp_node_5, 0, 1, 1, 1)
+        self.gridLayout_6.addWidget(self.segment_temp_node_5, 1, 1, 1, 1)
+        self.segment_temp_node_4 = QtWidgets.QLabel(self.segment_temperature_horizontal_2)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node_4.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_4.setSizePolicy(sizePolicy)
+        self.segment_temp_node_4.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_4.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node_4.setObjectName("segment_temp_node_4")
+        self.gridLayout_6.addWidget(self.segment_temp_node_4, 0, 1, 1, 1)
         self.segment_temp_node_7 = QtWidgets.QLabel(self.segment_temperature_horizontal_2)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -17472,8 +17414,56 @@ class Ui_MainWindow(object):
         self.segment_temp_node_7.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
         self.segment_temp_node_7.setObjectName("segment_temp_node_7")
-        self.gridLayout_6.addWidget(self.segment_temp_node_7, 0, 3, 1, 1)
-        self.segment_temperature_vertical.addWidget(self.segment_temperature_horizontal_2, 1, 0, 1, 1)
+        self.gridLayout_6.addWidget(self.segment_temp_node_7, 3, 1, 1, 1)
+        self.segment_temperature_vertical.addWidget(self.segment_temperature_horizontal_2, 0, 1, 1, 1)
+        self.segment_temperature_horizontal = QtWidgets.QFrame(self.segment_temperature_vertical_p)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temperature_horizontal.sizePolicy().hasHeightForWidth())
+        self.segment_temperature_horizontal.setSizePolicy(sizePolicy)
+        self.segment_temperature_horizontal.setMinimumSize(QtCore.QSize(10, 10))
+        self.segment_temperature_horizontal.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.segment_temperature_horizontal.setObjectName("segment_temperature_horizontal")
+        self.gridLayout_4 = QtWidgets.QGridLayout(self.segment_temperature_horizontal)
+        self.gridLayout_4.setContentsMargins(0, 0, 0, 0)
+        self.gridLayout_4.setHorizontalSpacing(8)
+        self.gridLayout_4.setVerticalSpacing(0)
+        self.gridLayout_4.setObjectName("gridLayout_4")
+        self.segment_temp_node_2 = QtWidgets.QLabel(self.segment_temperature_horizontal)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node_2.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_2.setSizePolicy(sizePolicy)
+        self.segment_temp_node_2.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_2.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node_2.setObjectName("segment_temp_node_2")
+        self.gridLayout_4.addWidget(self.segment_temp_node_2, 1, 1, 1, 1)
+        self.segment_temp_node_3 = QtWidgets.QLabel(self.segment_temperature_horizontal)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node_3.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_3.setSizePolicy(sizePolicy)
+        self.segment_temp_node_3.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_3.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node_3.setObjectName("segment_temp_node_3")
+        self.gridLayout_4.addWidget(self.segment_temp_node_3, 2, 1, 1, 1)
+        self.segment_temp_node = QtWidgets.QLabel(self.segment_temperature_horizontal)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node.setSizePolicy(sizePolicy)
+        self.segment_temp_node.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node.setObjectName("segment_temp_node")
+        self.gridLayout_4.addWidget(self.segment_temp_node, 0, 1, 1, 1)
+        self.segment_temperature_vertical.addWidget(self.segment_temperature_horizontal, 0, 0, 1, 1)
         self.segment_temperature_horizontal_3 = QtWidgets.QFrame(self.segment_temperature_vertical_p)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -17499,17 +17489,6 @@ class Ui_MainWindow(object):
 "background-color: rgb(203, 120, 130);")
         self.segment_temp_node_8.setObjectName("segment_temp_node_8")
         self.gridLayout_7.addWidget(self.segment_temp_node_8, 0, 0, 1, 1)
-        self.segment_temp_node_9 = QtWidgets.QLabel(self.segment_temperature_horizontal_3)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_9.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_9.setSizePolicy(sizePolicy)
-        self.segment_temp_node_9.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_9.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_9.setObjectName("segment_temp_node_9")
-        self.gridLayout_7.addWidget(self.segment_temp_node_9, 0, 1, 1, 1)
         self.segment_temp_node_10 = QtWidgets.QLabel(self.segment_temperature_horizontal_3)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -17520,9 +17499,30 @@ class Ui_MainWindow(object):
         self.segment_temp_node_10.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
         self.segment_temp_node_10.setObjectName("segment_temp_node_10")
-        self.gridLayout_7.addWidget(self.segment_temp_node_10, 0, 2, 1, 1)
-        self.segment_temperature_vertical.addWidget(self.segment_temperature_horizontal_3, 2, 0, 1, 1)
+        self.gridLayout_7.addWidget(self.segment_temp_node_10, 2, 0, 1, 1)
+        self.segment_temp_node_9 = QtWidgets.QLabel(self.segment_temperature_horizontal_3)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node_9.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_9.setSizePolicy(sizePolicy)
+        self.segment_temp_node_9.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_9.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node_9.setObjectName("segment_temp_node_9")
+        self.gridLayout_7.addWidget(self.segment_temp_node_9, 1, 0, 1, 1)
+        self.segment_temperature_vertical.addWidget(self.segment_temperature_horizontal_3, 0, 2, 1, 1)
         self.segment_temperature_visualization_2.addWidget(self.segment_temperature_vertical_p, 1, 1, 1, 1)
+        self.segment_temperature_plus = QtWidgets.QLabel(self.segment_temperature_viz_B)
+        self.segment_temperature_plus.setMinimumSize(QtCore.QSize(18, 18))
+        self.segment_temperature_plus.setMaximumSize(QtCore.QSize(18, 18))
+        self.segment_temperature_plus.setObjectName("segment_temperature_plus")
+        self.segment_temperature_visualization_2.addWidget(self.segment_temperature_plus, 0, 2, 1, 1)
+        self.segment_temperature_minus = QtWidgets.QLabel(self.segment_temperature_viz_B)
+        self.segment_temperature_minus.setMinimumSize(QtCore.QSize(18, 18))
+        self.segment_temperature_minus.setMaximumSize(QtCore.QSize(18, 18))
+        self.segment_temperature_minus.setObjectName("segment_temperature_minus")
+        self.segment_temperature_visualization_2.addWidget(self.segment_temperature_minus, 2, 0, 1, 1)
         self.segment_temperature_visualization.addWidget(self.segment_temperature_viz_B, 0, 0, 1, 1)
         self.segment_entry_wrapper_4.addWidget(self.segment_temperature_viz_A, 4, 0, 1, 1)
         self.gridLayout_3.addWidget(self.segment_temperature_head_entry, 0, 1, 1, 1)
@@ -17539,465 +17539,6 @@ class Ui_MainWindow(object):
         self.segment_entry_wrapper_22.setHorizontalSpacing(0)
         self.segment_entry_wrapper_22.setVerticalSpacing(12)
         self.segment_entry_wrapper_22.setObjectName("segment_entry_wrapper_22")
-        self.segment_temperature_head_entry_header_2 = QtWidgets.QFrame(self.segment_temperature_head_entry_2)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temperature_head_entry_header_2.sizePolicy().hasHeightForWidth())
-        self.segment_temperature_head_entry_header_2.setSizePolicy(sizePolicy)
-        self.segment_temperature_head_entry_header_2.setMinimumSize(QtCore.QSize(150, 120))
-        self.segment_temperature_head_entry_header_2.setMaximumSize(QtCore.QSize(16777215, 120))
-        self.segment_temperature_head_entry_header_2.setObjectName("segment_temperature_head_entry_header_2")
-        self.gridLayout_206 = QtWidgets.QGridLayout(self.segment_temperature_head_entry_header_2)
-        self.gridLayout_206.setContentsMargins(0, 0, 0, 0)
-        self.gridLayout_206.setSpacing(0)
-        self.gridLayout_206.setObjectName("gridLayout_206")
-        self.segment_temperature_head_entry_stats_B_2 = QtWidgets.QFrame(self.segment_temperature_head_entry_header_2)
-        self.segment_temperature_head_entry_stats_B_2.setMinimumSize(QtCore.QSize(0, 20))
-        self.segment_temperature_head_entry_stats_B_2.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_head_entry_stats_B_2.setObjectName("segment_temperature_head_entry_stats_B_2")
-        self.segment_entry_stats_Bl_40 = QtWidgets.QGridLayout(self.segment_temperature_head_entry_stats_B_2)
-        self.segment_entry_stats_Bl_40.setContentsMargins(0, 0, 0, 0)
-        self.segment_entry_stats_Bl_40.setHorizontalSpacing(2)
-        self.segment_entry_stats_Bl_40.setVerticalSpacing(0)
-        self.segment_entry_stats_Bl_40.setObjectName("segment_entry_stats_Bl_40")
-        self.segment_temperature_head_entry_stats_B_value_2 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_B_2)
-        self.segment_temperature_head_entry_stats_B_value_2.setEnabled(False)
-        self.segment_temperature_head_entry_stats_B_value_2.setMinimumSize(QtCore.QSize(50, 20))
-        self.segment_temperature_head_entry_stats_B_value_2.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_head_entry_stats_B_value_2.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.segment_temperature_head_entry_stats_B_value_2.setLineWidth(0)
-        self.segment_temperature_head_entry_stats_B_value_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_B_value_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_B_value_2.setObjectName("segment_temperature_head_entry_stats_B_value_2")
-        self.segment_entry_stats_Bl_40.addWidget(self.segment_temperature_head_entry_stats_B_value_2, 0, 1, 1, 1)
-        self.segment_temperature_head_entry_stats_B_name_2 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_B_2)
-        self.segment_temperature_head_entry_stats_B_name_2.setEnabled(False)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Preferred)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temperature_head_entry_stats_B_name_2.sizePolicy().hasHeightForWidth())
-        self.segment_temperature_head_entry_stats_B_name_2.setSizePolicy(sizePolicy)
-        self.segment_temperature_head_entry_stats_B_name_2.setMinimumSize(QtCore.QSize(108, 20))
-        self.segment_temperature_head_entry_stats_B_name_2.setMaximumSize(QtCore.QSize(108, 20))
-        self.segment_temperature_head_entry_stats_B_name_2.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.segment_temperature_head_entry_stats_B_name_2.setLineWidth(0)
-        self.segment_temperature_head_entry_stats_B_name_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_B_name_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_B_name_2.setObjectName("segment_temperature_head_entry_stats_B_name_2")
-        self.segment_entry_stats_Bl_40.addWidget(self.segment_temperature_head_entry_stats_B_name_2, 0, 0, 1, 1)
-        self.gridLayout_206.addWidget(self.segment_temperature_head_entry_stats_B_2, 4, 0, 1, 1)
-        self.segment_temperature_head_entry_stats_E_2 = QtWidgets.QFrame(self.segment_temperature_head_entry_header_2)
-        self.segment_temperature_head_entry_stats_E_2.setMinimumSize(QtCore.QSize(0, 20))
-        self.segment_temperature_head_entry_stats_E_2.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_head_entry_stats_E_2.setObjectName("segment_temperature_head_entry_stats_E_2")
-        self.segment_entry_stats_Bl_41 = QtWidgets.QGridLayout(self.segment_temperature_head_entry_stats_E_2)
-        self.segment_entry_stats_Bl_41.setContentsMargins(0, 0, 0, 0)
-        self.segment_entry_stats_Bl_41.setHorizontalSpacing(2)
-        self.segment_entry_stats_Bl_41.setVerticalSpacing(0)
-        self.segment_entry_stats_Bl_41.setObjectName("segment_entry_stats_Bl_41")
-        self.segment_temperature_head_entry_stats_E_value_2 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_E_2)
-        self.segment_temperature_head_entry_stats_E_value_2.setEnabled(False)
-        self.segment_temperature_head_entry_stats_E_value_2.setMinimumSize(QtCore.QSize(50, 20))
-        self.segment_temperature_head_entry_stats_E_value_2.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_head_entry_stats_E_value_2.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.segment_temperature_head_entry_stats_E_value_2.setLineWidth(0)
-        self.segment_temperature_head_entry_stats_E_value_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_E_value_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_E_value_2.setObjectName("segment_temperature_head_entry_stats_E_value_2")
-        self.segment_entry_stats_Bl_41.addWidget(self.segment_temperature_head_entry_stats_E_value_2, 0, 1, 1, 1)
-        self.segment_temperature_head_entry_stats_E_name_2 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_E_2)
-        self.segment_temperature_head_entry_stats_E_name_2.setEnabled(False)
-        self.segment_temperature_head_entry_stats_E_name_2.setMinimumSize(QtCore.QSize(110, 20))
-        self.segment_temperature_head_entry_stats_E_name_2.setMaximumSize(QtCore.QSize(110, 20))
-        self.segment_temperature_head_entry_stats_E_name_2.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.segment_temperature_head_entry_stats_E_name_2.setLineWidth(0)
-        self.segment_temperature_head_entry_stats_E_name_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_E_name_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_E_name_2.setObjectName("segment_temperature_head_entry_stats_E_name_2")
-        self.segment_entry_stats_Bl_41.addWidget(self.segment_temperature_head_entry_stats_E_name_2, 0, 0, 1, 1)
-        self.gridLayout_206.addWidget(self.segment_temperature_head_entry_stats_E_2, 1, 0, 1, 1)
-        self.segment_temperature_head_entry_stats_D_2 = QtWidgets.QFrame(self.segment_temperature_head_entry_header_2)
-        self.segment_temperature_head_entry_stats_D_2.setMinimumSize(QtCore.QSize(0, 20))
-        self.segment_temperature_head_entry_stats_D_2.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_head_entry_stats_D_2.setObjectName("segment_temperature_head_entry_stats_D_2")
-        self.segment_entry_stats_Bl_42 = QtWidgets.QGridLayout(self.segment_temperature_head_entry_stats_D_2)
-        self.segment_entry_stats_Bl_42.setContentsMargins(0, 0, 0, 0)
-        self.segment_entry_stats_Bl_42.setHorizontalSpacing(2)
-        self.segment_entry_stats_Bl_42.setVerticalSpacing(0)
-        self.segment_entry_stats_Bl_42.setObjectName("segment_entry_stats_Bl_42")
-        self.segment_temperature_head_entry_stats_D_min_name_2 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_D_2)
-        self.segment_temperature_head_entry_stats_D_min_name_2.setEnabled(False)
-        self.segment_temperature_head_entry_stats_D_min_name_2.setMinimumSize(QtCore.QSize(30, 20))
-        self.segment_temperature_head_entry_stats_D_min_name_2.setMaximumSize(QtCore.QSize(30, 20))
-        self.segment_temperature_head_entry_stats_D_min_name_2.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.segment_temperature_head_entry_stats_D_min_name_2.setLineWidth(0)
-        self.segment_temperature_head_entry_stats_D_min_name_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_D_min_name_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_D_min_name_2.setObjectName("segment_temperature_head_entry_stats_D_min_name_2")
-        self.segment_entry_stats_Bl_42.addWidget(self.segment_temperature_head_entry_stats_D_min_name_2, 0, 0, 1, 1)
-        self.segment_temperature_head_entry_stats_D_max_name_2 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_D_2)
-        self.segment_temperature_head_entry_stats_D_max_name_2.setEnabled(False)
-        self.segment_temperature_head_entry_stats_D_max_name_2.setMinimumSize(QtCore.QSize(30, 20))
-        self.segment_temperature_head_entry_stats_D_max_name_2.setMaximumSize(QtCore.QSize(30, 20))
-        self.segment_temperature_head_entry_stats_D_max_name_2.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.segment_temperature_head_entry_stats_D_max_name_2.setLineWidth(0)
-        self.segment_temperature_head_entry_stats_D_max_name_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_D_max_name_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_D_max_name_2.setObjectName("segment_temperature_head_entry_stats_D_max_name_2")
-        self.segment_entry_stats_Bl_42.addWidget(self.segment_temperature_head_entry_stats_D_max_name_2, 0, 2, 1, 1)
-        self.segment_temperature_head_entry_stats_D_max_value_2 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_D_2)
-        self.segment_temperature_head_entry_stats_D_max_value_2.setEnabled(False)
-        self.segment_temperature_head_entry_stats_D_max_value_2.setMinimumSize(QtCore.QSize(50, 20))
-        self.segment_temperature_head_entry_stats_D_max_value_2.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_head_entry_stats_D_max_value_2.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.segment_temperature_head_entry_stats_D_max_value_2.setLineWidth(0)
-        self.segment_temperature_head_entry_stats_D_max_value_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_D_max_value_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_D_max_value_2.setObjectName("segment_temperature_head_entry_stats_D_max_value_2")
-        self.segment_entry_stats_Bl_42.addWidget(self.segment_temperature_head_entry_stats_D_max_value_2, 0, 3, 1, 1)
-        self.segment_temperature_head_entry_stats_D_min_value_2 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_D_2)
-        self.segment_temperature_head_entry_stats_D_min_value_2.setEnabled(False)
-        self.segment_temperature_head_entry_stats_D_min_value_2.setMinimumSize(QtCore.QSize(50, 20))
-        self.segment_temperature_head_entry_stats_D_min_value_2.setMaximumSize(QtCore.QSize(50, 20))
-        self.segment_temperature_head_entry_stats_D_min_value_2.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.segment_temperature_head_entry_stats_D_min_value_2.setLineWidth(0)
-        self.segment_temperature_head_entry_stats_D_min_value_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_D_min_value_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_D_min_value_2.setObjectName("segment_temperature_head_entry_stats_D_min_value_2")
-        self.segment_entry_stats_Bl_42.addWidget(self.segment_temperature_head_entry_stats_D_min_value_2, 0, 1, 1, 1)
-        self.gridLayout_206.addWidget(self.segment_temperature_head_entry_stats_D_2, 2, 0, 1, 1)
-        self.segment_temperature_head_entry_id_2 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_header_2)
-        self.segment_temperature_head_entry_id_2.setEnabled(False)
-        self.segment_temperature_head_entry_id_2.setMinimumSize(QtCore.QSize(0, 20))
-        self.segment_temperature_head_entry_id_2.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_head_entry_id_2.setStyleSheet("background-color: rgb(230, 230, 230);\n"
-"color: rgb(31, 31, 31);\n"
-"border: 4px;\n"
-"border-radius: 4px;")
-        self.segment_temperature_head_entry_id_2.setLineWidth(0)
-        self.segment_temperature_head_entry_id_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_id_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_id_2.setObjectName("segment_temperature_head_entry_id_2")
-        self.gridLayout_206.addWidget(self.segment_temperature_head_entry_id_2, 0, 0, 1, 1)
-        self.segment_temperature_head_entry_stats_C_2 = QtWidgets.QFrame(self.segment_temperature_head_entry_header_2)
-        self.segment_temperature_head_entry_stats_C_2.setMinimumSize(QtCore.QSize(0, 20))
-        self.segment_temperature_head_entry_stats_C_2.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_head_entry_stats_C_2.setObjectName("segment_temperature_head_entry_stats_C_2")
-        self.segment_entry_stats_Al_55 = QtWidgets.QGridLayout(self.segment_temperature_head_entry_stats_C_2)
-        self.segment_entry_stats_Al_55.setContentsMargins(0, 0, 0, 0)
-        self.segment_entry_stats_Al_55.setHorizontalSpacing(6)
-        self.segment_entry_stats_Al_55.setVerticalSpacing(0)
-        self.segment_entry_stats_Al_55.setObjectName("segment_entry_stats_Al_55")
-        self.segment_temperature_head_entry_stats_C_voltage_2 = QtWidgets.QProgressBar(self.segment_temperature_head_entry_stats_C_2)
-        self.segment_temperature_head_entry_stats_C_voltage_2.setMinimumSize(QtCore.QSize(0, 12))
-        self.segment_temperature_head_entry_stats_C_voltage_2.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.segment_temperature_head_entry_stats_C_voltage_2.setStyleSheet("QProgressBar\n"
-"{\n"
-"background-color: rgb(31, 31, 31);\n"
-"border-radius: 4px;\n"
-"border: 1px solid rgb(145, 145, 145);\n"
-"margin-left: 8px;\n"
-"margin-right: 8px;\n"
-"}\n"
-"\n"
-"QProgressBar::chunk\n"
-"{\n"
-"background-color: rgb(80, 203, 156);\n"
-"border-radius: 4px;\n"
-"border: 4px;\n"
-"margin:2px;\n"
-"}")
-        self.segment_temperature_head_entry_stats_C_voltage_2.setProperty("value", 48)
-        self.segment_temperature_head_entry_stats_C_voltage_2.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
-        self.segment_temperature_head_entry_stats_C_voltage_2.setTextVisible(False)
-        self.segment_temperature_head_entry_stats_C_voltage_2.setObjectName("segment_temperature_head_entry_stats_C_voltage_2")
-        self.segment_entry_stats_Al_55.addWidget(self.segment_temperature_head_entry_stats_C_voltage_2, 0, 2, 1, 1)
-        self.segment_temperature_head_entry_stats_C_nomality_2 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_C_2)
-        self.segment_temperature_head_entry_stats_C_nomality_2.setEnabled(False)
-        self.segment_temperature_head_entry_stats_C_nomality_2.setMinimumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_head_entry_stats_C_nomality_2.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_head_entry_stats_C_nomality_2.setStyleSheet("background-color: rgb(80, 203, 156);\n"
-"color: rgb(31, 31, 31);\n"
-"border: 4px;\n"
-"border-radius: 4px;")
-        self.segment_temperature_head_entry_stats_C_nomality_2.setLineWidth(0)
-        self.segment_temperature_head_entry_stats_C_nomality_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_C_nomality_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_C_nomality_2.setObjectName("segment_temperature_head_entry_stats_C_nomality_2")
-        self.segment_entry_stats_Al_55.addWidget(self.segment_temperature_head_entry_stats_C_nomality_2, 0, 1, 1, 1)
-        self.gridLayout_206.addWidget(self.segment_temperature_head_entry_stats_C_2, 3, 0, 1, 1)
-        self.segment_temperature_head_entry_stats_A_2 = QtWidgets.QFrame(self.segment_temperature_head_entry_header_2)
-        self.segment_temperature_head_entry_stats_A_2.setMinimumSize(QtCore.QSize(0, 20))
-        self.segment_temperature_head_entry_stats_A_2.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_head_entry_stats_A_2.setObjectName("segment_temperature_head_entry_stats_A_2")
-        self.segment_entry_stats_Al_56 = QtWidgets.QGridLayout(self.segment_temperature_head_entry_stats_A_2)
-        self.segment_entry_stats_Al_56.setContentsMargins(0, 0, 0, 0)
-        self.segment_entry_stats_Al_56.setHorizontalSpacing(6)
-        self.segment_entry_stats_Al_56.setVerticalSpacing(0)
-        self.segment_entry_stats_Al_56.setObjectName("segment_entry_stats_Al_56")
-        self.segment_temperature_head_entry_A_temperature_2 = QtWidgets.QProgressBar(self.segment_temperature_head_entry_stats_A_2)
-        self.segment_temperature_head_entry_A_temperature_2.setMinimumSize(QtCore.QSize(0, 12))
-        self.segment_temperature_head_entry_A_temperature_2.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.segment_temperature_head_entry_A_temperature_2.setStyleSheet("QProgressBar\n"
-"{\n"
-"background-color: rgb(31, 31, 31);\n"
-"border-radius: 4px;\n"
-"border: 1px solid rgb(145, 145, 145);\n"
-"margin-left: 8px;\n"
-"margin-right: 8px;\n"
-"}\n"
-"\n"
-"QProgressBar::chunk\n"
-"{\n"
-"background-color: rgb(203, 120, 130);\n"
-"border-radius: 4px;\n"
-"border: 4px;\n"
-"margin:2px;\n"
-"}")
-        self.segment_temperature_head_entry_A_temperature_2.setProperty("value", 48)
-        self.segment_temperature_head_entry_A_temperature_2.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
-        self.segment_temperature_head_entry_A_temperature_2.setTextVisible(False)
-        self.segment_temperature_head_entry_A_temperature_2.setObjectName("segment_temperature_head_entry_A_temperature_2")
-        self.segment_entry_stats_Al_56.addWidget(self.segment_temperature_head_entry_A_temperature_2, 0, 2, 1, 1)
-        self.segment_temperature_head_entry_A_nomality_2 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_A_2)
-        self.segment_temperature_head_entry_A_nomality_2.setEnabled(False)
-        self.segment_temperature_head_entry_A_nomality_2.setMinimumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_head_entry_A_nomality_2.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_head_entry_A_nomality_2.setStyleSheet("background-color: rgb(203, 120, 130);\n"
-"color: rgb(31, 31, 31);\n"
-"border: 4px;\n"
-"border-radius: 4px;")
-        self.segment_temperature_head_entry_A_nomality_2.setLineWidth(0)
-        self.segment_temperature_head_entry_A_nomality_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_A_nomality_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_A_nomality_2.setObjectName("segment_temperature_head_entry_A_nomality_2")
-        self.segment_entry_stats_Al_56.addWidget(self.segment_temperature_head_entry_A_nomality_2, 0, 1, 1, 1)
-        self.gridLayout_206.addWidget(self.segment_temperature_head_entry_stats_A_2, 5, 0, 1, 1)
-        self.segment_entry_wrapper_22.addWidget(self.segment_temperature_head_entry_header_2, 1, 0, 1, 1)
-        self.segment_temperature_viz_A_2 = QtWidgets.QWidget(self.segment_temperature_head_entry_2)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temperature_viz_A_2.sizePolicy().hasHeightForWidth())
-        self.segment_temperature_viz_A_2.setSizePolicy(sizePolicy)
-        self.segment_temperature_viz_A_2.setStyleSheet("background-color: rgb(230, 230, 230);\n"
-"border-radius:2px;")
-        self.segment_temperature_viz_A_2.setObjectName("segment_temperature_viz_A_2")
-        self.segment_temperature_visualization_3 = QtWidgets.QGridLayout(self.segment_temperature_viz_A_2)
-        self.segment_temperature_visualization_3.setContentsMargins(1, 1, 1, 1)
-        self.segment_temperature_visualization_3.setSpacing(0)
-        self.segment_temperature_visualization_3.setObjectName("segment_temperature_visualization_3")
-        self.segment_temperature_viz_B_2 = QtWidgets.QWidget(self.segment_temperature_viz_A_2)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temperature_viz_B_2.sizePolicy().hasHeightForWidth())
-        self.segment_temperature_viz_B_2.setSizePolicy(sizePolicy)
-        self.segment_temperature_viz_B_2.setStyleSheet("background-color: rgb(31, 31, 31);")
-        self.segment_temperature_viz_B_2.setObjectName("segment_temperature_viz_B_2")
-        self.segment_temperature_visualization_4 = QtWidgets.QGridLayout(self.segment_temperature_viz_B_2)
-        self.segment_temperature_visualization_4.setContentsMargins(0, 0, 0, 0)
-        self.segment_temperature_visualization_4.setSpacing(0)
-        self.segment_temperature_visualization_4.setObjectName("segment_temperature_visualization_4")
-        self.segment_temperature_minus_2 = QtWidgets.QLabel(self.segment_temperature_viz_B_2)
-        self.segment_temperature_minus_2.setMinimumSize(QtCore.QSize(18, 18))
-        self.segment_temperature_minus_2.setMaximumSize(QtCore.QSize(18, 18))
-        self.segment_temperature_minus_2.setObjectName("segment_temperature_minus_2")
-        self.segment_temperature_visualization_4.addWidget(self.segment_temperature_minus_2, 0, 0, 1, 1)
-        self.segment_temperature_plus_2 = QtWidgets.QLabel(self.segment_temperature_viz_B_2)
-        self.segment_temperature_plus_2.setMinimumSize(QtCore.QSize(18, 18))
-        self.segment_temperature_plus_2.setMaximumSize(QtCore.QSize(18, 18))
-        self.segment_temperature_plus_2.setObjectName("segment_temperature_plus_2")
-        self.segment_temperature_visualization_4.addWidget(self.segment_temperature_plus_2, 2, 2, 1, 1)
-        self.segment_temperature_vertical_p_2 = QtWidgets.QFrame(self.segment_temperature_viz_B_2)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temperature_vertical_p_2.sizePolicy().hasHeightForWidth())
-        self.segment_temperature_vertical_p_2.setSizePolicy(sizePolicy)
-        self.segment_temperature_vertical_p_2.setMinimumSize(QtCore.QSize(0, 60))
-        self.segment_temperature_vertical_p_2.setStyleSheet("background-color: rgb(31, 31, 31);")
-        self.segment_temperature_vertical_p_2.setObjectName("segment_temperature_vertical_p_2")
-        self.segment_temperature_vertical_2 = QtWidgets.QGridLayout(self.segment_temperature_vertical_p_2)
-        self.segment_temperature_vertical_2.setContentsMargins(0, 0, 0, 0)
-        self.segment_temperature_vertical_2.setHorizontalSpacing(0)
-        self.segment_temperature_vertical_2.setVerticalSpacing(4)
-        self.segment_temperature_vertical_2.setObjectName("segment_temperature_vertical_2")
-        self.segment_temperature_horizontal_4 = QtWidgets.QFrame(self.segment_temperature_vertical_p_2)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temperature_horizontal_4.sizePolicy().hasHeightForWidth())
-        self.segment_temperature_horizontal_4.setSizePolicy(sizePolicy)
-        self.segment_temperature_horizontal_4.setMinimumSize(QtCore.QSize(10, 10))
-        self.segment_temperature_horizontal_4.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.segment_temperature_horizontal_4.setObjectName("segment_temperature_horizontal_4")
-        self.gridLayout_5 = QtWidgets.QGridLayout(self.segment_temperature_horizontal_4)
-        self.gridLayout_5.setContentsMargins(0, 0, 0, 0)
-        self.gridLayout_5.setHorizontalSpacing(8)
-        self.gridLayout_5.setVerticalSpacing(0)
-        self.gridLayout_5.setObjectName("gridLayout_5")
-        self.segment_temp_node_11 = QtWidgets.QLabel(self.segment_temperature_horizontal_4)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_11.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_11.setSizePolicy(sizePolicy)
-        self.segment_temp_node_11.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_11.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_11.setObjectName("segment_temp_node_11")
-        self.gridLayout_5.addWidget(self.segment_temp_node_11, 0, 0, 1, 1)
-        self.segment_temp_node_12 = QtWidgets.QLabel(self.segment_temperature_horizontal_4)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_12.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_12.setSizePolicy(sizePolicy)
-        self.segment_temp_node_12.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_12.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_12.setObjectName("segment_temp_node_12")
-        self.gridLayout_5.addWidget(self.segment_temp_node_12, 0, 1, 1, 1)
-        self.segment_temp_node_13 = QtWidgets.QLabel(self.segment_temperature_horizontal_4)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_13.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_13.setSizePolicy(sizePolicy)
-        self.segment_temp_node_13.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_13.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_13.setObjectName("segment_temp_node_13")
-        self.gridLayout_5.addWidget(self.segment_temp_node_13, 0, 2, 1, 1)
-        self.segment_temperature_vertical_2.addWidget(self.segment_temperature_horizontal_4, 0, 0, 1, 1)
-        self.segment_temperature_horizontal_5 = QtWidgets.QFrame(self.segment_temperature_vertical_p_2)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temperature_horizontal_5.sizePolicy().hasHeightForWidth())
-        self.segment_temperature_horizontal_5.setSizePolicy(sizePolicy)
-        self.segment_temperature_horizontal_5.setMinimumSize(QtCore.QSize(10, 10))
-        self.segment_temperature_horizontal_5.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.segment_temperature_horizontal_5.setObjectName("segment_temperature_horizontal_5")
-        self.gridLayout_8 = QtWidgets.QGridLayout(self.segment_temperature_horizontal_5)
-        self.gridLayout_8.setContentsMargins(0, 0, 0, 0)
-        self.gridLayout_8.setHorizontalSpacing(8)
-        self.gridLayout_8.setVerticalSpacing(0)
-        self.gridLayout_8.setObjectName("gridLayout_8")
-        self.segment_temp_node_14 = QtWidgets.QLabel(self.segment_temperature_horizontal_5)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_14.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_14.setSizePolicy(sizePolicy)
-        self.segment_temp_node_14.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_14.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_14.setObjectName("segment_temp_node_14")
-        self.gridLayout_8.addWidget(self.segment_temp_node_14, 0, 0, 1, 1)
-        self.segment_temp_node_15 = QtWidgets.QLabel(self.segment_temperature_horizontal_5)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_15.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_15.setSizePolicy(sizePolicy)
-        self.segment_temp_node_15.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_15.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_15.setObjectName("segment_temp_node_15")
-        self.gridLayout_8.addWidget(self.segment_temp_node_15, 0, 1, 1, 1)
-        self.segment_temp_node_16 = QtWidgets.QLabel(self.segment_temperature_horizontal_5)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_16.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_16.setSizePolicy(sizePolicy)
-        self.segment_temp_node_16.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_16.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_16.setObjectName("segment_temp_node_16")
-        self.gridLayout_8.addWidget(self.segment_temp_node_16, 0, 2, 1, 1)
-        self.segment_temp_node_17 = QtWidgets.QLabel(self.segment_temperature_horizontal_5)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_17.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_17.setSizePolicy(sizePolicy)
-        self.segment_temp_node_17.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_17.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_17.setObjectName("segment_temp_node_17")
-        self.gridLayout_8.addWidget(self.segment_temp_node_17, 0, 3, 1, 1)
-        self.segment_temperature_vertical_2.addWidget(self.segment_temperature_horizontal_5, 1, 0, 1, 1)
-        self.segment_temperature_horizontal_6 = QtWidgets.QFrame(self.segment_temperature_vertical_p_2)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temperature_horizontal_6.sizePolicy().hasHeightForWidth())
-        self.segment_temperature_horizontal_6.setSizePolicy(sizePolicy)
-        self.segment_temperature_horizontal_6.setMinimumSize(QtCore.QSize(10, 10))
-        self.segment_temperature_horizontal_6.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.segment_temperature_horizontal_6.setObjectName("segment_temperature_horizontal_6")
-        self.gridLayout_9 = QtWidgets.QGridLayout(self.segment_temperature_horizontal_6)
-        self.gridLayout_9.setContentsMargins(0, 0, 0, 0)
-        self.gridLayout_9.setHorizontalSpacing(8)
-        self.gridLayout_9.setVerticalSpacing(0)
-        self.gridLayout_9.setObjectName("gridLayout_9")
-        self.segment_temp_node_18 = QtWidgets.QLabel(self.segment_temperature_horizontal_6)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_18.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_18.setSizePolicy(sizePolicy)
-        self.segment_temp_node_18.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_18.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_18.setObjectName("segment_temp_node_18")
-        self.gridLayout_9.addWidget(self.segment_temp_node_18, 0, 0, 1, 1)
-        self.segment_temp_node_19 = QtWidgets.QLabel(self.segment_temperature_horizontal_6)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_19.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_19.setSizePolicy(sizePolicy)
-        self.segment_temp_node_19.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_19.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_19.setObjectName("segment_temp_node_19")
-        self.gridLayout_9.addWidget(self.segment_temp_node_19, 0, 1, 1, 1)
-        self.segment_temp_node_20 = QtWidgets.QLabel(self.segment_temperature_horizontal_6)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_20.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_20.setSizePolicy(sizePolicy)
-        self.segment_temp_node_20.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_20.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_20.setObjectName("segment_temp_node_20")
-        self.gridLayout_9.addWidget(self.segment_temp_node_20, 0, 2, 1, 1)
-        self.segment_temperature_vertical_2.addWidget(self.segment_temperature_horizontal_6, 2, 0, 1, 1)
-        self.segment_temperature_visualization_4.addWidget(self.segment_temperature_vertical_p_2, 1, 1, 1, 1)
-        self.segment_temperature_visualization_3.addWidget(self.segment_temperature_viz_B_2, 0, 0, 1, 1)
-        self.segment_entry_wrapper_22.addWidget(self.segment_temperature_viz_A_2, 5, 0, 1, 1)
         self.segment_temperature_entry_frame_3 = QtWidgets.QFrame(self.segment_temperature_head_entry_2)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -18064,7 +17605,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_temperature_entry_stats_A_temperature_3.setProperty("value", 48)
+        self.segment_temperature_entry_stats_A_temperature_3.setProperty("value", 0)
         self.segment_temperature_entry_stats_A_temperature_3.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_temperature_entry_stats_A_temperature_3.setTextVisible(False)
         self.segment_temperature_entry_stats_A_temperature_3.setObjectName("segment_temperature_entry_stats_A_temperature_3")
@@ -18073,7 +17614,7 @@ class Ui_MainWindow(object):
         self.segment_temperature_entry_stats_A_nomality_3.setEnabled(False)
         self.segment_temperature_entry_stats_A_nomality_3.setMinimumSize(QtCore.QSize(60, 20))
         self.segment_temperature_entry_stats_A_nomality_3.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_entry_stats_A_nomality_3.setStyleSheet("background-color: rgb(203, 120, 130);\n"
+        self.segment_temperature_entry_stats_A_nomality_3.setStyleSheet("background-color: rgb(80, 203, 156);\n"
 "color: rgb(31, 31, 31);\n"
 "border: 4px;\n"
 "border-radius: 4px;")
@@ -18286,7 +17827,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_11.setProperty("value", 48)
+        self.temperature_entry_bar_11.setProperty("value", 0)
         self.temperature_entry_bar_11.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_11.setTextVisible(False)
         self.temperature_entry_bar_11.setObjectName("temperature_entry_bar_11")
@@ -18374,7 +17915,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_12.setProperty("value", 48)
+        self.temperature_entry_bar_12.setProperty("value", 0)
         self.temperature_entry_bar_12.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_12.setTextVisible(False)
         self.temperature_entry_bar_12.setObjectName("temperature_entry_bar_12")
@@ -18462,7 +18003,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_13.setProperty("value", 48)
+        self.temperature_entry_bar_13.setProperty("value", 0)
         self.temperature_entry_bar_13.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_13.setTextVisible(False)
         self.temperature_entry_bar_13.setObjectName("temperature_entry_bar_13")
@@ -18550,7 +18091,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_14.setProperty("value", 48)
+        self.temperature_entry_bar_14.setProperty("value", 0)
         self.temperature_entry_bar_14.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_14.setTextVisible(False)
         self.temperature_entry_bar_14.setObjectName("temperature_entry_bar_14")
@@ -18638,7 +18179,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_15.setProperty("value", 48)
+        self.temperature_entry_bar_15.setProperty("value", 0)
         self.temperature_entry_bar_15.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_15.setTextVisible(False)
         self.temperature_entry_bar_15.setObjectName("temperature_entry_bar_15")
@@ -18759,7 +18300,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_temperature_entry_stats_A_temperature_4.setProperty("value", 48)
+        self.segment_temperature_entry_stats_A_temperature_4.setProperty("value", 0)
         self.segment_temperature_entry_stats_A_temperature_4.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_temperature_entry_stats_A_temperature_4.setTextVisible(False)
         self.segment_temperature_entry_stats_A_temperature_4.setObjectName("segment_temperature_entry_stats_A_temperature_4")
@@ -18768,7 +18309,7 @@ class Ui_MainWindow(object):
         self.segment_temperature_entry_stats_A_nomality_4.setEnabled(False)
         self.segment_temperature_entry_stats_A_nomality_4.setMinimumSize(QtCore.QSize(60, 20))
         self.segment_temperature_entry_stats_A_nomality_4.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_entry_stats_A_nomality_4.setStyleSheet("background-color: rgb(203, 120, 130);\n"
+        self.segment_temperature_entry_stats_A_nomality_4.setStyleSheet("background-color: rgb(80, 203, 156);\n"
 "color: rgb(31, 31, 31);\n"
 "border: 4px;\n"
 "border-radius: 4px;")
@@ -18934,7 +18475,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_16.setProperty("value", 48)
+        self.temperature_entry_bar_16.setProperty("value", 0)
         self.temperature_entry_bar_16.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_16.setTextVisible(False)
         self.temperature_entry_bar_16.setObjectName("temperature_entry_bar_16")
@@ -19022,7 +18563,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_17.setProperty("value", 48)
+        self.temperature_entry_bar_17.setProperty("value", 0)
         self.temperature_entry_bar_17.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_17.setTextVisible(False)
         self.temperature_entry_bar_17.setObjectName("temperature_entry_bar_17")
@@ -19110,7 +18651,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_18.setProperty("value", 48)
+        self.temperature_entry_bar_18.setProperty("value", 0)
         self.temperature_entry_bar_18.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_18.setTextVisible(False)
         self.temperature_entry_bar_18.setObjectName("temperature_entry_bar_18")
@@ -19198,7 +18739,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_19.setProperty("value", 48)
+        self.temperature_entry_bar_19.setProperty("value", 0)
         self.temperature_entry_bar_19.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_19.setTextVisible(False)
         self.temperature_entry_bar_19.setObjectName("temperature_entry_bar_19")
@@ -19286,7 +18827,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_20.setProperty("value", 48)
+        self.temperature_entry_bar_20.setProperty("value", 0)
         self.temperature_entry_bar_20.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_20.setTextVisible(False)
         self.temperature_entry_bar_20.setObjectName("temperature_entry_bar_20")
@@ -19294,6 +18835,465 @@ class Ui_MainWindow(object):
         self.segment_entry_Al_20.addWidget(self.temperature_entry_20, 10176, 0, 1, 1)
         self.segment_entry_wrapper_24.addWidget(self.segment_temperature_entry_4, 3, 0, 1, 1)
         self.segment_entry_wrapper_22.addWidget(self.segment_temperature_entry_frame_4, 4, 0, 1, 1)
+        self.segment_temperature_head_entry_header_2 = QtWidgets.QFrame(self.segment_temperature_head_entry_2)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temperature_head_entry_header_2.sizePolicy().hasHeightForWidth())
+        self.segment_temperature_head_entry_header_2.setSizePolicy(sizePolicy)
+        self.segment_temperature_head_entry_header_2.setMinimumSize(QtCore.QSize(150, 120))
+        self.segment_temperature_head_entry_header_2.setMaximumSize(QtCore.QSize(16777215, 120))
+        self.segment_temperature_head_entry_header_2.setObjectName("segment_temperature_head_entry_header_2")
+        self.gridLayout_206 = QtWidgets.QGridLayout(self.segment_temperature_head_entry_header_2)
+        self.gridLayout_206.setContentsMargins(0, 0, 0, 0)
+        self.gridLayout_206.setSpacing(0)
+        self.gridLayout_206.setObjectName("gridLayout_206")
+        self.segment_temperature_head_entry_stats_B_2 = QtWidgets.QFrame(self.segment_temperature_head_entry_header_2)
+        self.segment_temperature_head_entry_stats_B_2.setMinimumSize(QtCore.QSize(0, 20))
+        self.segment_temperature_head_entry_stats_B_2.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_head_entry_stats_B_2.setObjectName("segment_temperature_head_entry_stats_B_2")
+        self.segment_entry_stats_Bl_40 = QtWidgets.QGridLayout(self.segment_temperature_head_entry_stats_B_2)
+        self.segment_entry_stats_Bl_40.setContentsMargins(0, 0, 0, 0)
+        self.segment_entry_stats_Bl_40.setHorizontalSpacing(2)
+        self.segment_entry_stats_Bl_40.setVerticalSpacing(0)
+        self.segment_entry_stats_Bl_40.setObjectName("segment_entry_stats_Bl_40")
+        self.segment_temperature_head_entry_stats_B_value_2 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_B_2)
+        self.segment_temperature_head_entry_stats_B_value_2.setEnabled(False)
+        self.segment_temperature_head_entry_stats_B_value_2.setMinimumSize(QtCore.QSize(50, 20))
+        self.segment_temperature_head_entry_stats_B_value_2.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_head_entry_stats_B_value_2.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.segment_temperature_head_entry_stats_B_value_2.setLineWidth(0)
+        self.segment_temperature_head_entry_stats_B_value_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_B_value_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_B_value_2.setObjectName("segment_temperature_head_entry_stats_B_value_2")
+        self.segment_entry_stats_Bl_40.addWidget(self.segment_temperature_head_entry_stats_B_value_2, 0, 1, 1, 1)
+        self.segment_temperature_head_entry_stats_B_name_2 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_B_2)
+        self.segment_temperature_head_entry_stats_B_name_2.setEnabled(False)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Preferred)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temperature_head_entry_stats_B_name_2.sizePolicy().hasHeightForWidth())
+        self.segment_temperature_head_entry_stats_B_name_2.setSizePolicy(sizePolicy)
+        self.segment_temperature_head_entry_stats_B_name_2.setMinimumSize(QtCore.QSize(108, 20))
+        self.segment_temperature_head_entry_stats_B_name_2.setMaximumSize(QtCore.QSize(108, 20))
+        self.segment_temperature_head_entry_stats_B_name_2.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.segment_temperature_head_entry_stats_B_name_2.setLineWidth(0)
+        self.segment_temperature_head_entry_stats_B_name_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_B_name_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_B_name_2.setObjectName("segment_temperature_head_entry_stats_B_name_2")
+        self.segment_entry_stats_Bl_40.addWidget(self.segment_temperature_head_entry_stats_B_name_2, 0, 0, 1, 1)
+        self.gridLayout_206.addWidget(self.segment_temperature_head_entry_stats_B_2, 4, 0, 1, 1)
+        self.segment_temperature_head_entry_stats_E_2 = QtWidgets.QFrame(self.segment_temperature_head_entry_header_2)
+        self.segment_temperature_head_entry_stats_E_2.setMinimumSize(QtCore.QSize(0, 20))
+        self.segment_temperature_head_entry_stats_E_2.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_head_entry_stats_E_2.setObjectName("segment_temperature_head_entry_stats_E_2")
+        self.segment_entry_stats_Bl_41 = QtWidgets.QGridLayout(self.segment_temperature_head_entry_stats_E_2)
+        self.segment_entry_stats_Bl_41.setContentsMargins(0, 0, 0, 0)
+        self.segment_entry_stats_Bl_41.setHorizontalSpacing(2)
+        self.segment_entry_stats_Bl_41.setVerticalSpacing(0)
+        self.segment_entry_stats_Bl_41.setObjectName("segment_entry_stats_Bl_41")
+        self.segment_temperature_head_entry_stats_E_value_2 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_E_2)
+        self.segment_temperature_head_entry_stats_E_value_2.setEnabled(False)
+        self.segment_temperature_head_entry_stats_E_value_2.setMinimumSize(QtCore.QSize(50, 20))
+        self.segment_temperature_head_entry_stats_E_value_2.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_head_entry_stats_E_value_2.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.segment_temperature_head_entry_stats_E_value_2.setLineWidth(0)
+        self.segment_temperature_head_entry_stats_E_value_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_E_value_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_E_value_2.setObjectName("segment_temperature_head_entry_stats_E_value_2")
+        self.segment_entry_stats_Bl_41.addWidget(self.segment_temperature_head_entry_stats_E_value_2, 0, 1, 1, 1)
+        self.segment_temperature_head_entry_stats_E_name_2 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_E_2)
+        self.segment_temperature_head_entry_stats_E_name_2.setEnabled(False)
+        self.segment_temperature_head_entry_stats_E_name_2.setMinimumSize(QtCore.QSize(110, 20))
+        self.segment_temperature_head_entry_stats_E_name_2.setMaximumSize(QtCore.QSize(110, 20))
+        self.segment_temperature_head_entry_stats_E_name_2.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.segment_temperature_head_entry_stats_E_name_2.setLineWidth(0)
+        self.segment_temperature_head_entry_stats_E_name_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_E_name_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_E_name_2.setObjectName("segment_temperature_head_entry_stats_E_name_2")
+        self.segment_entry_stats_Bl_41.addWidget(self.segment_temperature_head_entry_stats_E_name_2, 0, 0, 1, 1)
+        self.gridLayout_206.addWidget(self.segment_temperature_head_entry_stats_E_2, 1, 0, 1, 1)
+        self.segment_temperature_head_entry_stats_D_2 = QtWidgets.QFrame(self.segment_temperature_head_entry_header_2)
+        self.segment_temperature_head_entry_stats_D_2.setMinimumSize(QtCore.QSize(0, 20))
+        self.segment_temperature_head_entry_stats_D_2.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_head_entry_stats_D_2.setObjectName("segment_temperature_head_entry_stats_D_2")
+        self.segment_entry_stats_Bl_42 = QtWidgets.QGridLayout(self.segment_temperature_head_entry_stats_D_2)
+        self.segment_entry_stats_Bl_42.setContentsMargins(0, 0, 0, 0)
+        self.segment_entry_stats_Bl_42.setHorizontalSpacing(2)
+        self.segment_entry_stats_Bl_42.setVerticalSpacing(0)
+        self.segment_entry_stats_Bl_42.setObjectName("segment_entry_stats_Bl_42")
+        self.segment_temperature_head_entry_stats_D_min_name_2 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_D_2)
+        self.segment_temperature_head_entry_stats_D_min_name_2.setEnabled(False)
+        self.segment_temperature_head_entry_stats_D_min_name_2.setMinimumSize(QtCore.QSize(30, 20))
+        self.segment_temperature_head_entry_stats_D_min_name_2.setMaximumSize(QtCore.QSize(30, 20))
+        self.segment_temperature_head_entry_stats_D_min_name_2.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.segment_temperature_head_entry_stats_D_min_name_2.setLineWidth(0)
+        self.segment_temperature_head_entry_stats_D_min_name_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_D_min_name_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_D_min_name_2.setObjectName("segment_temperature_head_entry_stats_D_min_name_2")
+        self.segment_entry_stats_Bl_42.addWidget(self.segment_temperature_head_entry_stats_D_min_name_2, 0, 0, 1, 1)
+        self.segment_temperature_head_entry_stats_D_max_name_2 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_D_2)
+        self.segment_temperature_head_entry_stats_D_max_name_2.setEnabled(False)
+        self.segment_temperature_head_entry_stats_D_max_name_2.setMinimumSize(QtCore.QSize(30, 20))
+        self.segment_temperature_head_entry_stats_D_max_name_2.setMaximumSize(QtCore.QSize(30, 20))
+        self.segment_temperature_head_entry_stats_D_max_name_2.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.segment_temperature_head_entry_stats_D_max_name_2.setLineWidth(0)
+        self.segment_temperature_head_entry_stats_D_max_name_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_D_max_name_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_D_max_name_2.setObjectName("segment_temperature_head_entry_stats_D_max_name_2")
+        self.segment_entry_stats_Bl_42.addWidget(self.segment_temperature_head_entry_stats_D_max_name_2, 0, 2, 1, 1)
+        self.segment_temperature_head_entry_stats_D_max_value_2 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_D_2)
+        self.segment_temperature_head_entry_stats_D_max_value_2.setEnabled(False)
+        self.segment_temperature_head_entry_stats_D_max_value_2.setMinimumSize(QtCore.QSize(50, 20))
+        self.segment_temperature_head_entry_stats_D_max_value_2.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_head_entry_stats_D_max_value_2.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.segment_temperature_head_entry_stats_D_max_value_2.setLineWidth(0)
+        self.segment_temperature_head_entry_stats_D_max_value_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_D_max_value_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_D_max_value_2.setObjectName("segment_temperature_head_entry_stats_D_max_value_2")
+        self.segment_entry_stats_Bl_42.addWidget(self.segment_temperature_head_entry_stats_D_max_value_2, 0, 3, 1, 1)
+        self.segment_temperature_head_entry_stats_D_min_value_2 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_D_2)
+        self.segment_temperature_head_entry_stats_D_min_value_2.setEnabled(False)
+        self.segment_temperature_head_entry_stats_D_min_value_2.setMinimumSize(QtCore.QSize(50, 20))
+        self.segment_temperature_head_entry_stats_D_min_value_2.setMaximumSize(QtCore.QSize(50, 20))
+        self.segment_temperature_head_entry_stats_D_min_value_2.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.segment_temperature_head_entry_stats_D_min_value_2.setLineWidth(0)
+        self.segment_temperature_head_entry_stats_D_min_value_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_D_min_value_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_D_min_value_2.setObjectName("segment_temperature_head_entry_stats_D_min_value_2")
+        self.segment_entry_stats_Bl_42.addWidget(self.segment_temperature_head_entry_stats_D_min_value_2, 0, 1, 1, 1)
+        self.gridLayout_206.addWidget(self.segment_temperature_head_entry_stats_D_2, 2, 0, 1, 1)
+        self.segment_temperature_head_entry_id_2 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_header_2)
+        self.segment_temperature_head_entry_id_2.setEnabled(False)
+        self.segment_temperature_head_entry_id_2.setMinimumSize(QtCore.QSize(0, 20))
+        self.segment_temperature_head_entry_id_2.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_head_entry_id_2.setStyleSheet("background-color: rgb(230, 230, 230);\n"
+"color: rgb(31, 31, 31);\n"
+"border: 4px;\n"
+"border-radius: 4px;")
+        self.segment_temperature_head_entry_id_2.setLineWidth(0)
+        self.segment_temperature_head_entry_id_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_id_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_id_2.setObjectName("segment_temperature_head_entry_id_2")
+        self.gridLayout_206.addWidget(self.segment_temperature_head_entry_id_2, 0, 0, 1, 1)
+        self.segment_temperature_head_entry_stats_C_2 = QtWidgets.QFrame(self.segment_temperature_head_entry_header_2)
+        self.segment_temperature_head_entry_stats_C_2.setMinimumSize(QtCore.QSize(0, 20))
+        self.segment_temperature_head_entry_stats_C_2.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_head_entry_stats_C_2.setObjectName("segment_temperature_head_entry_stats_C_2")
+        self.segment_entry_stats_Al_55 = QtWidgets.QGridLayout(self.segment_temperature_head_entry_stats_C_2)
+        self.segment_entry_stats_Al_55.setContentsMargins(0, 0, 0, 0)
+        self.segment_entry_stats_Al_55.setHorizontalSpacing(6)
+        self.segment_entry_stats_Al_55.setVerticalSpacing(0)
+        self.segment_entry_stats_Al_55.setObjectName("segment_entry_stats_Al_55")
+        self.segment_temperature_head_entry_stats_C_voltage_2 = QtWidgets.QProgressBar(self.segment_temperature_head_entry_stats_C_2)
+        self.segment_temperature_head_entry_stats_C_voltage_2.setMinimumSize(QtCore.QSize(0, 12))
+        self.segment_temperature_head_entry_stats_C_voltage_2.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.segment_temperature_head_entry_stats_C_voltage_2.setStyleSheet("QProgressBar\n"
+"{\n"
+"background-color: rgb(31, 31, 31);\n"
+"border-radius: 4px;\n"
+"border: 1px solid rgb(145, 145, 145);\n"
+"margin-left: 8px;\n"
+"margin-right: 8px;\n"
+"}\n"
+"\n"
+"QProgressBar::chunk\n"
+"{\n"
+"background-color: rgb(80, 203, 156);\n"
+"border-radius: 4px;\n"
+"border: 4px;\n"
+"margin:2px;\n"
+"}")
+        self.segment_temperature_head_entry_stats_C_voltage_2.setProperty("value", 0)
+        self.segment_temperature_head_entry_stats_C_voltage_2.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
+        self.segment_temperature_head_entry_stats_C_voltage_2.setTextVisible(False)
+        self.segment_temperature_head_entry_stats_C_voltage_2.setObjectName("segment_temperature_head_entry_stats_C_voltage_2")
+        self.segment_entry_stats_Al_55.addWidget(self.segment_temperature_head_entry_stats_C_voltage_2, 0, 2, 1, 1)
+        self.segment_temperature_head_entry_stats_C_nomality_2 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_C_2)
+        self.segment_temperature_head_entry_stats_C_nomality_2.setEnabled(False)
+        self.segment_temperature_head_entry_stats_C_nomality_2.setMinimumSize(QtCore.QSize(60, 20))
+        self.segment_temperature_head_entry_stats_C_nomality_2.setMaximumSize(QtCore.QSize(60, 20))
+        self.segment_temperature_head_entry_stats_C_nomality_2.setStyleSheet("background-color: rgb(80, 203, 156);\n"
+"color: rgb(31, 31, 31);\n"
+"border: 4px;\n"
+"border-radius: 4px;")
+        self.segment_temperature_head_entry_stats_C_nomality_2.setLineWidth(0)
+        self.segment_temperature_head_entry_stats_C_nomality_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_C_nomality_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_C_nomality_2.setObjectName("segment_temperature_head_entry_stats_C_nomality_2")
+        self.segment_entry_stats_Al_55.addWidget(self.segment_temperature_head_entry_stats_C_nomality_2, 0, 1, 1, 1)
+        self.gridLayout_206.addWidget(self.segment_temperature_head_entry_stats_C_2, 3, 0, 1, 1)
+        self.segment_temperature_head_entry_stats_A_2 = QtWidgets.QFrame(self.segment_temperature_head_entry_header_2)
+        self.segment_temperature_head_entry_stats_A_2.setMinimumSize(QtCore.QSize(0, 20))
+        self.segment_temperature_head_entry_stats_A_2.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_head_entry_stats_A_2.setObjectName("segment_temperature_head_entry_stats_A_2")
+        self.segment_entry_stats_Al_56 = QtWidgets.QGridLayout(self.segment_temperature_head_entry_stats_A_2)
+        self.segment_entry_stats_Al_56.setContentsMargins(0, 0, 0, 0)
+        self.segment_entry_stats_Al_56.setHorizontalSpacing(6)
+        self.segment_entry_stats_Al_56.setVerticalSpacing(0)
+        self.segment_entry_stats_Al_56.setObjectName("segment_entry_stats_Al_56")
+        self.segment_temperature_head_entry_A_temperature_2 = QtWidgets.QProgressBar(self.segment_temperature_head_entry_stats_A_2)
+        self.segment_temperature_head_entry_A_temperature_2.setMinimumSize(QtCore.QSize(0, 12))
+        self.segment_temperature_head_entry_A_temperature_2.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.segment_temperature_head_entry_A_temperature_2.setStyleSheet("QProgressBar\n"
+"{\n"
+"background-color: rgb(31, 31, 31);\n"
+"border-radius: 4px;\n"
+"border: 1px solid rgb(145, 145, 145);\n"
+"margin-left: 8px;\n"
+"margin-right: 8px;\n"
+"}\n"
+"\n"
+"QProgressBar::chunk\n"
+"{\n"
+"background-color: rgb(203, 120, 130);\n"
+"border-radius: 4px;\n"
+"border: 4px;\n"
+"margin:2px;\n"
+"}")
+        self.segment_temperature_head_entry_A_temperature_2.setProperty("value", 0)
+        self.segment_temperature_head_entry_A_temperature_2.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
+        self.segment_temperature_head_entry_A_temperature_2.setTextVisible(False)
+        self.segment_temperature_head_entry_A_temperature_2.setObjectName("segment_temperature_head_entry_A_temperature_2")
+        self.segment_entry_stats_Al_56.addWidget(self.segment_temperature_head_entry_A_temperature_2, 0, 2, 1, 1)
+        self.segment_temperature_head_entry_A_nomality_2 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_A_2)
+        self.segment_temperature_head_entry_A_nomality_2.setEnabled(False)
+        self.segment_temperature_head_entry_A_nomality_2.setMinimumSize(QtCore.QSize(60, 20))
+        self.segment_temperature_head_entry_A_nomality_2.setMaximumSize(QtCore.QSize(60, 20))
+        self.segment_temperature_head_entry_A_nomality_2.setStyleSheet("background-color: rgb(80, 203, 156);\n"
+"color: rgb(31, 31, 31);\n"
+"border: 4px;\n"
+"border-radius: 4px;")
+        self.segment_temperature_head_entry_A_nomality_2.setLineWidth(0)
+        self.segment_temperature_head_entry_A_nomality_2.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_A_nomality_2.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_A_nomality_2.setObjectName("segment_temperature_head_entry_A_nomality_2")
+        self.segment_entry_stats_Al_56.addWidget(self.segment_temperature_head_entry_A_nomality_2, 0, 1, 1, 1)
+        self.gridLayout_206.addWidget(self.segment_temperature_head_entry_stats_A_2, 5, 0, 1, 1)
+        self.segment_entry_wrapper_22.addWidget(self.segment_temperature_head_entry_header_2, 1, 0, 1, 1)
+        self.segment_temperature_viz_A_2 = QtWidgets.QWidget(self.segment_temperature_head_entry_2)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temperature_viz_A_2.sizePolicy().hasHeightForWidth())
+        self.segment_temperature_viz_A_2.setSizePolicy(sizePolicy)
+        self.segment_temperature_viz_A_2.setStyleSheet("background-color: rgb(230, 230, 230);\n"
+"border-radius:2px;")
+        self.segment_temperature_viz_A_2.setObjectName("segment_temperature_viz_A_2")
+        self.segment_temperature_visualization_3 = QtWidgets.QGridLayout(self.segment_temperature_viz_A_2)
+        self.segment_temperature_visualization_3.setContentsMargins(1, 1, 1, 1)
+        self.segment_temperature_visualization_3.setSpacing(0)
+        self.segment_temperature_visualization_3.setObjectName("segment_temperature_visualization_3")
+        self.segment_temperature_viz_B_2 = QtWidgets.QWidget(self.segment_temperature_viz_A_2)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temperature_viz_B_2.sizePolicy().hasHeightForWidth())
+        self.segment_temperature_viz_B_2.setSizePolicy(sizePolicy)
+        self.segment_temperature_viz_B_2.setStyleSheet("background-color: rgb(31, 31, 31);")
+        self.segment_temperature_viz_B_2.setObjectName("segment_temperature_viz_B_2")
+        self.segment_temperature_visualization_4 = QtWidgets.QGridLayout(self.segment_temperature_viz_B_2)
+        self.segment_temperature_visualization_4.setContentsMargins(0, 0, 0, 0)
+        self.segment_temperature_visualization_4.setSpacing(0)
+        self.segment_temperature_visualization_4.setObjectName("segment_temperature_visualization_4")
+        self.segment_temperature_vertical_p_2 = QtWidgets.QFrame(self.segment_temperature_viz_B_2)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temperature_vertical_p_2.sizePolicy().hasHeightForWidth())
+        self.segment_temperature_vertical_p_2.setSizePolicy(sizePolicy)
+        self.segment_temperature_vertical_p_2.setMinimumSize(QtCore.QSize(0, 60))
+        self.segment_temperature_vertical_p_2.setStyleSheet("background-color: rgb(31, 31, 31);")
+        self.segment_temperature_vertical_p_2.setObjectName("segment_temperature_vertical_p_2")
+        self.segment_temperature_vertical_2 = QtWidgets.QGridLayout(self.segment_temperature_vertical_p_2)
+        self.segment_temperature_vertical_2.setContentsMargins(0, 0, 0, 0)
+        self.segment_temperature_vertical_2.setHorizontalSpacing(0)
+        self.segment_temperature_vertical_2.setVerticalSpacing(4)
+        self.segment_temperature_vertical_2.setObjectName("segment_temperature_vertical_2")
+        self.segment_temperature_horizontal_4 = QtWidgets.QFrame(self.segment_temperature_vertical_p_2)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temperature_horizontal_4.sizePolicy().hasHeightForWidth())
+        self.segment_temperature_horizontal_4.setSizePolicy(sizePolicy)
+        self.segment_temperature_horizontal_4.setMinimumSize(QtCore.QSize(10, 10))
+        self.segment_temperature_horizontal_4.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.segment_temperature_horizontal_4.setObjectName("segment_temperature_horizontal_4")
+        self.gridLayout_8 = QtWidgets.QGridLayout(self.segment_temperature_horizontal_4)
+        self.gridLayout_8.setContentsMargins(0, 0, 0, 0)
+        self.gridLayout_8.setHorizontalSpacing(8)
+        self.gridLayout_8.setVerticalSpacing(0)
+        self.gridLayout_8.setObjectName("gridLayout_8")
+        self.segment_temp_node_15 = QtWidgets.QLabel(self.segment_temperature_horizontal_4)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node_15.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_15.setSizePolicy(sizePolicy)
+        self.segment_temp_node_15.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_15.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node_15.setObjectName("segment_temp_node_15")
+        self.gridLayout_8.addWidget(self.segment_temp_node_15, 2, 1, 1, 1)
+        self.segment_temp_node_14 = QtWidgets.QLabel(self.segment_temperature_horizontal_4)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node_14.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_14.setSizePolicy(sizePolicy)
+        self.segment_temp_node_14.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_14.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node_14.setObjectName("segment_temp_node_14")
+        self.gridLayout_8.addWidget(self.segment_temp_node_14, 0, 1, 1, 1)
+        self.segment_temp_node_16 = QtWidgets.QLabel(self.segment_temperature_horizontal_4)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node_16.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_16.setSizePolicy(sizePolicy)
+        self.segment_temp_node_16.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_16.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node_16.setObjectName("segment_temp_node_16")
+        self.gridLayout_8.addWidget(self.segment_temp_node_16, 3, 1, 1, 1)
+        self.segment_temp_node_17 = QtWidgets.QLabel(self.segment_temperature_horizontal_4)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node_17.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_17.setSizePolicy(sizePolicy)
+        self.segment_temp_node_17.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_17.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node_17.setObjectName("segment_temp_node_17")
+        self.gridLayout_8.addWidget(self.segment_temp_node_17, 4, 1, 1, 1)
+        self.segment_temperature_vertical_2.addWidget(self.segment_temperature_horizontal_4, 0, 1, 1, 1)
+        self.segment_temperature_horizontal_5 = QtWidgets.QFrame(self.segment_temperature_vertical_p_2)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temperature_horizontal_5.sizePolicy().hasHeightForWidth())
+        self.segment_temperature_horizontal_5.setSizePolicy(sizePolicy)
+        self.segment_temperature_horizontal_5.setMinimumSize(QtCore.QSize(10, 10))
+        self.segment_temperature_horizontal_5.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.segment_temperature_horizontal_5.setObjectName("segment_temperature_horizontal_5")
+        self.gridLayout_5 = QtWidgets.QGridLayout(self.segment_temperature_horizontal_5)
+        self.gridLayout_5.setContentsMargins(0, 0, 0, 0)
+        self.gridLayout_5.setHorizontalSpacing(8)
+        self.gridLayout_5.setVerticalSpacing(0)
+        self.gridLayout_5.setObjectName("gridLayout_5")
+        self.segment_temp_node_11 = QtWidgets.QLabel(self.segment_temperature_horizontal_5)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node_11.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_11.setSizePolicy(sizePolicy)
+        self.segment_temp_node_11.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_11.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node_11.setObjectName("segment_temp_node_11")
+        self.gridLayout_5.addWidget(self.segment_temp_node_11, 0, 1, 1, 1)
+        self.segment_temp_node_12 = QtWidgets.QLabel(self.segment_temperature_horizontal_5)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node_12.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_12.setSizePolicy(sizePolicy)
+        self.segment_temp_node_12.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_12.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node_12.setObjectName("segment_temp_node_12")
+        self.gridLayout_5.addWidget(self.segment_temp_node_12, 2, 1, 1, 1)
+        self.segment_temp_node_13 = QtWidgets.QLabel(self.segment_temperature_horizontal_5)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node_13.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_13.setSizePolicy(sizePolicy)
+        self.segment_temp_node_13.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_13.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node_13.setObjectName("segment_temp_node_13")
+        self.gridLayout_5.addWidget(self.segment_temp_node_13, 3, 1, 1, 1)
+        self.segment_temperature_vertical_2.addWidget(self.segment_temperature_horizontal_5, 0, 0, 1, 1)
+        self.segment_temperature_horizontal_6 = QtWidgets.QFrame(self.segment_temperature_vertical_p_2)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temperature_horizontal_6.sizePolicy().hasHeightForWidth())
+        self.segment_temperature_horizontal_6.setSizePolicy(sizePolicy)
+        self.segment_temperature_horizontal_6.setMinimumSize(QtCore.QSize(10, 10))
+        self.segment_temperature_horizontal_6.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.segment_temperature_horizontal_6.setObjectName("segment_temperature_horizontal_6")
+        self.gridLayout_9 = QtWidgets.QGridLayout(self.segment_temperature_horizontal_6)
+        self.gridLayout_9.setContentsMargins(0, 0, 0, 0)
+        self.gridLayout_9.setHorizontalSpacing(8)
+        self.gridLayout_9.setVerticalSpacing(0)
+        self.gridLayout_9.setObjectName("gridLayout_9")
+        self.segment_temp_node_19 = QtWidgets.QLabel(self.segment_temperature_horizontal_6)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node_19.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_19.setSizePolicy(sizePolicy)
+        self.segment_temp_node_19.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_19.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node_19.setObjectName("segment_temp_node_19")
+        self.gridLayout_9.addWidget(self.segment_temp_node_19, 1, 0, 1, 1)
+        self.segment_temp_node_20 = QtWidgets.QLabel(self.segment_temperature_horizontal_6)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node_20.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_20.setSizePolicy(sizePolicy)
+        self.segment_temp_node_20.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_20.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node_20.setObjectName("segment_temp_node_20")
+        self.gridLayout_9.addWidget(self.segment_temp_node_20, 3, 0, 1, 1)
+        self.segment_temp_node_18 = QtWidgets.QLabel(self.segment_temperature_horizontal_6)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node_18.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_18.setSizePolicy(sizePolicy)
+        self.segment_temp_node_18.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_18.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node_18.setObjectName("segment_temp_node_18")
+        self.gridLayout_9.addWidget(self.segment_temp_node_18, 0, 0, 1, 1)
+        self.segment_temperature_vertical_2.addWidget(self.segment_temperature_horizontal_6, 0, 2, 1, 1)
+        self.segment_temperature_visualization_4.addWidget(self.segment_temperature_vertical_p_2, 1, 1, 1, 1)
+        self.segment_temperature_plus_2 = QtWidgets.QLabel(self.segment_temperature_viz_B_2)
+        self.segment_temperature_plus_2.setMinimumSize(QtCore.QSize(18, 18))
+        self.segment_temperature_plus_2.setMaximumSize(QtCore.QSize(18, 18))
+        self.segment_temperature_plus_2.setObjectName("segment_temperature_plus_2")
+        self.segment_temperature_visualization_4.addWidget(self.segment_temperature_plus_2, 0, 2, 1, 1)
+        self.segment_temperature_minus_2 = QtWidgets.QLabel(self.segment_temperature_viz_B_2)
+        self.segment_temperature_minus_2.setMinimumSize(QtCore.QSize(18, 18))
+        self.segment_temperature_minus_2.setMaximumSize(QtCore.QSize(18, 18))
+        self.segment_temperature_minus_2.setObjectName("segment_temperature_minus_2")
+        self.segment_temperature_visualization_4.addWidget(self.segment_temperature_minus_2, 2, 0, 1, 1)
+        self.segment_temperature_visualization_3.addWidget(self.segment_temperature_viz_B_2, 0, 0, 1, 1)
+        self.segment_entry_wrapper_22.addWidget(self.segment_temperature_viz_A_2, 5, 0, 1, 1)
         self.gridLayout_3.addWidget(self.segment_temperature_head_entry_2, 0, 3, 1, 1)
         self.segment_temperature_head_entry_6 = QtWidgets.QFrame(self.temperatures)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
@@ -19308,654 +19308,6 @@ class Ui_MainWindow(object):
         self.segment_entry_wrapper_34.setHorizontalSpacing(0)
         self.segment_entry_wrapper_34.setVerticalSpacing(12)
         self.segment_entry_wrapper_34.setObjectName("segment_entry_wrapper_34")
-        self.segment_temperature_entry_frame_11 = QtWidgets.QFrame(self.segment_temperature_head_entry_6)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temperature_entry_frame_11.sizePolicy().hasHeightForWidth())
-        self.segment_temperature_entry_frame_11.setSizePolicy(sizePolicy)
-        self.segment_temperature_entry_frame_11.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.segment_temperature_entry_frame_11.setObjectName("segment_temperature_entry_frame_11")
-        self.segment_entry_wrapper_35 = QtWidgets.QGridLayout(self.segment_temperature_entry_frame_11)
-        self.segment_entry_wrapper_35.setContentsMargins(0, 0, 0, 0)
-        self.segment_entry_wrapper_35.setSpacing(0)
-        self.segment_entry_wrapper_35.setObjectName("segment_entry_wrapper_35")
-        self.segment_temperature_entry_header_11 = QtWidgets.QFrame(self.segment_temperature_entry_frame_11)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Fixed)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temperature_entry_header_11.sizePolicy().hasHeightForWidth())
-        self.segment_temperature_entry_header_11.setSizePolicy(sizePolicy)
-        self.segment_temperature_entry_header_11.setMinimumSize(QtCore.QSize(150, 0))
-        self.segment_temperature_entry_header_11.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.segment_temperature_entry_header_11.setObjectName("segment_temperature_entry_header_11")
-        self.gridLayout_246 = QtWidgets.QGridLayout(self.segment_temperature_entry_header_11)
-        self.gridLayout_246.setContentsMargins(0, 0, 0, 0)
-        self.gridLayout_246.setSpacing(0)
-        self.gridLayout_246.setObjectName("gridLayout_246")
-        self.segment_temperature_entry_id_11 = QtWidgets.QTextBrowser(self.segment_temperature_entry_header_11)
-        self.segment_temperature_entry_id_11.setEnabled(False)
-        self.segment_temperature_entry_id_11.setMinimumSize(QtCore.QSize(0, 20))
-        self.segment_temperature_entry_id_11.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_entry_id_11.setStyleSheet("background-color: rgb(230, 230, 230);\n"
-"color: rgb(31, 31, 31);\n"
-"border: 4px;\n"
-"border-radius: 4px;")
-        self.segment_temperature_entry_id_11.setLineWidth(0)
-        self.segment_temperature_entry_id_11.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_id_11.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_id_11.setObjectName("segment_temperature_entry_id_11")
-        self.gridLayout_246.addWidget(self.segment_temperature_entry_id_11, 0, 0, 1, 1)
-        self.segment_temperature_entry_stats_A_11 = QtWidgets.QFrame(self.segment_temperature_entry_header_11)
-        self.segment_temperature_entry_stats_A_11.setMinimumSize(QtCore.QSize(0, 20))
-        self.segment_temperature_entry_stats_A_11.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_entry_stats_A_11.setObjectName("segment_temperature_entry_stats_A_11")
-        self.segment_entry_stats_Al_75 = QtWidgets.QGridLayout(self.segment_temperature_entry_stats_A_11)
-        self.segment_entry_stats_Al_75.setContentsMargins(0, 0, 0, 0)
-        self.segment_entry_stats_Al_75.setHorizontalSpacing(6)
-        self.segment_entry_stats_Al_75.setVerticalSpacing(0)
-        self.segment_entry_stats_Al_75.setObjectName("segment_entry_stats_Al_75")
-        self.segment_temperature_entry_stats_A_temperature_11 = QtWidgets.QProgressBar(self.segment_temperature_entry_stats_A_11)
-        self.segment_temperature_entry_stats_A_temperature_11.setMinimumSize(QtCore.QSize(0, 12))
-        self.segment_temperature_entry_stats_A_temperature_11.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.segment_temperature_entry_stats_A_temperature_11.setStyleSheet("QProgressBar\n"
-"{\n"
-"background-color: rgb(31, 31, 31);\n"
-"border-radius: 4px;\n"
-"border: 1px solid rgb(145, 145, 145);\n"
-"margin-left: 8px;\n"
-"margin-right: 8px;\n"
-"}\n"
-"\n"
-"QProgressBar::chunk\n"
-"{\n"
-"background-color: rgb(203, 120, 130);\n"
-"border-radius: 4px;\n"
-"border: 4px;\n"
-"margin:2px;\n"
-"}")
-        self.segment_temperature_entry_stats_A_temperature_11.setProperty("value", 48)
-        self.segment_temperature_entry_stats_A_temperature_11.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
-        self.segment_temperature_entry_stats_A_temperature_11.setTextVisible(False)
-        self.segment_temperature_entry_stats_A_temperature_11.setObjectName("segment_temperature_entry_stats_A_temperature_11")
-        self.segment_entry_stats_Al_75.addWidget(self.segment_temperature_entry_stats_A_temperature_11, 0, 2, 1, 1)
-        self.segment_temperature_entry_stats_A_nomality_11 = QtWidgets.QTextBrowser(self.segment_temperature_entry_stats_A_11)
-        self.segment_temperature_entry_stats_A_nomality_11.setEnabled(False)
-        self.segment_temperature_entry_stats_A_nomality_11.setMinimumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_entry_stats_A_nomality_11.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_entry_stats_A_nomality_11.setStyleSheet("background-color: rgb(203, 120, 130);\n"
-"color: rgb(31, 31, 31);\n"
-"border: 4px;\n"
-"border-radius: 4px;")
-        self.segment_temperature_entry_stats_A_nomality_11.setLineWidth(0)
-        self.segment_temperature_entry_stats_A_nomality_11.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_stats_A_nomality_11.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_stats_A_nomality_11.setObjectName("segment_temperature_entry_stats_A_nomality_11")
-        self.segment_entry_stats_Al_75.addWidget(self.segment_temperature_entry_stats_A_nomality_11, 0, 1, 1, 1)
-        self.gridLayout_246.addWidget(self.segment_temperature_entry_stats_A_11, 2, 0, 1, 1)
-        self.segment_temperature_entry_stats_B_11 = QtWidgets.QFrame(self.segment_temperature_entry_header_11)
-        self.segment_temperature_entry_stats_B_11.setMinimumSize(QtCore.QSize(0, 20))
-        self.segment_temperature_entry_stats_B_11.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_entry_stats_B_11.setObjectName("segment_temperature_entry_stats_B_11")
-        self.segment_entry_stats_Bl_58 = QtWidgets.QGridLayout(self.segment_temperature_entry_stats_B_11)
-        self.segment_entry_stats_Bl_58.setContentsMargins(0, 0, 0, 0)
-        self.segment_entry_stats_Bl_58.setHorizontalSpacing(2)
-        self.segment_entry_stats_Bl_58.setVerticalSpacing(0)
-        self.segment_entry_stats_Bl_58.setObjectName("segment_entry_stats_Bl_58")
-        self.segment_temperature_entry_stats_B_value_11 = QtWidgets.QTextBrowser(self.segment_temperature_entry_stats_B_11)
-        self.segment_temperature_entry_stats_B_value_11.setEnabled(False)
-        self.segment_temperature_entry_stats_B_value_11.setMinimumSize(QtCore.QSize(50, 20))
-        self.segment_temperature_entry_stats_B_value_11.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_entry_stats_B_value_11.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.segment_temperature_entry_stats_B_value_11.setLineWidth(0)
-        self.segment_temperature_entry_stats_B_value_11.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_stats_B_value_11.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_stats_B_value_11.setObjectName("segment_temperature_entry_stats_B_value_11")
-        self.segment_entry_stats_Bl_58.addWidget(self.segment_temperature_entry_stats_B_value_11, 0, 1, 1, 1)
-        self.segment_temperature_entry_stats_B_name_11 = QtWidgets.QTextBrowser(self.segment_temperature_entry_stats_B_11)
-        self.segment_temperature_entry_stats_B_name_11.setEnabled(False)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Preferred)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temperature_entry_stats_B_name_11.sizePolicy().hasHeightForWidth())
-        self.segment_temperature_entry_stats_B_name_11.setSizePolicy(sizePolicy)
-        self.segment_temperature_entry_stats_B_name_11.setMinimumSize(QtCore.QSize(108, 20))
-        self.segment_temperature_entry_stats_B_name_11.setMaximumSize(QtCore.QSize(108, 20))
-        self.segment_temperature_entry_stats_B_name_11.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.segment_temperature_entry_stats_B_name_11.setLineWidth(0)
-        self.segment_temperature_entry_stats_B_name_11.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_stats_B_name_11.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_stats_B_name_11.setObjectName("segment_temperature_entry_stats_B_name_11")
-        self.segment_entry_stats_Bl_58.addWidget(self.segment_temperature_entry_stats_B_name_11, 0, 0, 1, 1)
-        self.gridLayout_246.addWidget(self.segment_temperature_entry_stats_B_11, 1, 0, 1, 1)
-        self.segment_temperature_entry_label_11 = QtWidgets.QFrame(self.segment_temperature_entry_header_11)
-        self.segment_temperature_entry_label_11.setMinimumSize(QtCore.QSize(0, 20))
-        self.segment_temperature_entry_label_11.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_entry_label_11.setObjectName("segment_temperature_entry_label_11")
-        self.segment_entry_stats_Al_76 = QtWidgets.QGridLayout(self.segment_temperature_entry_label_11)
-        self.segment_entry_stats_Al_76.setContentsMargins(0, 0, 0, 0)
-        self.segment_entry_stats_Al_76.setSpacing(0)
-        self.segment_entry_stats_Al_76.setObjectName("segment_entry_stats_Al_76")
-        self.segment_temperature_entry_label_C_11 = QtWidgets.QTextBrowser(self.segment_temperature_entry_label_11)
-        self.segment_temperature_entry_label_C_11.setEnabled(False)
-        self.segment_temperature_entry_label_C_11.setMinimumSize(QtCore.QSize(0, 16))
-        self.segment_temperature_entry_label_C_11.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.segment_temperature_entry_label_C_11.setStyleSheet("background-color: rgb(230, 230, 230);\n"
-"color: rgb(31, 31, 31);\n"
-"border: 4px;\n"
-"\n"
-"border-top-right-radius: 4px;\n"
-"border-bottom-right-radius: 4px;\n"
-"border-top-left-radius: 0px;\n"
-"border-bottom-left-radius: 0px;")
-        self.segment_temperature_entry_label_C_11.setLineWidth(0)
-        self.segment_temperature_entry_label_C_11.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_label_C_11.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_label_C_11.setObjectName("segment_temperature_entry_label_C_11")
-        self.segment_entry_stats_Al_76.addWidget(self.segment_temperature_entry_label_C_11, 0, 2, 1, 1)
-        self.segment_temperature_entry_label_A_11 = QtWidgets.QTextBrowser(self.segment_temperature_entry_label_11)
-        self.segment_temperature_entry_label_A_11.setEnabled(False)
-        self.segment_temperature_entry_label_A_11.setMinimumSize(QtCore.QSize(0, 16))
-        self.segment_temperature_entry_label_A_11.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.segment_temperature_entry_label_A_11.setStyleSheet("background-color: rgb(230, 230, 230);\n"
-"color: rgb(31, 31, 31);\n"
-"border: 4px;\n"
-"\n"
-"border-top-right-radius: 0px;\n"
-"border-bottom-right-radius: 0px;\n"
-"border-top-left-radius: 4px;\n"
-"border-bottom-left-radius: 4px;")
-        self.segment_temperature_entry_label_A_11.setLineWidth(0)
-        self.segment_temperature_entry_label_A_11.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_label_A_11.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_label_A_11.setObjectName("segment_temperature_entry_label_A_11")
-        self.segment_entry_stats_Al_76.addWidget(self.segment_temperature_entry_label_A_11, 0, 0, 1, 1)
-        self.segment_temperature_entry_label_B_11 = QtWidgets.QTextBrowser(self.segment_temperature_entry_label_11)
-        self.segment_temperature_entry_label_B_11.setEnabled(False)
-        self.segment_temperature_entry_label_B_11.setMinimumSize(QtCore.QSize(0, 16))
-        self.segment_temperature_entry_label_B_11.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.segment_temperature_entry_label_B_11.setStyleSheet("background-color: rgb(230, 230, 230);\n"
-"color: rgb(31, 31, 31);\n"
-"border: 4px;\n"
-"\n"
-"border-top-right-radius: 0px;\n"
-"border-bottom-right-radius: 0px;\n"
-"border-top-left-radius: 0px;\n"
-"border-bottom-left-radius: 0px;")
-        self.segment_temperature_entry_label_B_11.setLineWidth(0)
-        self.segment_temperature_entry_label_B_11.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_label_B_11.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_label_B_11.setObjectName("segment_temperature_entry_label_B_11")
-        self.segment_entry_stats_Al_76.addWidget(self.segment_temperature_entry_label_B_11, 0, 1, 1, 1)
-        self.gridLayout_246.addWidget(self.segment_temperature_entry_label_11, 3, 0, 1, 1)
-        self.segment_entry_wrapper_35.addWidget(self.segment_temperature_entry_header_11, 2, 0, 1, 1)
-        self.segment_temperature_entry_11 = QtWidgets.QFrame(self.segment_temperature_entry_frame_11)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temperature_entry_11.sizePolicy().hasHeightForWidth())
-        self.segment_temperature_entry_11.setSizePolicy(sizePolicy)
-        self.segment_temperature_entry_11.setMinimumSize(QtCore.QSize(160, 0))
-        self.segment_temperature_entry_11.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.segment_temperature_entry_11.setFrameShape(QtWidgets.QFrame.NoFrame)
-        self.segment_temperature_entry_11.setLineWidth(0)
-        self.segment_temperature_entry_11.setObjectName("segment_temperature_entry_11")
-        self.segment_entry_Al_27 = QtWidgets.QGridLayout(self.segment_temperature_entry_11)
-        self.segment_entry_Al_27.setContentsMargins(0, 0, 0, 0)
-        self.segment_entry_Al_27.setSpacing(0)
-        self.segment_entry_Al_27.setObjectName("segment_entry_Al_27")
-        self.segment_temperature_entry_hline_11 = QtWidgets.QFrame(self.segment_temperature_entry_11)
-        self.segment_temperature_entry_hline_11.setStyleSheet("color: rgb(145, 145, 145);")
-        self.segment_temperature_entry_hline_11.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.segment_temperature_entry_hline_11.setFrameShape(QtWidgets.QFrame.HLine)
-        self.segment_temperature_entry_hline_11.setObjectName("segment_temperature_entry_hline_11")
-        self.segment_entry_Al_27.addWidget(self.segment_temperature_entry_hline_11, 0, 0, 1, 1)
-        self.temperature_entry_51 = QtWidgets.QFrame(self.segment_temperature_entry_11)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_51.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_51.setSizePolicy(sizePolicy)
-        self.temperature_entry_51.setMinimumSize(QtCore.QSize(100, 20))
-        self.temperature_entry_51.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.temperature_entry_51.setObjectName("temperature_entry_51")
-        self.gridLayout_247 = QtWidgets.QGridLayout(self.temperature_entry_51)
-        self.gridLayout_247.setContentsMargins(0, 0, 0, 0)
-        self.gridLayout_247.setSpacing(0)
-        self.gridLayout_247.setObjectName("gridLayout_247")
-        self.temperature_entry_name_51 = QtWidgets.QTextBrowser(self.temperature_entry_51)
-        self.temperature_entry_name_51.setEnabled(False)
-        self.temperature_entry_name_51.setMinimumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_51.setMaximumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_51.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_name_51.setLineWidth(0)
-        self.temperature_entry_name_51.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_51.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_51.setObjectName("temperature_entry_name_51")
-        self.gridLayout_247.addWidget(self.temperature_entry_name_51, 0, 0, 1, 1)
-        self.temperature_entry_right_line_51 = QtWidgets.QFrame(self.temperature_entry_51)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_51.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_right_line_51.setSizePolicy(sizePolicy)
-        self.temperature_entry_right_line_51.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_right_line_51.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_right_line_51.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_right_line_51.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_right_line_51.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_right_line_51.setObjectName("temperature_entry_right_line_51")
-        self.gridLayout_247.addWidget(self.temperature_entry_right_line_51, 0, 5, 1, 1)
-        self.temperature_entry_left_line_51 = QtWidgets.QFrame(self.temperature_entry_51)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_51.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_left_line_51.setSizePolicy(sizePolicy)
-        self.temperature_entry_left_line_51.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_left_line_51.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_left_line_51.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_left_line_51.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_left_line_51.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_left_line_51.setObjectName("temperature_entry_left_line_51")
-        self.gridLayout_247.addWidget(self.temperature_entry_left_line_51, 0, 1, 1, 1)
-        self.temperature_entry_value_51 = QtWidgets.QTextBrowser(self.temperature_entry_51)
-        self.temperature_entry_value_51.setEnabled(False)
-        self.temperature_entry_value_51.setMinimumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_51.setMaximumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_51.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_value_51.setLineWidth(0)
-        self.temperature_entry_value_51.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_51.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_51.setObjectName("temperature_entry_value_51")
-        self.gridLayout_247.addWidget(self.temperature_entry_value_51, 0, 6, 1, 1)
-        self.temperature_entry_bar_51 = QtWidgets.QProgressBar(self.temperature_entry_51)
-        self.temperature_entry_bar_51.setMinimumSize(QtCore.QSize(0, 12))
-        self.temperature_entry_bar_51.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.temperature_entry_bar_51.setStyleSheet("QProgressBar\n"
-"{\n"
-"background-color: rgb(31, 31, 31);\n"
-"border-radius: 4px;\n"
-"border: 1px solid rgb(145, 145, 145);\n"
-"margin-left: 8px;\n"
-"margin-right: 8px;\n"
-"}\n"
-"\n"
-"QProgressBar::chunk\n"
-"{\n"
-"background-color: rgb(203, 120, 130);\n"
-"border-radius: 4px;\n"
-"border: 4px;\n"
-"margin:2px;\n"
-"}")
-        self.temperature_entry_bar_51.setProperty("value", 48)
-        self.temperature_entry_bar_51.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
-        self.temperature_entry_bar_51.setTextVisible(False)
-        self.temperature_entry_bar_51.setObjectName("temperature_entry_bar_51")
-        self.gridLayout_247.addWidget(self.temperature_entry_bar_51, 0, 2, 1, 1)
-        self.segment_entry_Al_27.addWidget(self.temperature_entry_51, 10344, 0, 1, 1)
-        self.temperature_entry_52 = QtWidgets.QFrame(self.segment_temperature_entry_11)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_52.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_52.setSizePolicy(sizePolicy)
-        self.temperature_entry_52.setMinimumSize(QtCore.QSize(100, 20))
-        self.temperature_entry_52.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.temperature_entry_52.setObjectName("temperature_entry_52")
-        self.gridLayout_248 = QtWidgets.QGridLayout(self.temperature_entry_52)
-        self.gridLayout_248.setContentsMargins(0, 0, 0, 0)
-        self.gridLayout_248.setSpacing(0)
-        self.gridLayout_248.setObjectName("gridLayout_248")
-        self.temperature_entry_name_52 = QtWidgets.QTextBrowser(self.temperature_entry_52)
-        self.temperature_entry_name_52.setEnabled(False)
-        self.temperature_entry_name_52.setMinimumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_52.setMaximumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_52.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_name_52.setLineWidth(0)
-        self.temperature_entry_name_52.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_52.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_52.setObjectName("temperature_entry_name_52")
-        self.gridLayout_248.addWidget(self.temperature_entry_name_52, 0, 0, 1, 1)
-        self.temperature_entry_right_line_52 = QtWidgets.QFrame(self.temperature_entry_52)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_52.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_right_line_52.setSizePolicy(sizePolicy)
-        self.temperature_entry_right_line_52.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_right_line_52.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_right_line_52.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_right_line_52.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_right_line_52.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_right_line_52.setObjectName("temperature_entry_right_line_52")
-        self.gridLayout_248.addWidget(self.temperature_entry_right_line_52, 0, 5, 1, 1)
-        self.temperature_entry_left_line_52 = QtWidgets.QFrame(self.temperature_entry_52)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_52.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_left_line_52.setSizePolicy(sizePolicy)
-        self.temperature_entry_left_line_52.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_left_line_52.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_left_line_52.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_left_line_52.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_left_line_52.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_left_line_52.setObjectName("temperature_entry_left_line_52")
-        self.gridLayout_248.addWidget(self.temperature_entry_left_line_52, 0, 1, 1, 1)
-        self.temperature_entry_value_52 = QtWidgets.QTextBrowser(self.temperature_entry_52)
-        self.temperature_entry_value_52.setEnabled(False)
-        self.temperature_entry_value_52.setMinimumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_52.setMaximumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_52.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_value_52.setLineWidth(0)
-        self.temperature_entry_value_52.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_52.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_52.setObjectName("temperature_entry_value_52")
-        self.gridLayout_248.addWidget(self.temperature_entry_value_52, 0, 6, 1, 1)
-        self.temperature_entry_bar_52 = QtWidgets.QProgressBar(self.temperature_entry_52)
-        self.temperature_entry_bar_52.setMinimumSize(QtCore.QSize(0, 12))
-        self.temperature_entry_bar_52.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.temperature_entry_bar_52.setStyleSheet("QProgressBar\n"
-"{\n"
-"background-color: rgb(31, 31, 31);\n"
-"border-radius: 4px;\n"
-"border: 1px solid rgb(145, 145, 145);\n"
-"margin-left: 8px;\n"
-"margin-right: 8px;\n"
-"}\n"
-"\n"
-"QProgressBar::chunk\n"
-"{\n"
-"background-color: rgb(203, 120, 130);\n"
-"border-radius: 4px;\n"
-"border: 4px;\n"
-"margin:2px;\n"
-"}")
-        self.temperature_entry_bar_52.setProperty("value", 48)
-        self.temperature_entry_bar_52.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
-        self.temperature_entry_bar_52.setTextVisible(False)
-        self.temperature_entry_bar_52.setObjectName("temperature_entry_bar_52")
-        self.gridLayout_248.addWidget(self.temperature_entry_bar_52, 0, 2, 1, 1)
-        self.segment_entry_Al_27.addWidget(self.temperature_entry_52, 10389, 0, 1, 1)
-        self.temperature_entry_53 = QtWidgets.QFrame(self.segment_temperature_entry_11)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_53.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_53.setSizePolicy(sizePolicy)
-        self.temperature_entry_53.setMinimumSize(QtCore.QSize(100, 20))
-        self.temperature_entry_53.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.temperature_entry_53.setObjectName("temperature_entry_53")
-        self.gridLayout_249 = QtWidgets.QGridLayout(self.temperature_entry_53)
-        self.gridLayout_249.setContentsMargins(0, 0, 0, 0)
-        self.gridLayout_249.setSpacing(0)
-        self.gridLayout_249.setObjectName("gridLayout_249")
-        self.temperature_entry_name_53 = QtWidgets.QTextBrowser(self.temperature_entry_53)
-        self.temperature_entry_name_53.setEnabled(False)
-        self.temperature_entry_name_53.setMinimumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_53.setMaximumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_53.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_name_53.setLineWidth(0)
-        self.temperature_entry_name_53.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_53.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_53.setObjectName("temperature_entry_name_53")
-        self.gridLayout_249.addWidget(self.temperature_entry_name_53, 0, 0, 1, 1)
-        self.temperature_entry_right_line_53 = QtWidgets.QFrame(self.temperature_entry_53)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_53.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_right_line_53.setSizePolicy(sizePolicy)
-        self.temperature_entry_right_line_53.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_right_line_53.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_right_line_53.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_right_line_53.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_right_line_53.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_right_line_53.setObjectName("temperature_entry_right_line_53")
-        self.gridLayout_249.addWidget(self.temperature_entry_right_line_53, 0, 5, 1, 1)
-        self.temperature_entry_left_line_53 = QtWidgets.QFrame(self.temperature_entry_53)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_53.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_left_line_53.setSizePolicy(sizePolicy)
-        self.temperature_entry_left_line_53.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_left_line_53.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_left_line_53.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_left_line_53.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_left_line_53.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_left_line_53.setObjectName("temperature_entry_left_line_53")
-        self.gridLayout_249.addWidget(self.temperature_entry_left_line_53, 0, 1, 1, 1)
-        self.temperature_entry_value_53 = QtWidgets.QTextBrowser(self.temperature_entry_53)
-        self.temperature_entry_value_53.setEnabled(False)
-        self.temperature_entry_value_53.setMinimumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_53.setMaximumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_53.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_value_53.setLineWidth(0)
-        self.temperature_entry_value_53.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_53.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_53.setObjectName("temperature_entry_value_53")
-        self.gridLayout_249.addWidget(self.temperature_entry_value_53, 0, 6, 1, 1)
-        self.temperature_entry_bar_53 = QtWidgets.QProgressBar(self.temperature_entry_53)
-        self.temperature_entry_bar_53.setMinimumSize(QtCore.QSize(0, 12))
-        self.temperature_entry_bar_53.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.temperature_entry_bar_53.setStyleSheet("QProgressBar\n"
-"{\n"
-"background-color: rgb(31, 31, 31);\n"
-"border-radius: 4px;\n"
-"border: 1px solid rgb(145, 145, 145);\n"
-"margin-left: 8px;\n"
-"margin-right: 8px;\n"
-"}\n"
-"\n"
-"QProgressBar::chunk\n"
-"{\n"
-"background-color: rgb(203, 120, 130);\n"
-"border-radius: 4px;\n"
-"border: 4px;\n"
-"margin:2px;\n"
-"}")
-        self.temperature_entry_bar_53.setProperty("value", 48)
-        self.temperature_entry_bar_53.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
-        self.temperature_entry_bar_53.setTextVisible(False)
-        self.temperature_entry_bar_53.setObjectName("temperature_entry_bar_53")
-        self.gridLayout_249.addWidget(self.temperature_entry_bar_53, 0, 2, 1, 1)
-        self.segment_entry_Al_27.addWidget(self.temperature_entry_53, 10434, 0, 1, 1)
-        self.temperature_entry_54 = QtWidgets.QFrame(self.segment_temperature_entry_11)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_54.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_54.setSizePolicy(sizePolicy)
-        self.temperature_entry_54.setMinimumSize(QtCore.QSize(100, 20))
-        self.temperature_entry_54.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.temperature_entry_54.setObjectName("temperature_entry_54")
-        self.gridLayout_250 = QtWidgets.QGridLayout(self.temperature_entry_54)
-        self.gridLayout_250.setContentsMargins(0, 0, 0, 0)
-        self.gridLayout_250.setSpacing(0)
-        self.gridLayout_250.setObjectName("gridLayout_250")
-        self.temperature_entry_name_54 = QtWidgets.QTextBrowser(self.temperature_entry_54)
-        self.temperature_entry_name_54.setEnabled(False)
-        self.temperature_entry_name_54.setMinimumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_54.setMaximumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_54.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_name_54.setLineWidth(0)
-        self.temperature_entry_name_54.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_54.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_54.setObjectName("temperature_entry_name_54")
-        self.gridLayout_250.addWidget(self.temperature_entry_name_54, 0, 0, 1, 1)
-        self.temperature_entry_right_line_54 = QtWidgets.QFrame(self.temperature_entry_54)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_54.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_right_line_54.setSizePolicy(sizePolicy)
-        self.temperature_entry_right_line_54.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_right_line_54.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_right_line_54.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_right_line_54.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_right_line_54.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_right_line_54.setObjectName("temperature_entry_right_line_54")
-        self.gridLayout_250.addWidget(self.temperature_entry_right_line_54, 0, 5, 1, 1)
-        self.temperature_entry_left_line_54 = QtWidgets.QFrame(self.temperature_entry_54)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_54.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_left_line_54.setSizePolicy(sizePolicy)
-        self.temperature_entry_left_line_54.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_left_line_54.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_left_line_54.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_left_line_54.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_left_line_54.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_left_line_54.setObjectName("temperature_entry_left_line_54")
-        self.gridLayout_250.addWidget(self.temperature_entry_left_line_54, 0, 1, 1, 1)
-        self.temperature_entry_value_54 = QtWidgets.QTextBrowser(self.temperature_entry_54)
-        self.temperature_entry_value_54.setEnabled(False)
-        self.temperature_entry_value_54.setMinimumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_54.setMaximumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_54.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_value_54.setLineWidth(0)
-        self.temperature_entry_value_54.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_54.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_54.setObjectName("temperature_entry_value_54")
-        self.gridLayout_250.addWidget(self.temperature_entry_value_54, 0, 6, 1, 1)
-        self.temperature_entry_bar_54 = QtWidgets.QProgressBar(self.temperature_entry_54)
-        self.temperature_entry_bar_54.setMinimumSize(QtCore.QSize(0, 12))
-        self.temperature_entry_bar_54.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.temperature_entry_bar_54.setStyleSheet("QProgressBar\n"
-"{\n"
-"background-color: rgb(31, 31, 31);\n"
-"border-radius: 4px;\n"
-"border: 1px solid rgb(145, 145, 145);\n"
-"margin-left: 8px;\n"
-"margin-right: 8px;\n"
-"}\n"
-"\n"
-"QProgressBar::chunk\n"
-"{\n"
-"background-color: rgb(203, 120, 130);\n"
-"border-radius: 4px;\n"
-"border: 4px;\n"
-"margin:2px;\n"
-"}")
-        self.temperature_entry_bar_54.setProperty("value", 48)
-        self.temperature_entry_bar_54.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
-        self.temperature_entry_bar_54.setTextVisible(False)
-        self.temperature_entry_bar_54.setObjectName("temperature_entry_bar_54")
-        self.gridLayout_250.addWidget(self.temperature_entry_bar_54, 0, 2, 1, 1)
-        self.segment_entry_Al_27.addWidget(self.temperature_entry_54, 10479, 0, 1, 1)
-        self.temperature_entry_55 = QtWidgets.QFrame(self.segment_temperature_entry_11)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_55.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_55.setSizePolicy(sizePolicy)
-        self.temperature_entry_55.setMinimumSize(QtCore.QSize(100, 20))
-        self.temperature_entry_55.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.temperature_entry_55.setObjectName("temperature_entry_55")
-        self.gridLayout_251 = QtWidgets.QGridLayout(self.temperature_entry_55)
-        self.gridLayout_251.setContentsMargins(0, 0, 0, 0)
-        self.gridLayout_251.setSpacing(0)
-        self.gridLayout_251.setObjectName("gridLayout_251")
-        self.temperature_entry_name_55 = QtWidgets.QTextBrowser(self.temperature_entry_55)
-        self.temperature_entry_name_55.setEnabled(False)
-        self.temperature_entry_name_55.setMinimumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_55.setMaximumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_55.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_name_55.setLineWidth(0)
-        self.temperature_entry_name_55.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_55.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_55.setObjectName("temperature_entry_name_55")
-        self.gridLayout_251.addWidget(self.temperature_entry_name_55, 0, 0, 1, 1)
-        self.temperature_entry_right_line_55 = QtWidgets.QFrame(self.temperature_entry_55)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_55.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_right_line_55.setSizePolicy(sizePolicy)
-        self.temperature_entry_right_line_55.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_right_line_55.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_right_line_55.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_right_line_55.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_right_line_55.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_right_line_55.setObjectName("temperature_entry_right_line_55")
-        self.gridLayout_251.addWidget(self.temperature_entry_right_line_55, 0, 5, 1, 1)
-        self.temperature_entry_left_line_55 = QtWidgets.QFrame(self.temperature_entry_55)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_55.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_left_line_55.setSizePolicy(sizePolicy)
-        self.temperature_entry_left_line_55.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_left_line_55.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_left_line_55.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_left_line_55.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_left_line_55.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_left_line_55.setObjectName("temperature_entry_left_line_55")
-        self.gridLayout_251.addWidget(self.temperature_entry_left_line_55, 0, 1, 1, 1)
-        self.temperature_entry_value_55 = QtWidgets.QTextBrowser(self.temperature_entry_55)
-        self.temperature_entry_value_55.setEnabled(False)
-        self.temperature_entry_value_55.setMinimumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_55.setMaximumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_55.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_value_55.setLineWidth(0)
-        self.temperature_entry_value_55.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_55.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_55.setObjectName("temperature_entry_value_55")
-        self.gridLayout_251.addWidget(self.temperature_entry_value_55, 0, 6, 1, 1)
-        self.temperature_entry_bar_55 = QtWidgets.QProgressBar(self.temperature_entry_55)
-        self.temperature_entry_bar_55.setMinimumSize(QtCore.QSize(0, 12))
-        self.temperature_entry_bar_55.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.temperature_entry_bar_55.setStyleSheet("QProgressBar\n"
-"{\n"
-"background-color: rgb(31, 31, 31);\n"
-"border-radius: 4px;\n"
-"border: 1px solid rgb(145, 145, 145);\n"
-"margin-left: 8px;\n"
-"margin-right: 8px;\n"
-"}\n"
-"\n"
-"QProgressBar::chunk\n"
-"{\n"
-"background-color: rgb(203, 120, 130);\n"
-"border-radius: 4px;\n"
-"border: 4px;\n"
-"margin:2px;\n"
-"}")
-        self.temperature_entry_bar_55.setProperty("value", 48)
-        self.temperature_entry_bar_55.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
-        self.temperature_entry_bar_55.setTextVisible(False)
-        self.temperature_entry_bar_55.setObjectName("temperature_entry_bar_55")
-        self.gridLayout_251.addWidget(self.temperature_entry_bar_55, 0, 2, 1, 1)
-        self.segment_entry_Al_27.addWidget(self.temperature_entry_55, 10523, 0, 1, 1)
-        self.segment_entry_wrapper_35.addWidget(self.segment_temperature_entry_11, 4, 0, 1, 1)
-        self.segment_entry_wrapper_34.addWidget(self.segment_temperature_entry_frame_11, 2, 0, 1, 1)
         self.segment_temperature_entry_frame_12 = QtWidgets.QFrame(self.segment_temperature_head_entry_6)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -20022,7 +19374,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_temperature_entry_stats_A_temperature_12.setProperty("value", 48)
+        self.segment_temperature_entry_stats_A_temperature_12.setProperty("value", 0)
         self.segment_temperature_entry_stats_A_temperature_12.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_temperature_entry_stats_A_temperature_12.setTextVisible(False)
         self.segment_temperature_entry_stats_A_temperature_12.setObjectName("segment_temperature_entry_stats_A_temperature_12")
@@ -20031,7 +19383,7 @@ class Ui_MainWindow(object):
         self.segment_temperature_entry_stats_A_nomality_12.setEnabled(False)
         self.segment_temperature_entry_stats_A_nomality_12.setMinimumSize(QtCore.QSize(60, 20))
         self.segment_temperature_entry_stats_A_nomality_12.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_entry_stats_A_nomality_12.setStyleSheet("background-color: rgb(203, 120, 130);\n"
+        self.segment_temperature_entry_stats_A_nomality_12.setStyleSheet("background-color: rgb(80, 203, 156);\n"
 "color: rgb(31, 31, 31);\n"
 "border: 4px;\n"
 "border-radius: 4px;")
@@ -20244,7 +19596,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_56.setProperty("value", 48)
+        self.temperature_entry_bar_56.setProperty("value", 0)
         self.temperature_entry_bar_56.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_56.setTextVisible(False)
         self.temperature_entry_bar_56.setObjectName("temperature_entry_bar_56")
@@ -20332,7 +19684,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_57.setProperty("value", 48)
+        self.temperature_entry_bar_57.setProperty("value", 0)
         self.temperature_entry_bar_57.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_57.setTextVisible(False)
         self.temperature_entry_bar_57.setObjectName("temperature_entry_bar_57")
@@ -20420,7 +19772,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_58.setProperty("value", 48)
+        self.temperature_entry_bar_58.setProperty("value", 0)
         self.temperature_entry_bar_58.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_58.setTextVisible(False)
         self.temperature_entry_bar_58.setObjectName("temperature_entry_bar_58")
@@ -20508,7 +19860,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_59.setProperty("value", 48)
+        self.temperature_entry_bar_59.setProperty("value", 0)
         self.temperature_entry_bar_59.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_59.setTextVisible(False)
         self.temperature_entry_bar_59.setObjectName("temperature_entry_bar_59")
@@ -20596,7 +19948,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_60.setProperty("value", 48)
+        self.temperature_entry_bar_60.setProperty("value", 0)
         self.temperature_entry_bar_60.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_60.setTextVisible(False)
         self.temperature_entry_bar_60.setObjectName("temperature_entry_bar_60")
@@ -20789,7 +20141,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_temperature_head_entry_stats_C_voltage_6.setProperty("value", 48)
+        self.segment_temperature_head_entry_stats_C_voltage_6.setProperty("value", 0)
         self.segment_temperature_head_entry_stats_C_voltage_6.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_temperature_head_entry_stats_C_voltage_6.setTextVisible(False)
         self.segment_temperature_head_entry_stats_C_voltage_6.setObjectName("segment_temperature_head_entry_stats_C_voltage_6")
@@ -20836,7 +20188,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_temperature_head_entry_A_temperature_6.setProperty("value", 48)
+        self.segment_temperature_head_entry_A_temperature_6.setProperty("value", 0)
         self.segment_temperature_head_entry_A_temperature_6.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_temperature_head_entry_A_temperature_6.setTextVisible(False)
         self.segment_temperature_head_entry_A_temperature_6.setObjectName("segment_temperature_head_entry_A_temperature_6")
@@ -20845,7 +20197,7 @@ class Ui_MainWindow(object):
         self.segment_temperature_head_entry_A_nomality_6.setEnabled(False)
         self.segment_temperature_head_entry_A_nomality_6.setMinimumSize(QtCore.QSize(60, 20))
         self.segment_temperature_head_entry_A_nomality_6.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_head_entry_A_nomality_6.setStyleSheet("background-color: rgb(203, 120, 130);\n"
+        self.segment_temperature_head_entry_A_nomality_6.setStyleSheet("background-color: rgb(80, 203, 156);\n"
 "color: rgb(31, 31, 31);\n"
 "border: 4px;\n"
 "border-radius: 4px;")
@@ -20856,6 +20208,654 @@ class Ui_MainWindow(object):
         self.segment_entry_stats_Al_80.addWidget(self.segment_temperature_head_entry_A_nomality_6, 0, 1, 1, 1)
         self.gridLayout_258.addWidget(self.segment_temperature_head_entry_stats_A_6, 5, 0, 1, 1)
         self.segment_entry_wrapper_34.addWidget(self.segment_temperature_head_entry_header_6, 1, 0, 1, 1)
+        self.segment_temperature_entry_frame_11 = QtWidgets.QFrame(self.segment_temperature_head_entry_6)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temperature_entry_frame_11.sizePolicy().hasHeightForWidth())
+        self.segment_temperature_entry_frame_11.setSizePolicy(sizePolicy)
+        self.segment_temperature_entry_frame_11.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.segment_temperature_entry_frame_11.setObjectName("segment_temperature_entry_frame_11")
+        self.segment_entry_wrapper_35 = QtWidgets.QGridLayout(self.segment_temperature_entry_frame_11)
+        self.segment_entry_wrapper_35.setContentsMargins(0, 0, 0, 0)
+        self.segment_entry_wrapper_35.setSpacing(0)
+        self.segment_entry_wrapper_35.setObjectName("segment_entry_wrapper_35")
+        self.segment_temperature_entry_header_11 = QtWidgets.QFrame(self.segment_temperature_entry_frame_11)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Fixed)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temperature_entry_header_11.sizePolicy().hasHeightForWidth())
+        self.segment_temperature_entry_header_11.setSizePolicy(sizePolicy)
+        self.segment_temperature_entry_header_11.setMinimumSize(QtCore.QSize(150, 0))
+        self.segment_temperature_entry_header_11.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.segment_temperature_entry_header_11.setObjectName("segment_temperature_entry_header_11")
+        self.gridLayout_246 = QtWidgets.QGridLayout(self.segment_temperature_entry_header_11)
+        self.gridLayout_246.setContentsMargins(0, 0, 0, 0)
+        self.gridLayout_246.setSpacing(0)
+        self.gridLayout_246.setObjectName("gridLayout_246")
+        self.segment_temperature_entry_id_11 = QtWidgets.QTextBrowser(self.segment_temperature_entry_header_11)
+        self.segment_temperature_entry_id_11.setEnabled(False)
+        self.segment_temperature_entry_id_11.setMinimumSize(QtCore.QSize(0, 20))
+        self.segment_temperature_entry_id_11.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_entry_id_11.setStyleSheet("background-color: rgb(230, 230, 230);\n"
+"color: rgb(31, 31, 31);\n"
+"border: 4px;\n"
+"border-radius: 4px;")
+        self.segment_temperature_entry_id_11.setLineWidth(0)
+        self.segment_temperature_entry_id_11.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_id_11.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_id_11.setObjectName("segment_temperature_entry_id_11")
+        self.gridLayout_246.addWidget(self.segment_temperature_entry_id_11, 0, 0, 1, 1)
+        self.segment_temperature_entry_stats_A_11 = QtWidgets.QFrame(self.segment_temperature_entry_header_11)
+        self.segment_temperature_entry_stats_A_11.setMinimumSize(QtCore.QSize(0, 20))
+        self.segment_temperature_entry_stats_A_11.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_entry_stats_A_11.setObjectName("segment_temperature_entry_stats_A_11")
+        self.segment_entry_stats_Al_75 = QtWidgets.QGridLayout(self.segment_temperature_entry_stats_A_11)
+        self.segment_entry_stats_Al_75.setContentsMargins(0, 0, 0, 0)
+        self.segment_entry_stats_Al_75.setHorizontalSpacing(6)
+        self.segment_entry_stats_Al_75.setVerticalSpacing(0)
+        self.segment_entry_stats_Al_75.setObjectName("segment_entry_stats_Al_75")
+        self.segment_temperature_entry_stats_A_temperature_11 = QtWidgets.QProgressBar(self.segment_temperature_entry_stats_A_11)
+        self.segment_temperature_entry_stats_A_temperature_11.setMinimumSize(QtCore.QSize(0, 12))
+        self.segment_temperature_entry_stats_A_temperature_11.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.segment_temperature_entry_stats_A_temperature_11.setStyleSheet("QProgressBar\n"
+"{\n"
+"background-color: rgb(31, 31, 31);\n"
+"border-radius: 4px;\n"
+"border: 1px solid rgb(145, 145, 145);\n"
+"margin-left: 8px;\n"
+"margin-right: 8px;\n"
+"}\n"
+"\n"
+"QProgressBar::chunk\n"
+"{\n"
+"background-color: rgb(203, 120, 130);\n"
+"border-radius: 4px;\n"
+"border: 4px;\n"
+"margin:2px;\n"
+"}")
+        self.segment_temperature_entry_stats_A_temperature_11.setProperty("value", 0)
+        self.segment_temperature_entry_stats_A_temperature_11.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
+        self.segment_temperature_entry_stats_A_temperature_11.setTextVisible(False)
+        self.segment_temperature_entry_stats_A_temperature_11.setObjectName("segment_temperature_entry_stats_A_temperature_11")
+        self.segment_entry_stats_Al_75.addWidget(self.segment_temperature_entry_stats_A_temperature_11, 0, 2, 1, 1)
+        self.segment_temperature_entry_stats_A_nomality_11 = QtWidgets.QTextBrowser(self.segment_temperature_entry_stats_A_11)
+        self.segment_temperature_entry_stats_A_nomality_11.setEnabled(False)
+        self.segment_temperature_entry_stats_A_nomality_11.setMinimumSize(QtCore.QSize(60, 20))
+        self.segment_temperature_entry_stats_A_nomality_11.setMaximumSize(QtCore.QSize(60, 20))
+        self.segment_temperature_entry_stats_A_nomality_11.setStyleSheet("background-color: rgb(80, 203, 156);\n"
+"color: rgb(31, 31, 31);\n"
+"border: 4px;\n"
+"border-radius: 4px;")
+        self.segment_temperature_entry_stats_A_nomality_11.setLineWidth(0)
+        self.segment_temperature_entry_stats_A_nomality_11.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_stats_A_nomality_11.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_stats_A_nomality_11.setObjectName("segment_temperature_entry_stats_A_nomality_11")
+        self.segment_entry_stats_Al_75.addWidget(self.segment_temperature_entry_stats_A_nomality_11, 0, 1, 1, 1)
+        self.gridLayout_246.addWidget(self.segment_temperature_entry_stats_A_11, 2, 0, 1, 1)
+        self.segment_temperature_entry_stats_B_11 = QtWidgets.QFrame(self.segment_temperature_entry_header_11)
+        self.segment_temperature_entry_stats_B_11.setMinimumSize(QtCore.QSize(0, 20))
+        self.segment_temperature_entry_stats_B_11.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_entry_stats_B_11.setObjectName("segment_temperature_entry_stats_B_11")
+        self.segment_entry_stats_Bl_58 = QtWidgets.QGridLayout(self.segment_temperature_entry_stats_B_11)
+        self.segment_entry_stats_Bl_58.setContentsMargins(0, 0, 0, 0)
+        self.segment_entry_stats_Bl_58.setHorizontalSpacing(2)
+        self.segment_entry_stats_Bl_58.setVerticalSpacing(0)
+        self.segment_entry_stats_Bl_58.setObjectName("segment_entry_stats_Bl_58")
+        self.segment_temperature_entry_stats_B_value_11 = QtWidgets.QTextBrowser(self.segment_temperature_entry_stats_B_11)
+        self.segment_temperature_entry_stats_B_value_11.setEnabled(False)
+        self.segment_temperature_entry_stats_B_value_11.setMinimumSize(QtCore.QSize(50, 20))
+        self.segment_temperature_entry_stats_B_value_11.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_entry_stats_B_value_11.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.segment_temperature_entry_stats_B_value_11.setLineWidth(0)
+        self.segment_temperature_entry_stats_B_value_11.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_stats_B_value_11.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_stats_B_value_11.setObjectName("segment_temperature_entry_stats_B_value_11")
+        self.segment_entry_stats_Bl_58.addWidget(self.segment_temperature_entry_stats_B_value_11, 0, 1, 1, 1)
+        self.segment_temperature_entry_stats_B_name_11 = QtWidgets.QTextBrowser(self.segment_temperature_entry_stats_B_11)
+        self.segment_temperature_entry_stats_B_name_11.setEnabled(False)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Preferred)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temperature_entry_stats_B_name_11.sizePolicy().hasHeightForWidth())
+        self.segment_temperature_entry_stats_B_name_11.setSizePolicy(sizePolicy)
+        self.segment_temperature_entry_stats_B_name_11.setMinimumSize(QtCore.QSize(108, 20))
+        self.segment_temperature_entry_stats_B_name_11.setMaximumSize(QtCore.QSize(108, 20))
+        self.segment_temperature_entry_stats_B_name_11.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.segment_temperature_entry_stats_B_name_11.setLineWidth(0)
+        self.segment_temperature_entry_stats_B_name_11.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_stats_B_name_11.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_stats_B_name_11.setObjectName("segment_temperature_entry_stats_B_name_11")
+        self.segment_entry_stats_Bl_58.addWidget(self.segment_temperature_entry_stats_B_name_11, 0, 0, 1, 1)
+        self.gridLayout_246.addWidget(self.segment_temperature_entry_stats_B_11, 1, 0, 1, 1)
+        self.segment_temperature_entry_label_11 = QtWidgets.QFrame(self.segment_temperature_entry_header_11)
+        self.segment_temperature_entry_label_11.setMinimumSize(QtCore.QSize(0, 20))
+        self.segment_temperature_entry_label_11.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_entry_label_11.setObjectName("segment_temperature_entry_label_11")
+        self.segment_entry_stats_Al_76 = QtWidgets.QGridLayout(self.segment_temperature_entry_label_11)
+        self.segment_entry_stats_Al_76.setContentsMargins(0, 0, 0, 0)
+        self.segment_entry_stats_Al_76.setSpacing(0)
+        self.segment_entry_stats_Al_76.setObjectName("segment_entry_stats_Al_76")
+        self.segment_temperature_entry_label_C_11 = QtWidgets.QTextBrowser(self.segment_temperature_entry_label_11)
+        self.segment_temperature_entry_label_C_11.setEnabled(False)
+        self.segment_temperature_entry_label_C_11.setMinimumSize(QtCore.QSize(0, 16))
+        self.segment_temperature_entry_label_C_11.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.segment_temperature_entry_label_C_11.setStyleSheet("background-color: rgb(230, 230, 230);\n"
+"color: rgb(31, 31, 31);\n"
+"border: 4px;\n"
+"\n"
+"border-top-right-radius: 4px;\n"
+"border-bottom-right-radius: 4px;\n"
+"border-top-left-radius: 0px;\n"
+"border-bottom-left-radius: 0px;")
+        self.segment_temperature_entry_label_C_11.setLineWidth(0)
+        self.segment_temperature_entry_label_C_11.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_label_C_11.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_label_C_11.setObjectName("segment_temperature_entry_label_C_11")
+        self.segment_entry_stats_Al_76.addWidget(self.segment_temperature_entry_label_C_11, 0, 2, 1, 1)
+        self.segment_temperature_entry_label_A_11 = QtWidgets.QTextBrowser(self.segment_temperature_entry_label_11)
+        self.segment_temperature_entry_label_A_11.setEnabled(False)
+        self.segment_temperature_entry_label_A_11.setMinimumSize(QtCore.QSize(0, 16))
+        self.segment_temperature_entry_label_A_11.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.segment_temperature_entry_label_A_11.setStyleSheet("background-color: rgb(230, 230, 230);\n"
+"color: rgb(31, 31, 31);\n"
+"border: 4px;\n"
+"\n"
+"border-top-right-radius: 0px;\n"
+"border-bottom-right-radius: 0px;\n"
+"border-top-left-radius: 4px;\n"
+"border-bottom-left-radius: 4px;")
+        self.segment_temperature_entry_label_A_11.setLineWidth(0)
+        self.segment_temperature_entry_label_A_11.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_label_A_11.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_label_A_11.setObjectName("segment_temperature_entry_label_A_11")
+        self.segment_entry_stats_Al_76.addWidget(self.segment_temperature_entry_label_A_11, 0, 0, 1, 1)
+        self.segment_temperature_entry_label_B_11 = QtWidgets.QTextBrowser(self.segment_temperature_entry_label_11)
+        self.segment_temperature_entry_label_B_11.setEnabled(False)
+        self.segment_temperature_entry_label_B_11.setMinimumSize(QtCore.QSize(0, 16))
+        self.segment_temperature_entry_label_B_11.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.segment_temperature_entry_label_B_11.setStyleSheet("background-color: rgb(230, 230, 230);\n"
+"color: rgb(31, 31, 31);\n"
+"border: 4px;\n"
+"\n"
+"border-top-right-radius: 0px;\n"
+"border-bottom-right-radius: 0px;\n"
+"border-top-left-radius: 0px;\n"
+"border-bottom-left-radius: 0px;")
+        self.segment_temperature_entry_label_B_11.setLineWidth(0)
+        self.segment_temperature_entry_label_B_11.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_label_B_11.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_label_B_11.setObjectName("segment_temperature_entry_label_B_11")
+        self.segment_entry_stats_Al_76.addWidget(self.segment_temperature_entry_label_B_11, 0, 1, 1, 1)
+        self.gridLayout_246.addWidget(self.segment_temperature_entry_label_11, 3, 0, 1, 1)
+        self.segment_entry_wrapper_35.addWidget(self.segment_temperature_entry_header_11, 2, 0, 1, 1)
+        self.segment_temperature_entry_11 = QtWidgets.QFrame(self.segment_temperature_entry_frame_11)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temperature_entry_11.sizePolicy().hasHeightForWidth())
+        self.segment_temperature_entry_11.setSizePolicy(sizePolicy)
+        self.segment_temperature_entry_11.setMinimumSize(QtCore.QSize(160, 0))
+        self.segment_temperature_entry_11.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.segment_temperature_entry_11.setFrameShape(QtWidgets.QFrame.NoFrame)
+        self.segment_temperature_entry_11.setLineWidth(0)
+        self.segment_temperature_entry_11.setObjectName("segment_temperature_entry_11")
+        self.segment_entry_Al_27 = QtWidgets.QGridLayout(self.segment_temperature_entry_11)
+        self.segment_entry_Al_27.setContentsMargins(0, 0, 0, 0)
+        self.segment_entry_Al_27.setSpacing(0)
+        self.segment_entry_Al_27.setObjectName("segment_entry_Al_27")
+        self.segment_temperature_entry_hline_11 = QtWidgets.QFrame(self.segment_temperature_entry_11)
+        self.segment_temperature_entry_hline_11.setStyleSheet("color: rgb(145, 145, 145);")
+        self.segment_temperature_entry_hline_11.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.segment_temperature_entry_hline_11.setFrameShape(QtWidgets.QFrame.HLine)
+        self.segment_temperature_entry_hline_11.setObjectName("segment_temperature_entry_hline_11")
+        self.segment_entry_Al_27.addWidget(self.segment_temperature_entry_hline_11, 0, 0, 1, 1)
+        self.temperature_entry_51 = QtWidgets.QFrame(self.segment_temperature_entry_11)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_51.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_51.setSizePolicy(sizePolicy)
+        self.temperature_entry_51.setMinimumSize(QtCore.QSize(100, 20))
+        self.temperature_entry_51.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.temperature_entry_51.setObjectName("temperature_entry_51")
+        self.gridLayout_247 = QtWidgets.QGridLayout(self.temperature_entry_51)
+        self.gridLayout_247.setContentsMargins(0, 0, 0, 0)
+        self.gridLayout_247.setSpacing(0)
+        self.gridLayout_247.setObjectName("gridLayout_247")
+        self.temperature_entry_name_51 = QtWidgets.QTextBrowser(self.temperature_entry_51)
+        self.temperature_entry_name_51.setEnabled(False)
+        self.temperature_entry_name_51.setMinimumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_51.setMaximumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_51.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_name_51.setLineWidth(0)
+        self.temperature_entry_name_51.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_51.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_51.setObjectName("temperature_entry_name_51")
+        self.gridLayout_247.addWidget(self.temperature_entry_name_51, 0, 0, 1, 1)
+        self.temperature_entry_right_line_51 = QtWidgets.QFrame(self.temperature_entry_51)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_51.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_right_line_51.setSizePolicy(sizePolicy)
+        self.temperature_entry_right_line_51.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_right_line_51.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_right_line_51.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_right_line_51.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_right_line_51.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_right_line_51.setObjectName("temperature_entry_right_line_51")
+        self.gridLayout_247.addWidget(self.temperature_entry_right_line_51, 0, 5, 1, 1)
+        self.temperature_entry_left_line_51 = QtWidgets.QFrame(self.temperature_entry_51)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_51.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_left_line_51.setSizePolicy(sizePolicy)
+        self.temperature_entry_left_line_51.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_left_line_51.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_left_line_51.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_left_line_51.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_left_line_51.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_left_line_51.setObjectName("temperature_entry_left_line_51")
+        self.gridLayout_247.addWidget(self.temperature_entry_left_line_51, 0, 1, 1, 1)
+        self.temperature_entry_value_51 = QtWidgets.QTextBrowser(self.temperature_entry_51)
+        self.temperature_entry_value_51.setEnabled(False)
+        self.temperature_entry_value_51.setMinimumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_51.setMaximumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_51.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_value_51.setLineWidth(0)
+        self.temperature_entry_value_51.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_51.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_51.setObjectName("temperature_entry_value_51")
+        self.gridLayout_247.addWidget(self.temperature_entry_value_51, 0, 6, 1, 1)
+        self.temperature_entry_bar_51 = QtWidgets.QProgressBar(self.temperature_entry_51)
+        self.temperature_entry_bar_51.setMinimumSize(QtCore.QSize(0, 12))
+        self.temperature_entry_bar_51.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.temperature_entry_bar_51.setStyleSheet("QProgressBar\n"
+"{\n"
+"background-color: rgb(31, 31, 31);\n"
+"border-radius: 4px;\n"
+"border: 1px solid rgb(145, 145, 145);\n"
+"margin-left: 8px;\n"
+"margin-right: 8px;\n"
+"}\n"
+"\n"
+"QProgressBar::chunk\n"
+"{\n"
+"background-color: rgb(203, 120, 130);\n"
+"border-radius: 4px;\n"
+"border: 4px;\n"
+"margin:2px;\n"
+"}")
+        self.temperature_entry_bar_51.setProperty("value", 0)
+        self.temperature_entry_bar_51.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
+        self.temperature_entry_bar_51.setTextVisible(False)
+        self.temperature_entry_bar_51.setObjectName("temperature_entry_bar_51")
+        self.gridLayout_247.addWidget(self.temperature_entry_bar_51, 0, 2, 1, 1)
+        self.segment_entry_Al_27.addWidget(self.temperature_entry_51, 10344, 0, 1, 1)
+        self.temperature_entry_52 = QtWidgets.QFrame(self.segment_temperature_entry_11)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_52.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_52.setSizePolicy(sizePolicy)
+        self.temperature_entry_52.setMinimumSize(QtCore.QSize(100, 20))
+        self.temperature_entry_52.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.temperature_entry_52.setObjectName("temperature_entry_52")
+        self.gridLayout_248 = QtWidgets.QGridLayout(self.temperature_entry_52)
+        self.gridLayout_248.setContentsMargins(0, 0, 0, 0)
+        self.gridLayout_248.setSpacing(0)
+        self.gridLayout_248.setObjectName("gridLayout_248")
+        self.temperature_entry_name_52 = QtWidgets.QTextBrowser(self.temperature_entry_52)
+        self.temperature_entry_name_52.setEnabled(False)
+        self.temperature_entry_name_52.setMinimumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_52.setMaximumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_52.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_name_52.setLineWidth(0)
+        self.temperature_entry_name_52.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_52.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_52.setObjectName("temperature_entry_name_52")
+        self.gridLayout_248.addWidget(self.temperature_entry_name_52, 0, 0, 1, 1)
+        self.temperature_entry_right_line_52 = QtWidgets.QFrame(self.temperature_entry_52)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_52.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_right_line_52.setSizePolicy(sizePolicy)
+        self.temperature_entry_right_line_52.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_right_line_52.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_right_line_52.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_right_line_52.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_right_line_52.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_right_line_52.setObjectName("temperature_entry_right_line_52")
+        self.gridLayout_248.addWidget(self.temperature_entry_right_line_52, 0, 5, 1, 1)
+        self.temperature_entry_left_line_52 = QtWidgets.QFrame(self.temperature_entry_52)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_52.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_left_line_52.setSizePolicy(sizePolicy)
+        self.temperature_entry_left_line_52.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_left_line_52.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_left_line_52.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_left_line_52.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_left_line_52.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_left_line_52.setObjectName("temperature_entry_left_line_52")
+        self.gridLayout_248.addWidget(self.temperature_entry_left_line_52, 0, 1, 1, 1)
+        self.temperature_entry_value_52 = QtWidgets.QTextBrowser(self.temperature_entry_52)
+        self.temperature_entry_value_52.setEnabled(False)
+        self.temperature_entry_value_52.setMinimumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_52.setMaximumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_52.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_value_52.setLineWidth(0)
+        self.temperature_entry_value_52.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_52.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_52.setObjectName("temperature_entry_value_52")
+        self.gridLayout_248.addWidget(self.temperature_entry_value_52, 0, 6, 1, 1)
+        self.temperature_entry_bar_52 = QtWidgets.QProgressBar(self.temperature_entry_52)
+        self.temperature_entry_bar_52.setMinimumSize(QtCore.QSize(0, 12))
+        self.temperature_entry_bar_52.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.temperature_entry_bar_52.setStyleSheet("QProgressBar\n"
+"{\n"
+"background-color: rgb(31, 31, 31);\n"
+"border-radius: 4px;\n"
+"border: 1px solid rgb(145, 145, 145);\n"
+"margin-left: 8px;\n"
+"margin-right: 8px;\n"
+"}\n"
+"\n"
+"QProgressBar::chunk\n"
+"{\n"
+"background-color: rgb(203, 120, 130);\n"
+"border-radius: 4px;\n"
+"border: 4px;\n"
+"margin:2px;\n"
+"}")
+        self.temperature_entry_bar_52.setProperty("value", 0)
+        self.temperature_entry_bar_52.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
+        self.temperature_entry_bar_52.setTextVisible(False)
+        self.temperature_entry_bar_52.setObjectName("temperature_entry_bar_52")
+        self.gridLayout_248.addWidget(self.temperature_entry_bar_52, 0, 2, 1, 1)
+        self.segment_entry_Al_27.addWidget(self.temperature_entry_52, 10389, 0, 1, 1)
+        self.temperature_entry_53 = QtWidgets.QFrame(self.segment_temperature_entry_11)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_53.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_53.setSizePolicy(sizePolicy)
+        self.temperature_entry_53.setMinimumSize(QtCore.QSize(100, 20))
+        self.temperature_entry_53.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.temperature_entry_53.setObjectName("temperature_entry_53")
+        self.gridLayout_249 = QtWidgets.QGridLayout(self.temperature_entry_53)
+        self.gridLayout_249.setContentsMargins(0, 0, 0, 0)
+        self.gridLayout_249.setSpacing(0)
+        self.gridLayout_249.setObjectName("gridLayout_249")
+        self.temperature_entry_name_53 = QtWidgets.QTextBrowser(self.temperature_entry_53)
+        self.temperature_entry_name_53.setEnabled(False)
+        self.temperature_entry_name_53.setMinimumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_53.setMaximumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_53.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_name_53.setLineWidth(0)
+        self.temperature_entry_name_53.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_53.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_53.setObjectName("temperature_entry_name_53")
+        self.gridLayout_249.addWidget(self.temperature_entry_name_53, 0, 0, 1, 1)
+        self.temperature_entry_right_line_53 = QtWidgets.QFrame(self.temperature_entry_53)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_53.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_right_line_53.setSizePolicy(sizePolicy)
+        self.temperature_entry_right_line_53.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_right_line_53.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_right_line_53.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_right_line_53.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_right_line_53.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_right_line_53.setObjectName("temperature_entry_right_line_53")
+        self.gridLayout_249.addWidget(self.temperature_entry_right_line_53, 0, 5, 1, 1)
+        self.temperature_entry_left_line_53 = QtWidgets.QFrame(self.temperature_entry_53)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_53.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_left_line_53.setSizePolicy(sizePolicy)
+        self.temperature_entry_left_line_53.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_left_line_53.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_left_line_53.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_left_line_53.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_left_line_53.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_left_line_53.setObjectName("temperature_entry_left_line_53")
+        self.gridLayout_249.addWidget(self.temperature_entry_left_line_53, 0, 1, 1, 1)
+        self.temperature_entry_value_53 = QtWidgets.QTextBrowser(self.temperature_entry_53)
+        self.temperature_entry_value_53.setEnabled(False)
+        self.temperature_entry_value_53.setMinimumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_53.setMaximumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_53.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_value_53.setLineWidth(0)
+        self.temperature_entry_value_53.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_53.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_53.setObjectName("temperature_entry_value_53")
+        self.gridLayout_249.addWidget(self.temperature_entry_value_53, 0, 6, 1, 1)
+        self.temperature_entry_bar_53 = QtWidgets.QProgressBar(self.temperature_entry_53)
+        self.temperature_entry_bar_53.setMinimumSize(QtCore.QSize(0, 12))
+        self.temperature_entry_bar_53.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.temperature_entry_bar_53.setStyleSheet("QProgressBar\n"
+"{\n"
+"background-color: rgb(31, 31, 31);\n"
+"border-radius: 4px;\n"
+"border: 1px solid rgb(145, 145, 145);\n"
+"margin-left: 8px;\n"
+"margin-right: 8px;\n"
+"}\n"
+"\n"
+"QProgressBar::chunk\n"
+"{\n"
+"background-color: rgb(203, 120, 130);\n"
+"border-radius: 4px;\n"
+"border: 4px;\n"
+"margin:2px;\n"
+"}")
+        self.temperature_entry_bar_53.setProperty("value", 0)
+        self.temperature_entry_bar_53.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
+        self.temperature_entry_bar_53.setTextVisible(False)
+        self.temperature_entry_bar_53.setObjectName("temperature_entry_bar_53")
+        self.gridLayout_249.addWidget(self.temperature_entry_bar_53, 0, 2, 1, 1)
+        self.segment_entry_Al_27.addWidget(self.temperature_entry_53, 10434, 0, 1, 1)
+        self.temperature_entry_54 = QtWidgets.QFrame(self.segment_temperature_entry_11)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_54.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_54.setSizePolicy(sizePolicy)
+        self.temperature_entry_54.setMinimumSize(QtCore.QSize(100, 20))
+        self.temperature_entry_54.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.temperature_entry_54.setObjectName("temperature_entry_54")
+        self.gridLayout_250 = QtWidgets.QGridLayout(self.temperature_entry_54)
+        self.gridLayout_250.setContentsMargins(0, 0, 0, 0)
+        self.gridLayout_250.setSpacing(0)
+        self.gridLayout_250.setObjectName("gridLayout_250")
+        self.temperature_entry_name_54 = QtWidgets.QTextBrowser(self.temperature_entry_54)
+        self.temperature_entry_name_54.setEnabled(False)
+        self.temperature_entry_name_54.setMinimumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_54.setMaximumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_54.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_name_54.setLineWidth(0)
+        self.temperature_entry_name_54.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_54.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_54.setObjectName("temperature_entry_name_54")
+        self.gridLayout_250.addWidget(self.temperature_entry_name_54, 0, 0, 1, 1)
+        self.temperature_entry_right_line_54 = QtWidgets.QFrame(self.temperature_entry_54)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_54.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_right_line_54.setSizePolicy(sizePolicy)
+        self.temperature_entry_right_line_54.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_right_line_54.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_right_line_54.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_right_line_54.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_right_line_54.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_right_line_54.setObjectName("temperature_entry_right_line_54")
+        self.gridLayout_250.addWidget(self.temperature_entry_right_line_54, 0, 5, 1, 1)
+        self.temperature_entry_left_line_54 = QtWidgets.QFrame(self.temperature_entry_54)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_54.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_left_line_54.setSizePolicy(sizePolicy)
+        self.temperature_entry_left_line_54.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_left_line_54.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_left_line_54.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_left_line_54.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_left_line_54.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_left_line_54.setObjectName("temperature_entry_left_line_54")
+        self.gridLayout_250.addWidget(self.temperature_entry_left_line_54, 0, 1, 1, 1)
+        self.temperature_entry_value_54 = QtWidgets.QTextBrowser(self.temperature_entry_54)
+        self.temperature_entry_value_54.setEnabled(False)
+        self.temperature_entry_value_54.setMinimumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_54.setMaximumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_54.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_value_54.setLineWidth(0)
+        self.temperature_entry_value_54.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_54.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_54.setObjectName("temperature_entry_value_54")
+        self.gridLayout_250.addWidget(self.temperature_entry_value_54, 0, 6, 1, 1)
+        self.temperature_entry_bar_54 = QtWidgets.QProgressBar(self.temperature_entry_54)
+        self.temperature_entry_bar_54.setMinimumSize(QtCore.QSize(0, 12))
+        self.temperature_entry_bar_54.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.temperature_entry_bar_54.setStyleSheet("QProgressBar\n"
+"{\n"
+"background-color: rgb(31, 31, 31);\n"
+"border-radius: 4px;\n"
+"border: 1px solid rgb(145, 145, 145);\n"
+"margin-left: 8px;\n"
+"margin-right: 8px;\n"
+"}\n"
+"\n"
+"QProgressBar::chunk\n"
+"{\n"
+"background-color: rgb(203, 120, 130);\n"
+"border-radius: 4px;\n"
+"border: 4px;\n"
+"margin:2px;\n"
+"}")
+        self.temperature_entry_bar_54.setProperty("value", 0)
+        self.temperature_entry_bar_54.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
+        self.temperature_entry_bar_54.setTextVisible(False)
+        self.temperature_entry_bar_54.setObjectName("temperature_entry_bar_54")
+        self.gridLayout_250.addWidget(self.temperature_entry_bar_54, 0, 2, 1, 1)
+        self.segment_entry_Al_27.addWidget(self.temperature_entry_54, 10479, 0, 1, 1)
+        self.temperature_entry_55 = QtWidgets.QFrame(self.segment_temperature_entry_11)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_55.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_55.setSizePolicy(sizePolicy)
+        self.temperature_entry_55.setMinimumSize(QtCore.QSize(100, 20))
+        self.temperature_entry_55.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.temperature_entry_55.setObjectName("temperature_entry_55")
+        self.gridLayout_251 = QtWidgets.QGridLayout(self.temperature_entry_55)
+        self.gridLayout_251.setContentsMargins(0, 0, 0, 0)
+        self.gridLayout_251.setSpacing(0)
+        self.gridLayout_251.setObjectName("gridLayout_251")
+        self.temperature_entry_name_55 = QtWidgets.QTextBrowser(self.temperature_entry_55)
+        self.temperature_entry_name_55.setEnabled(False)
+        self.temperature_entry_name_55.setMinimumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_55.setMaximumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_55.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_name_55.setLineWidth(0)
+        self.temperature_entry_name_55.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_55.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_55.setObjectName("temperature_entry_name_55")
+        self.gridLayout_251.addWidget(self.temperature_entry_name_55, 0, 0, 1, 1)
+        self.temperature_entry_right_line_55 = QtWidgets.QFrame(self.temperature_entry_55)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_55.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_right_line_55.setSizePolicy(sizePolicy)
+        self.temperature_entry_right_line_55.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_right_line_55.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_right_line_55.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_right_line_55.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_right_line_55.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_right_line_55.setObjectName("temperature_entry_right_line_55")
+        self.gridLayout_251.addWidget(self.temperature_entry_right_line_55, 0, 5, 1, 1)
+        self.temperature_entry_left_line_55 = QtWidgets.QFrame(self.temperature_entry_55)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_55.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_left_line_55.setSizePolicy(sizePolicy)
+        self.temperature_entry_left_line_55.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_left_line_55.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_left_line_55.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_left_line_55.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_left_line_55.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_left_line_55.setObjectName("temperature_entry_left_line_55")
+        self.gridLayout_251.addWidget(self.temperature_entry_left_line_55, 0, 1, 1, 1)
+        self.temperature_entry_value_55 = QtWidgets.QTextBrowser(self.temperature_entry_55)
+        self.temperature_entry_value_55.setEnabled(False)
+        self.temperature_entry_value_55.setMinimumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_55.setMaximumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_55.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_value_55.setLineWidth(0)
+        self.temperature_entry_value_55.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_55.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_55.setObjectName("temperature_entry_value_55")
+        self.gridLayout_251.addWidget(self.temperature_entry_value_55, 0, 6, 1, 1)
+        self.temperature_entry_bar_55 = QtWidgets.QProgressBar(self.temperature_entry_55)
+        self.temperature_entry_bar_55.setMinimumSize(QtCore.QSize(0, 12))
+        self.temperature_entry_bar_55.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.temperature_entry_bar_55.setStyleSheet("QProgressBar\n"
+"{\n"
+"background-color: rgb(31, 31, 31);\n"
+"border-radius: 4px;\n"
+"border: 1px solid rgb(145, 145, 145);\n"
+"margin-left: 8px;\n"
+"margin-right: 8px;\n"
+"}\n"
+"\n"
+"QProgressBar::chunk\n"
+"{\n"
+"background-color: rgb(203, 120, 130);\n"
+"border-radius: 4px;\n"
+"border: 4px;\n"
+"margin:2px;\n"
+"}")
+        self.temperature_entry_bar_55.setProperty("value", 0)
+        self.temperature_entry_bar_55.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
+        self.temperature_entry_bar_55.setTextVisible(False)
+        self.temperature_entry_bar_55.setObjectName("temperature_entry_bar_55")
+        self.gridLayout_251.addWidget(self.temperature_entry_bar_55, 0, 2, 1, 1)
+        self.segment_entry_Al_27.addWidget(self.temperature_entry_55, 10523, 0, 1, 1)
+        self.segment_entry_wrapper_35.addWidget(self.segment_temperature_entry_11, 4, 0, 1, 1)
+        self.segment_entry_wrapper_34.addWidget(self.segment_temperature_entry_frame_11, 2, 0, 1, 1)
         self.segment_temperature_viz_A_6 = QtWidgets.QWidget(self.segment_temperature_head_entry_6)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -20881,16 +20881,6 @@ class Ui_MainWindow(object):
         self.segment_temperature_visualization_12.setContentsMargins(0, 0, 0, 0)
         self.segment_temperature_visualization_12.setSpacing(0)
         self.segment_temperature_visualization_12.setObjectName("segment_temperature_visualization_12")
-        self.segment_temperature_minus_6 = QtWidgets.QLabel(self.segment_temperature_viz_B_6)
-        self.segment_temperature_minus_6.setMinimumSize(QtCore.QSize(18, 18))
-        self.segment_temperature_minus_6.setMaximumSize(QtCore.QSize(18, 18))
-        self.segment_temperature_minus_6.setObjectName("segment_temperature_minus_6")
-        self.segment_temperature_visualization_12.addWidget(self.segment_temperature_minus_6, 0, 0, 1, 1)
-        self.segment_temperature_plus_6 = QtWidgets.QLabel(self.segment_temperature_viz_B_6)
-        self.segment_temperature_plus_6.setMinimumSize(QtCore.QSize(18, 18))
-        self.segment_temperature_plus_6.setMaximumSize(QtCore.QSize(18, 18))
-        self.segment_temperature_plus_6.setObjectName("segment_temperature_plus_6")
-        self.segment_temperature_visualization_12.addWidget(self.segment_temperature_plus_6, 2, 2, 1, 1)
         self.segment_temperature_vertical_p_6 = QtWidgets.QFrame(self.segment_temperature_viz_B_6)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -20919,40 +20909,51 @@ class Ui_MainWindow(object):
         self.gridLayout_19.setHorizontalSpacing(8)
         self.gridLayout_19.setVerticalSpacing(0)
         self.gridLayout_19.setObjectName("gridLayout_19")
-        self.segment_temp_node_51 = QtWidgets.QLabel(self.segment_temperature_horizontal_16)
+        self.segment_temp_node_54 = QtWidgets.QLabel(self.segment_temperature_horizontal_16)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_51.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_51.setSizePolicy(sizePolicy)
-        self.segment_temp_node_51.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_51.setStyleSheet("color: rgb(31, 31, 31);\n"
+        sizePolicy.setHeightForWidth(self.segment_temp_node_54.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_54.setSizePolicy(sizePolicy)
+        self.segment_temp_node_54.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_54.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_51.setObjectName("segment_temp_node_51")
-        self.gridLayout_19.addWidget(self.segment_temp_node_51, 0, 0, 1, 1)
-        self.segment_temp_node_52 = QtWidgets.QLabel(self.segment_temperature_horizontal_16)
+        self.segment_temp_node_54.setObjectName("segment_temp_node_54")
+        self.gridLayout_19.addWidget(self.segment_temp_node_54, 3, 1, 1, 1)
+        self.segment_temp_node_55 = QtWidgets.QLabel(self.segment_temperature_horizontal_16)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_52.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_52.setSizePolicy(sizePolicy)
-        self.segment_temp_node_52.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_52.setStyleSheet("color: rgb(31, 31, 31);\n"
+        sizePolicy.setHeightForWidth(self.segment_temp_node_55.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_55.setSizePolicy(sizePolicy)
+        self.segment_temp_node_55.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_55.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_52.setObjectName("segment_temp_node_52")
-        self.gridLayout_19.addWidget(self.segment_temp_node_52, 0, 1, 1, 1)
-        self.segment_temp_node_53 = QtWidgets.QLabel(self.segment_temperature_horizontal_16)
+        self.segment_temp_node_55.setObjectName("segment_temp_node_55")
+        self.gridLayout_19.addWidget(self.segment_temp_node_55, 4, 1, 1, 1)
+        self.segment_temp_node_56 = QtWidgets.QLabel(self.segment_temperature_horizontal_16)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_53.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_53.setSizePolicy(sizePolicy)
-        self.segment_temp_node_53.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_53.setStyleSheet("color: rgb(31, 31, 31);\n"
+        sizePolicy.setHeightForWidth(self.segment_temp_node_56.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_56.setSizePolicy(sizePolicy)
+        self.segment_temp_node_56.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_56.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_53.setObjectName("segment_temp_node_53")
-        self.gridLayout_19.addWidget(self.segment_temp_node_53, 0, 2, 1, 1)
-        self.segment_temperature_vertical_6.addWidget(self.segment_temperature_horizontal_16, 0, 0, 1, 1)
+        self.segment_temp_node_56.setObjectName("segment_temp_node_56")
+        self.gridLayout_19.addWidget(self.segment_temp_node_56, 6, 1, 1, 1)
+        self.segment_temp_node_57 = QtWidgets.QLabel(self.segment_temperature_horizontal_16)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node_57.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_57.setSizePolicy(sizePolicy)
+        self.segment_temp_node_57.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_57.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node_57.setObjectName("segment_temp_node_57")
+        self.gridLayout_19.addWidget(self.segment_temp_node_57, 7, 1, 1, 1)
+        self.segment_temperature_vertical_6.addWidget(self.segment_temperature_horizontal_16, 0, 1, 1, 1)
         self.segment_temperature_horizontal_17 = QtWidgets.QFrame(self.segment_temperature_vertical_p_6)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -20967,51 +20968,40 @@ class Ui_MainWindow(object):
         self.gridLayout_20.setHorizontalSpacing(8)
         self.gridLayout_20.setVerticalSpacing(0)
         self.gridLayout_20.setObjectName("gridLayout_20")
-        self.segment_temp_node_54 = QtWidgets.QLabel(self.segment_temperature_horizontal_17)
+        self.segment_temp_node_53 = QtWidgets.QLabel(self.segment_temperature_horizontal_17)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_54.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_54.setSizePolicy(sizePolicy)
-        self.segment_temp_node_54.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_54.setStyleSheet("color: rgb(31, 31, 31);\n"
+        sizePolicy.setHeightForWidth(self.segment_temp_node_53.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_53.setSizePolicy(sizePolicy)
+        self.segment_temp_node_53.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_53.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_54.setObjectName("segment_temp_node_54")
-        self.gridLayout_20.addWidget(self.segment_temp_node_54, 0, 0, 1, 1)
-        self.segment_temp_node_55 = QtWidgets.QLabel(self.segment_temperature_horizontal_17)
+        self.segment_temp_node_53.setObjectName("segment_temp_node_53")
+        self.gridLayout_20.addWidget(self.segment_temp_node_53, 2, 1, 1, 1)
+        self.segment_temp_node_52 = QtWidgets.QLabel(self.segment_temperature_horizontal_17)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_55.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_55.setSizePolicy(sizePolicy)
-        self.segment_temp_node_55.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_55.setStyleSheet("color: rgb(31, 31, 31);\n"
+        sizePolicy.setHeightForWidth(self.segment_temp_node_52.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_52.setSizePolicy(sizePolicy)
+        self.segment_temp_node_52.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_52.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_55.setObjectName("segment_temp_node_55")
-        self.gridLayout_20.addWidget(self.segment_temp_node_55, 0, 1, 1, 1)
-        self.segment_temp_node_56 = QtWidgets.QLabel(self.segment_temperature_horizontal_17)
+        self.segment_temp_node_52.setObjectName("segment_temp_node_52")
+        self.gridLayout_20.addWidget(self.segment_temp_node_52, 1, 1, 1, 1)
+        self.segment_temp_node_51 = QtWidgets.QLabel(self.segment_temperature_horizontal_17)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_56.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_56.setSizePolicy(sizePolicy)
-        self.segment_temp_node_56.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_56.setStyleSheet("color: rgb(31, 31, 31);\n"
+        sizePolicy.setHeightForWidth(self.segment_temp_node_51.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_51.setSizePolicy(sizePolicy)
+        self.segment_temp_node_51.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_51.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_56.setObjectName("segment_temp_node_56")
-        self.gridLayout_20.addWidget(self.segment_temp_node_56, 0, 2, 1, 1)
-        self.segment_temp_node_57 = QtWidgets.QLabel(self.segment_temperature_horizontal_17)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_57.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_57.setSizePolicy(sizePolicy)
-        self.segment_temp_node_57.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_57.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_57.setObjectName("segment_temp_node_57")
-        self.gridLayout_20.addWidget(self.segment_temp_node_57, 0, 3, 1, 1)
-        self.segment_temperature_vertical_6.addWidget(self.segment_temperature_horizontal_17, 1, 0, 1, 1)
+        self.segment_temp_node_51.setObjectName("segment_temp_node_51")
+        self.gridLayout_20.addWidget(self.segment_temp_node_51, 0, 1, 1, 1)
+        self.segment_temperature_vertical_6.addWidget(self.segment_temperature_horizontal_17, 0, 0, 1, 1)
         self.segment_temperature_horizontal_18 = QtWidgets.QFrame(self.segment_temperature_vertical_p_6)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -21026,6 +21016,28 @@ class Ui_MainWindow(object):
         self.gridLayout_21.setHorizontalSpacing(8)
         self.gridLayout_21.setVerticalSpacing(0)
         self.gridLayout_21.setObjectName("gridLayout_21")
+        self.segment_temp_node_60 = QtWidgets.QLabel(self.segment_temperature_horizontal_18)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node_60.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_60.setSizePolicy(sizePolicy)
+        self.segment_temp_node_60.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_60.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node_60.setObjectName("segment_temp_node_60")
+        self.gridLayout_21.addWidget(self.segment_temp_node_60, 3, 0, 1, 1)
+        self.segment_temp_node_59 = QtWidgets.QLabel(self.segment_temperature_horizontal_18)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node_59.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_59.setSizePolicy(sizePolicy)
+        self.segment_temp_node_59.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_59.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node_59.setObjectName("segment_temp_node_59")
+        self.gridLayout_21.addWidget(self.segment_temp_node_59, 1, 0, 1, 1)
         self.segment_temp_node_58 = QtWidgets.QLabel(self.segment_temperature_horizontal_18)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -21037,30 +21049,18 @@ class Ui_MainWindow(object):
 "background-color: rgb(203, 120, 130);")
         self.segment_temp_node_58.setObjectName("segment_temp_node_58")
         self.gridLayout_21.addWidget(self.segment_temp_node_58, 0, 0, 1, 1)
-        self.segment_temp_node_59 = QtWidgets.QLabel(self.segment_temperature_horizontal_18)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_59.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_59.setSizePolicy(sizePolicy)
-        self.segment_temp_node_59.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_59.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_59.setObjectName("segment_temp_node_59")
-        self.gridLayout_21.addWidget(self.segment_temp_node_59, 0, 1, 1, 1)
-        self.segment_temp_node_60 = QtWidgets.QLabel(self.segment_temperature_horizontal_18)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_60.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_60.setSizePolicy(sizePolicy)
-        self.segment_temp_node_60.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_60.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_60.setObjectName("segment_temp_node_60")
-        self.gridLayout_21.addWidget(self.segment_temp_node_60, 0, 2, 1, 1)
-        self.segment_temperature_vertical_6.addWidget(self.segment_temperature_horizontal_18, 2, 0, 1, 1)
+        self.segment_temperature_vertical_6.addWidget(self.segment_temperature_horizontal_18, 0, 2, 1, 1)
         self.segment_temperature_visualization_12.addWidget(self.segment_temperature_vertical_p_6, 1, 1, 1, 1)
+        self.segment_temperature_plus_6 = QtWidgets.QLabel(self.segment_temperature_viz_B_6)
+        self.segment_temperature_plus_6.setMinimumSize(QtCore.QSize(18, 18))
+        self.segment_temperature_plus_6.setMaximumSize(QtCore.QSize(18, 18))
+        self.segment_temperature_plus_6.setObjectName("segment_temperature_plus_6")
+        self.segment_temperature_visualization_12.addWidget(self.segment_temperature_plus_6, 0, 2, 1, 1)
+        self.segment_temperature_minus_6 = QtWidgets.QLabel(self.segment_temperature_viz_B_6)
+        self.segment_temperature_minus_6.setMinimumSize(QtCore.QSize(18, 18))
+        self.segment_temperature_minus_6.setMaximumSize(QtCore.QSize(18, 18))
+        self.segment_temperature_minus_6.setObjectName("segment_temperature_minus_6")
+        self.segment_temperature_visualization_12.addWidget(self.segment_temperature_minus_6, 2, 0, 1, 1)
         self.segment_temperature_visualization_11.addWidget(self.segment_temperature_viz_B_6, 0, 0, 1, 1)
         self.segment_entry_wrapper_34.addWidget(self.segment_temperature_viz_A_6, 4, 0, 1, 1)
         self.gridLayout_3.addWidget(self.segment_temperature_head_entry_6, 0, 11, 1, 1)
@@ -21169,7 +21169,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_temperature_entry_stats_A_temperature_7.setProperty("value", 48)
+        self.segment_temperature_entry_stats_A_temperature_7.setProperty("value", 0)
         self.segment_temperature_entry_stats_A_temperature_7.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_temperature_entry_stats_A_temperature_7.setTextVisible(False)
         self.segment_temperature_entry_stats_A_temperature_7.setObjectName("segment_temperature_entry_stats_A_temperature_7")
@@ -21178,7 +21178,7 @@ class Ui_MainWindow(object):
         self.segment_temperature_entry_stats_A_nomality_7.setEnabled(False)
         self.segment_temperature_entry_stats_A_nomality_7.setMinimumSize(QtCore.QSize(60, 20))
         self.segment_temperature_entry_stats_A_nomality_7.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_entry_stats_A_nomality_7.setStyleSheet("background-color: rgb(203, 120, 130);\n"
+        self.segment_temperature_entry_stats_A_nomality_7.setStyleSheet("background-color: rgb(80, 203, 156);\n"
 "color: rgb(31, 31, 31);\n"
 "border: 4px;\n"
 "border-radius: 4px;")
@@ -21391,7 +21391,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_31.setProperty("value", 48)
+        self.temperature_entry_bar_31.setProperty("value", 0)
         self.temperature_entry_bar_31.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_31.setTextVisible(False)
         self.temperature_entry_bar_31.setObjectName("temperature_entry_bar_31")
@@ -21479,7 +21479,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_32.setProperty("value", 48)
+        self.temperature_entry_bar_32.setProperty("value", 0)
         self.temperature_entry_bar_32.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_32.setTextVisible(False)
         self.temperature_entry_bar_32.setObjectName("temperature_entry_bar_32")
@@ -21567,7 +21567,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_33.setProperty("value", 48)
+        self.temperature_entry_bar_33.setProperty("value", 0)
         self.temperature_entry_bar_33.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_33.setTextVisible(False)
         self.temperature_entry_bar_33.setObjectName("temperature_entry_bar_33")
@@ -21655,7 +21655,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_34.setProperty("value", 48)
+        self.temperature_entry_bar_34.setProperty("value", 0)
         self.temperature_entry_bar_34.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_34.setTextVisible(False)
         self.temperature_entry_bar_34.setObjectName("temperature_entry_bar_34")
@@ -21743,7 +21743,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_35.setProperty("value", 48)
+        self.temperature_entry_bar_35.setProperty("value", 0)
         self.temperature_entry_bar_35.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_35.setTextVisible(False)
         self.temperature_entry_bar_35.setObjectName("temperature_entry_bar_35")
@@ -21817,7 +21817,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_temperature_entry_stats_A_temperature_8.setProperty("value", 48)
+        self.segment_temperature_entry_stats_A_temperature_8.setProperty("value", 0)
         self.segment_temperature_entry_stats_A_temperature_8.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_temperature_entry_stats_A_temperature_8.setTextVisible(False)
         self.segment_temperature_entry_stats_A_temperature_8.setObjectName("segment_temperature_entry_stats_A_temperature_8")
@@ -21826,7 +21826,7 @@ class Ui_MainWindow(object):
         self.segment_temperature_entry_stats_A_nomality_8.setEnabled(False)
         self.segment_temperature_entry_stats_A_nomality_8.setMinimumSize(QtCore.QSize(60, 20))
         self.segment_temperature_entry_stats_A_nomality_8.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_entry_stats_A_nomality_8.setStyleSheet("background-color: rgb(203, 120, 130);\n"
+        self.segment_temperature_entry_stats_A_nomality_8.setStyleSheet("background-color: rgb(80, 203, 156);\n"
 "color: rgb(31, 31, 31);\n"
 "border: 4px;\n"
 "border-radius: 4px;")
@@ -22039,7 +22039,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_36.setProperty("value", 48)
+        self.temperature_entry_bar_36.setProperty("value", 0)
         self.temperature_entry_bar_36.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_36.setTextVisible(False)
         self.temperature_entry_bar_36.setObjectName("temperature_entry_bar_36")
@@ -22127,7 +22127,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_37.setProperty("value", 48)
+        self.temperature_entry_bar_37.setProperty("value", 0)
         self.temperature_entry_bar_37.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_37.setTextVisible(False)
         self.temperature_entry_bar_37.setObjectName("temperature_entry_bar_37")
@@ -22215,7 +22215,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_38.setProperty("value", 48)
+        self.temperature_entry_bar_38.setProperty("value", 0)
         self.temperature_entry_bar_38.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_38.setTextVisible(False)
         self.temperature_entry_bar_38.setObjectName("temperature_entry_bar_38")
@@ -22303,7 +22303,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_39.setProperty("value", 48)
+        self.temperature_entry_bar_39.setProperty("value", 0)
         self.temperature_entry_bar_39.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_39.setTextVisible(False)
         self.temperature_entry_bar_39.setObjectName("temperature_entry_bar_39")
@@ -22391,7 +22391,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_40.setProperty("value", 48)
+        self.temperature_entry_bar_40.setProperty("value", 0)
         self.temperature_entry_bar_40.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_40.setTextVisible(False)
         self.temperature_entry_bar_40.setObjectName("temperature_entry_bar_40")
@@ -22584,7 +22584,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_temperature_head_entry_stats_C_voltage_4.setProperty("value", 48)
+        self.segment_temperature_head_entry_stats_C_voltage_4.setProperty("value", 0)
         self.segment_temperature_head_entry_stats_C_voltage_4.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_temperature_head_entry_stats_C_voltage_4.setTextVisible(False)
         self.segment_temperature_head_entry_stats_C_voltage_4.setObjectName("segment_temperature_head_entry_stats_C_voltage_4")
@@ -22631,7 +22631,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_temperature_head_entry_A_temperature_4.setProperty("value", 48)
+        self.segment_temperature_head_entry_A_temperature_4.setProperty("value", 0)
         self.segment_temperature_head_entry_A_temperature_4.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_temperature_head_entry_A_temperature_4.setTextVisible(False)
         self.segment_temperature_head_entry_A_temperature_4.setObjectName("segment_temperature_head_entry_A_temperature_4")
@@ -22640,7 +22640,7 @@ class Ui_MainWindow(object):
         self.segment_temperature_head_entry_A_nomality_4.setEnabled(False)
         self.segment_temperature_head_entry_A_nomality_4.setMinimumSize(QtCore.QSize(60, 20))
         self.segment_temperature_head_entry_A_nomality_4.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_head_entry_A_nomality_4.setStyleSheet("background-color: rgb(203, 120, 130);\n"
+        self.segment_temperature_head_entry_A_nomality_4.setStyleSheet("background-color: rgb(80, 203, 156);\n"
 "color: rgb(31, 31, 31);\n"
 "border: 4px;\n"
 "border-radius: 4px;")
@@ -22676,16 +22676,6 @@ class Ui_MainWindow(object):
         self.segment_temperature_visualization_8.setContentsMargins(0, 0, 0, 0)
         self.segment_temperature_visualization_8.setSpacing(0)
         self.segment_temperature_visualization_8.setObjectName("segment_temperature_visualization_8")
-        self.segment_temperature_minus_4 = QtWidgets.QLabel(self.segment_temperature_viz_B_4)
-        self.segment_temperature_minus_4.setMinimumSize(QtCore.QSize(18, 18))
-        self.segment_temperature_minus_4.setMaximumSize(QtCore.QSize(18, 18))
-        self.segment_temperature_minus_4.setObjectName("segment_temperature_minus_4")
-        self.segment_temperature_visualization_8.addWidget(self.segment_temperature_minus_4, 0, 0, 1, 1)
-        self.segment_temperature_plus_4 = QtWidgets.QLabel(self.segment_temperature_viz_B_4)
-        self.segment_temperature_plus_4.setMinimumSize(QtCore.QSize(18, 18))
-        self.segment_temperature_plus_4.setMaximumSize(QtCore.QSize(18, 18))
-        self.segment_temperature_plus_4.setObjectName("segment_temperature_plus_4")
-        self.segment_temperature_visualization_8.addWidget(self.segment_temperature_plus_4, 2, 2, 1, 1)
         self.segment_temperature_vertical_p_4 = QtWidgets.QFrame(self.segment_temperature_viz_B_4)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -22714,40 +22704,51 @@ class Ui_MainWindow(object):
         self.gridLayout_13.setHorizontalSpacing(8)
         self.gridLayout_13.setVerticalSpacing(0)
         self.gridLayout_13.setObjectName("gridLayout_13")
-        self.segment_temp_node_31 = QtWidgets.QLabel(self.segment_temperature_horizontal_10)
+        self.segment_temp_node_36 = QtWidgets.QLabel(self.segment_temperature_horizontal_10)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_31.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_31.setSizePolicy(sizePolicy)
-        self.segment_temp_node_31.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_31.setStyleSheet("color: rgb(31, 31, 31);\n"
+        sizePolicy.setHeightForWidth(self.segment_temp_node_36.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_36.setSizePolicy(sizePolicy)
+        self.segment_temp_node_36.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_36.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_31.setObjectName("segment_temp_node_31")
-        self.gridLayout_13.addWidget(self.segment_temp_node_31, 0, 0, 1, 1)
-        self.segment_temp_node_32 = QtWidgets.QLabel(self.segment_temperature_horizontal_10)
+        self.segment_temp_node_36.setObjectName("segment_temp_node_36")
+        self.gridLayout_13.addWidget(self.segment_temp_node_36, 3, 1, 1, 1)
+        self.segment_temp_node_34 = QtWidgets.QLabel(self.segment_temperature_horizontal_10)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_32.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_32.setSizePolicy(sizePolicy)
-        self.segment_temp_node_32.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_32.setStyleSheet("color: rgb(31, 31, 31);\n"
+        sizePolicy.setHeightForWidth(self.segment_temp_node_34.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_34.setSizePolicy(sizePolicy)
+        self.segment_temp_node_34.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_34.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_32.setObjectName("segment_temp_node_32")
-        self.gridLayout_13.addWidget(self.segment_temp_node_32, 0, 1, 1, 1)
-        self.segment_temp_node_33 = QtWidgets.QLabel(self.segment_temperature_horizontal_10)
+        self.segment_temp_node_34.setObjectName("segment_temp_node_34")
+        self.gridLayout_13.addWidget(self.segment_temp_node_34, 0, 1, 1, 1)
+        self.segment_temp_node_35 = QtWidgets.QLabel(self.segment_temperature_horizontal_10)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_33.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_33.setSizePolicy(sizePolicy)
-        self.segment_temp_node_33.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_33.setStyleSheet("color: rgb(31, 31, 31);\n"
+        sizePolicy.setHeightForWidth(self.segment_temp_node_35.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_35.setSizePolicy(sizePolicy)
+        self.segment_temp_node_35.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_35.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_33.setObjectName("segment_temp_node_33")
-        self.gridLayout_13.addWidget(self.segment_temp_node_33, 0, 2, 1, 1)
-        self.segment_temperature_vertical_4.addWidget(self.segment_temperature_horizontal_10, 0, 0, 1, 1)
+        self.segment_temp_node_35.setObjectName("segment_temp_node_35")
+        self.gridLayout_13.addWidget(self.segment_temp_node_35, 2, 1, 1, 1)
+        self.segment_temp_node_37 = QtWidgets.QLabel(self.segment_temperature_horizontal_10)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node_37.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_37.setSizePolicy(sizePolicy)
+        self.segment_temp_node_37.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_37.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node_37.setObjectName("segment_temp_node_37")
+        self.gridLayout_13.addWidget(self.segment_temp_node_37, 4, 1, 1, 1)
+        self.segment_temperature_vertical_4.addWidget(self.segment_temperature_horizontal_10, 0, 1, 1, 1)
         self.segment_temperature_horizontal_11 = QtWidgets.QFrame(self.segment_temperature_vertical_p_4)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -22762,51 +22763,40 @@ class Ui_MainWindow(object):
         self.gridLayout_14.setHorizontalSpacing(8)
         self.gridLayout_14.setVerticalSpacing(0)
         self.gridLayout_14.setObjectName("gridLayout_14")
-        self.segment_temp_node_34 = QtWidgets.QLabel(self.segment_temperature_horizontal_11)
+        self.segment_temp_node_32 = QtWidgets.QLabel(self.segment_temperature_horizontal_11)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_34.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_34.setSizePolicy(sizePolicy)
-        self.segment_temp_node_34.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_34.setStyleSheet("color: rgb(31, 31, 31);\n"
+        sizePolicy.setHeightForWidth(self.segment_temp_node_32.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_32.setSizePolicy(sizePolicy)
+        self.segment_temp_node_32.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_32.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_34.setObjectName("segment_temp_node_34")
-        self.gridLayout_14.addWidget(self.segment_temp_node_34, 0, 0, 1, 1)
-        self.segment_temp_node_35 = QtWidgets.QLabel(self.segment_temperature_horizontal_11)
+        self.segment_temp_node_32.setObjectName("segment_temp_node_32")
+        self.gridLayout_14.addWidget(self.segment_temp_node_32, 1, 1, 1, 1)
+        self.segment_temp_node_33 = QtWidgets.QLabel(self.segment_temperature_horizontal_11)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_35.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_35.setSizePolicy(sizePolicy)
-        self.segment_temp_node_35.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_35.setStyleSheet("color: rgb(31, 31, 31);\n"
+        sizePolicy.setHeightForWidth(self.segment_temp_node_33.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_33.setSizePolicy(sizePolicy)
+        self.segment_temp_node_33.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_33.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_35.setObjectName("segment_temp_node_35")
-        self.gridLayout_14.addWidget(self.segment_temp_node_35, 0, 1, 1, 1)
-        self.segment_temp_node_36 = QtWidgets.QLabel(self.segment_temperature_horizontal_11)
+        self.segment_temp_node_33.setObjectName("segment_temp_node_33")
+        self.gridLayout_14.addWidget(self.segment_temp_node_33, 2, 1, 1, 1)
+        self.segment_temp_node_31 = QtWidgets.QLabel(self.segment_temperature_horizontal_11)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_36.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_36.setSizePolicy(sizePolicy)
-        self.segment_temp_node_36.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_36.setStyleSheet("color: rgb(31, 31, 31);\n"
+        sizePolicy.setHeightForWidth(self.segment_temp_node_31.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_31.setSizePolicy(sizePolicy)
+        self.segment_temp_node_31.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_31.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_36.setObjectName("segment_temp_node_36")
-        self.gridLayout_14.addWidget(self.segment_temp_node_36, 0, 2, 1, 1)
-        self.segment_temp_node_37 = QtWidgets.QLabel(self.segment_temperature_horizontal_11)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_37.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_37.setSizePolicy(sizePolicy)
-        self.segment_temp_node_37.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_37.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_37.setObjectName("segment_temp_node_37")
-        self.gridLayout_14.addWidget(self.segment_temp_node_37, 0, 3, 1, 1)
-        self.segment_temperature_vertical_4.addWidget(self.segment_temperature_horizontal_11, 1, 0, 1, 1)
+        self.segment_temp_node_31.setObjectName("segment_temp_node_31")
+        self.gridLayout_14.addWidget(self.segment_temp_node_31, 0, 1, 1, 1)
+        self.segment_temperature_vertical_4.addWidget(self.segment_temperature_horizontal_11, 0, 0, 1, 1)
         self.segment_temperature_horizontal_12 = QtWidgets.QFrame(self.segment_temperature_vertical_p_4)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -22821,6 +22811,28 @@ class Ui_MainWindow(object):
         self.gridLayout_15.setHorizontalSpacing(8)
         self.gridLayout_15.setVerticalSpacing(0)
         self.gridLayout_15.setObjectName("gridLayout_15")
+        self.segment_temp_node_39 = QtWidgets.QLabel(self.segment_temperature_horizontal_12)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node_39.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_39.setSizePolicy(sizePolicy)
+        self.segment_temp_node_39.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_39.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node_39.setObjectName("segment_temp_node_39")
+        self.gridLayout_15.addWidget(self.segment_temp_node_39, 1, 0, 1, 1)
+        self.segment_temp_node_40 = QtWidgets.QLabel(self.segment_temperature_horizontal_12)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node_40.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_40.setSizePolicy(sizePolicy)
+        self.segment_temp_node_40.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_40.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node_40.setObjectName("segment_temp_node_40")
+        self.gridLayout_15.addWidget(self.segment_temp_node_40, 3, 0, 1, 1)
         self.segment_temp_node_38 = QtWidgets.QLabel(self.segment_temperature_horizontal_12)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -22832,30 +22844,18 @@ class Ui_MainWindow(object):
 "background-color: rgb(203, 120, 130);")
         self.segment_temp_node_38.setObjectName("segment_temp_node_38")
         self.gridLayout_15.addWidget(self.segment_temp_node_38, 0, 0, 1, 1)
-        self.segment_temp_node_39 = QtWidgets.QLabel(self.segment_temperature_horizontal_12)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_39.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_39.setSizePolicy(sizePolicy)
-        self.segment_temp_node_39.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_39.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_39.setObjectName("segment_temp_node_39")
-        self.gridLayout_15.addWidget(self.segment_temp_node_39, 0, 1, 1, 1)
-        self.segment_temp_node_40 = QtWidgets.QLabel(self.segment_temperature_horizontal_12)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_40.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_40.setSizePolicy(sizePolicy)
-        self.segment_temp_node_40.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_40.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_40.setObjectName("segment_temp_node_40")
-        self.gridLayout_15.addWidget(self.segment_temp_node_40, 0, 2, 1, 1)
-        self.segment_temperature_vertical_4.addWidget(self.segment_temperature_horizontal_12, 2, 0, 1, 1)
+        self.segment_temperature_vertical_4.addWidget(self.segment_temperature_horizontal_12, 0, 2, 1, 1)
         self.segment_temperature_visualization_8.addWidget(self.segment_temperature_vertical_p_4, 1, 1, 1, 1)
+        self.segment_temperature_plus_4 = QtWidgets.QLabel(self.segment_temperature_viz_B_4)
+        self.segment_temperature_plus_4.setMinimumSize(QtCore.QSize(18, 18))
+        self.segment_temperature_plus_4.setMaximumSize(QtCore.QSize(18, 18))
+        self.segment_temperature_plus_4.setObjectName("segment_temperature_plus_4")
+        self.segment_temperature_visualization_8.addWidget(self.segment_temperature_plus_4, 0, 2, 1, 1)
+        self.segment_temperature_minus_4 = QtWidgets.QLabel(self.segment_temperature_viz_B_4)
+        self.segment_temperature_minus_4.setMinimumSize(QtCore.QSize(18, 18))
+        self.segment_temperature_minus_4.setMaximumSize(QtCore.QSize(18, 18))
+        self.segment_temperature_minus_4.setObjectName("segment_temperature_minus_4")
+        self.segment_temperature_visualization_8.addWidget(self.segment_temperature_minus_4, 2, 0, 1, 1)
         self.segment_temperature_visualization_7.addWidget(self.segment_temperature_viz_B_4, 0, 0, 1, 1)
         self.segment_entry_wrapper_28.addWidget(self.segment_temperature_viz_A_4, 4, 0, 1, 1)
         self.gridLayout_3.addWidget(self.segment_temperature_head_entry_4, 0, 7, 1, 1)
@@ -22951,7 +22951,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_temperature_entry_stats_A_temperature_6.setProperty("value", 48)
+        self.segment_temperature_entry_stats_A_temperature_6.setProperty("value", 0)
         self.segment_temperature_entry_stats_A_temperature_6.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_temperature_entry_stats_A_temperature_6.setTextVisible(False)
         self.segment_temperature_entry_stats_A_temperature_6.setObjectName("segment_temperature_entry_stats_A_temperature_6")
@@ -22960,7 +22960,7 @@ class Ui_MainWindow(object):
         self.segment_temperature_entry_stats_A_nomality_6.setEnabled(False)
         self.segment_temperature_entry_stats_A_nomality_6.setMinimumSize(QtCore.QSize(60, 20))
         self.segment_temperature_entry_stats_A_nomality_6.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_entry_stats_A_nomality_6.setStyleSheet("background-color: rgb(203, 120, 130);\n"
+        self.segment_temperature_entry_stats_A_nomality_6.setStyleSheet("background-color: rgb(80, 203, 156);\n"
 "color: rgb(31, 31, 31);\n"
 "border: 4px;\n"
 "border-radius: 4px;")
@@ -23173,7 +23173,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_26.setProperty("value", 48)
+        self.temperature_entry_bar_26.setProperty("value", 0)
         self.temperature_entry_bar_26.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_26.setTextVisible(False)
         self.temperature_entry_bar_26.setObjectName("temperature_entry_bar_26")
@@ -23261,7 +23261,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_27.setProperty("value", 48)
+        self.temperature_entry_bar_27.setProperty("value", 0)
         self.temperature_entry_bar_27.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_27.setTextVisible(False)
         self.temperature_entry_bar_27.setObjectName("temperature_entry_bar_27")
@@ -23349,7 +23349,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_28.setProperty("value", 48)
+        self.temperature_entry_bar_28.setProperty("value", 0)
         self.temperature_entry_bar_28.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_28.setTextVisible(False)
         self.temperature_entry_bar_28.setObjectName("temperature_entry_bar_28")
@@ -23437,7 +23437,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_29.setProperty("value", 48)
+        self.temperature_entry_bar_29.setProperty("value", 0)
         self.temperature_entry_bar_29.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_29.setTextVisible(False)
         self.temperature_entry_bar_29.setObjectName("temperature_entry_bar_29")
@@ -23525,7 +23525,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_30.setProperty("value", 48)
+        self.temperature_entry_bar_30.setProperty("value", 0)
         self.temperature_entry_bar_30.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_30.setTextVisible(False)
         self.temperature_entry_bar_30.setObjectName("temperature_entry_bar_30")
@@ -23533,6 +23533,258 @@ class Ui_MainWindow(object):
         self.segment_entry_Al_22.addWidget(self.temperature_entry_30, 12416, 0, 1, 1)
         self.segment_entry_wrapper_27.addWidget(self.segment_temperature_entry_6, 3, 0, 1, 1)
         self.segment_entry_wrapper_25.addWidget(self.segment_temperature_entry_frame_6, 3, 0, 1, 1)
+        self.segment_temperature_head_entry_header_3 = QtWidgets.QFrame(self.segment_temperature_head_entry_3)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temperature_head_entry_header_3.sizePolicy().hasHeightForWidth())
+        self.segment_temperature_head_entry_header_3.setSizePolicy(sizePolicy)
+        self.segment_temperature_head_entry_header_3.setMinimumSize(QtCore.QSize(150, 120))
+        self.segment_temperature_head_entry_header_3.setMaximumSize(QtCore.QSize(16777215, 120))
+        self.segment_temperature_head_entry_header_3.setObjectName("segment_temperature_head_entry_header_3")
+        self.gridLayout_219 = QtWidgets.QGridLayout(self.segment_temperature_head_entry_header_3)
+        self.gridLayout_219.setContentsMargins(0, 0, 0, 0)
+        self.gridLayout_219.setSpacing(0)
+        self.gridLayout_219.setObjectName("gridLayout_219")
+        self.segment_temperature_head_entry_stats_B_3 = QtWidgets.QFrame(self.segment_temperature_head_entry_header_3)
+        self.segment_temperature_head_entry_stats_B_3.setMinimumSize(QtCore.QSize(0, 20))
+        self.segment_temperature_head_entry_stats_B_3.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_head_entry_stats_B_3.setObjectName("segment_temperature_head_entry_stats_B_3")
+        self.segment_entry_stats_Bl_45 = QtWidgets.QGridLayout(self.segment_temperature_head_entry_stats_B_3)
+        self.segment_entry_stats_Bl_45.setContentsMargins(0, 0, 0, 0)
+        self.segment_entry_stats_Bl_45.setHorizontalSpacing(2)
+        self.segment_entry_stats_Bl_45.setVerticalSpacing(0)
+        self.segment_entry_stats_Bl_45.setObjectName("segment_entry_stats_Bl_45")
+        self.segment_temperature_head_entry_stats_B_value_3 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_B_3)
+        self.segment_temperature_head_entry_stats_B_value_3.setEnabled(False)
+        self.segment_temperature_head_entry_stats_B_value_3.setMinimumSize(QtCore.QSize(50, 20))
+        self.segment_temperature_head_entry_stats_B_value_3.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_head_entry_stats_B_value_3.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.segment_temperature_head_entry_stats_B_value_3.setLineWidth(0)
+        self.segment_temperature_head_entry_stats_B_value_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_B_value_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_B_value_3.setObjectName("segment_temperature_head_entry_stats_B_value_3")
+        self.segment_entry_stats_Bl_45.addWidget(self.segment_temperature_head_entry_stats_B_value_3, 0, 1, 1, 1)
+        self.segment_temperature_head_entry_stats_B_name_3 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_B_3)
+        self.segment_temperature_head_entry_stats_B_name_3.setEnabled(False)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Preferred)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temperature_head_entry_stats_B_name_3.sizePolicy().hasHeightForWidth())
+        self.segment_temperature_head_entry_stats_B_name_3.setSizePolicy(sizePolicy)
+        self.segment_temperature_head_entry_stats_B_name_3.setMinimumSize(QtCore.QSize(108, 20))
+        self.segment_temperature_head_entry_stats_B_name_3.setMaximumSize(QtCore.QSize(108, 20))
+        self.segment_temperature_head_entry_stats_B_name_3.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.segment_temperature_head_entry_stats_B_name_3.setLineWidth(0)
+        self.segment_temperature_head_entry_stats_B_name_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_B_name_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_B_name_3.setObjectName("segment_temperature_head_entry_stats_B_name_3")
+        self.segment_entry_stats_Bl_45.addWidget(self.segment_temperature_head_entry_stats_B_name_3, 0, 0, 1, 1)
+        self.gridLayout_219.addWidget(self.segment_temperature_head_entry_stats_B_3, 4, 0, 1, 1)
+        self.segment_temperature_head_entry_stats_E_3 = QtWidgets.QFrame(self.segment_temperature_head_entry_header_3)
+        self.segment_temperature_head_entry_stats_E_3.setMinimumSize(QtCore.QSize(0, 20))
+        self.segment_temperature_head_entry_stats_E_3.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_head_entry_stats_E_3.setObjectName("segment_temperature_head_entry_stats_E_3")
+        self.segment_entry_stats_Bl_46 = QtWidgets.QGridLayout(self.segment_temperature_head_entry_stats_E_3)
+        self.segment_entry_stats_Bl_46.setContentsMargins(0, 0, 0, 0)
+        self.segment_entry_stats_Bl_46.setHorizontalSpacing(2)
+        self.segment_entry_stats_Bl_46.setVerticalSpacing(0)
+        self.segment_entry_stats_Bl_46.setObjectName("segment_entry_stats_Bl_46")
+        self.segment_temperature_head_entry_stats_E_value_3 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_E_3)
+        self.segment_temperature_head_entry_stats_E_value_3.setEnabled(False)
+        self.segment_temperature_head_entry_stats_E_value_3.setMinimumSize(QtCore.QSize(50, 20))
+        self.segment_temperature_head_entry_stats_E_value_3.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_head_entry_stats_E_value_3.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.segment_temperature_head_entry_stats_E_value_3.setLineWidth(0)
+        self.segment_temperature_head_entry_stats_E_value_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_E_value_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_E_value_3.setObjectName("segment_temperature_head_entry_stats_E_value_3")
+        self.segment_entry_stats_Bl_46.addWidget(self.segment_temperature_head_entry_stats_E_value_3, 0, 1, 1, 1)
+        self.segment_temperature_head_entry_stats_E_name_3 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_E_3)
+        self.segment_temperature_head_entry_stats_E_name_3.setEnabled(False)
+        self.segment_temperature_head_entry_stats_E_name_3.setMinimumSize(QtCore.QSize(110, 20))
+        self.segment_temperature_head_entry_stats_E_name_3.setMaximumSize(QtCore.QSize(110, 20))
+        self.segment_temperature_head_entry_stats_E_name_3.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.segment_temperature_head_entry_stats_E_name_3.setLineWidth(0)
+        self.segment_temperature_head_entry_stats_E_name_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_E_name_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_E_name_3.setObjectName("segment_temperature_head_entry_stats_E_name_3")
+        self.segment_entry_stats_Bl_46.addWidget(self.segment_temperature_head_entry_stats_E_name_3, 0, 0, 1, 1)
+        self.gridLayout_219.addWidget(self.segment_temperature_head_entry_stats_E_3, 1, 0, 1, 1)
+        self.segment_temperature_head_entry_stats_D_3 = QtWidgets.QFrame(self.segment_temperature_head_entry_header_3)
+        self.segment_temperature_head_entry_stats_D_3.setMinimumSize(QtCore.QSize(0, 20))
+        self.segment_temperature_head_entry_stats_D_3.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_head_entry_stats_D_3.setObjectName("segment_temperature_head_entry_stats_D_3")
+        self.segment_entry_stats_Bl_47 = QtWidgets.QGridLayout(self.segment_temperature_head_entry_stats_D_3)
+        self.segment_entry_stats_Bl_47.setContentsMargins(0, 0, 0, 0)
+        self.segment_entry_stats_Bl_47.setHorizontalSpacing(2)
+        self.segment_entry_stats_Bl_47.setVerticalSpacing(0)
+        self.segment_entry_stats_Bl_47.setObjectName("segment_entry_stats_Bl_47")
+        self.segment_temperature_head_entry_stats_D_min_name_3 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_D_3)
+        self.segment_temperature_head_entry_stats_D_min_name_3.setEnabled(False)
+        self.segment_temperature_head_entry_stats_D_min_name_3.setMinimumSize(QtCore.QSize(30, 20))
+        self.segment_temperature_head_entry_stats_D_min_name_3.setMaximumSize(QtCore.QSize(30, 20))
+        self.segment_temperature_head_entry_stats_D_min_name_3.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.segment_temperature_head_entry_stats_D_min_name_3.setLineWidth(0)
+        self.segment_temperature_head_entry_stats_D_min_name_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_D_min_name_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_D_min_name_3.setObjectName("segment_temperature_head_entry_stats_D_min_name_3")
+        self.segment_entry_stats_Bl_47.addWidget(self.segment_temperature_head_entry_stats_D_min_name_3, 0, 0, 1, 1)
+        self.segment_temperature_head_entry_stats_D_max_name_3 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_D_3)
+        self.segment_temperature_head_entry_stats_D_max_name_3.setEnabled(False)
+        self.segment_temperature_head_entry_stats_D_max_name_3.setMinimumSize(QtCore.QSize(30, 20))
+        self.segment_temperature_head_entry_stats_D_max_name_3.setMaximumSize(QtCore.QSize(30, 20))
+        self.segment_temperature_head_entry_stats_D_max_name_3.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.segment_temperature_head_entry_stats_D_max_name_3.setLineWidth(0)
+        self.segment_temperature_head_entry_stats_D_max_name_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_D_max_name_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_D_max_name_3.setObjectName("segment_temperature_head_entry_stats_D_max_name_3")
+        self.segment_entry_stats_Bl_47.addWidget(self.segment_temperature_head_entry_stats_D_max_name_3, 0, 2, 1, 1)
+        self.segment_temperature_head_entry_stats_D_max_value_3 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_D_3)
+        self.segment_temperature_head_entry_stats_D_max_value_3.setEnabled(False)
+        self.segment_temperature_head_entry_stats_D_max_value_3.setMinimumSize(QtCore.QSize(50, 20))
+        self.segment_temperature_head_entry_stats_D_max_value_3.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_head_entry_stats_D_max_value_3.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.segment_temperature_head_entry_stats_D_max_value_3.setLineWidth(0)
+        self.segment_temperature_head_entry_stats_D_max_value_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_D_max_value_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_D_max_value_3.setObjectName("segment_temperature_head_entry_stats_D_max_value_3")
+        self.segment_entry_stats_Bl_47.addWidget(self.segment_temperature_head_entry_stats_D_max_value_3, 0, 3, 1, 1)
+        self.segment_temperature_head_entry_stats_D_min_value_3 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_D_3)
+        self.segment_temperature_head_entry_stats_D_min_value_3.setEnabled(False)
+        self.segment_temperature_head_entry_stats_D_min_value_3.setMinimumSize(QtCore.QSize(50, 20))
+        self.segment_temperature_head_entry_stats_D_min_value_3.setMaximumSize(QtCore.QSize(50, 20))
+        self.segment_temperature_head_entry_stats_D_min_value_3.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.segment_temperature_head_entry_stats_D_min_value_3.setLineWidth(0)
+        self.segment_temperature_head_entry_stats_D_min_value_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_D_min_value_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_D_min_value_3.setObjectName("segment_temperature_head_entry_stats_D_min_value_3")
+        self.segment_entry_stats_Bl_47.addWidget(self.segment_temperature_head_entry_stats_D_min_value_3, 0, 1, 1, 1)
+        self.gridLayout_219.addWidget(self.segment_temperature_head_entry_stats_D_3, 2, 0, 1, 1)
+        self.segment_temperature_head_entry_id_3 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_header_3)
+        self.segment_temperature_head_entry_id_3.setEnabled(False)
+        self.segment_temperature_head_entry_id_3.setMinimumSize(QtCore.QSize(0, 20))
+        self.segment_temperature_head_entry_id_3.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_head_entry_id_3.setStyleSheet("background-color: rgb(230, 230, 230);\n"
+"color: rgb(31, 31, 31);\n"
+"border: 4px;\n"
+"border-radius: 4px;")
+        self.segment_temperature_head_entry_id_3.setLineWidth(0)
+        self.segment_temperature_head_entry_id_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_id_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_id_3.setObjectName("segment_temperature_head_entry_id_3")
+        self.gridLayout_219.addWidget(self.segment_temperature_head_entry_id_3, 0, 0, 1, 1)
+        self.segment_temperature_head_entry_stats_C_3 = QtWidgets.QFrame(self.segment_temperature_head_entry_header_3)
+        self.segment_temperature_head_entry_stats_C_3.setMinimumSize(QtCore.QSize(0, 20))
+        self.segment_temperature_head_entry_stats_C_3.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_head_entry_stats_C_3.setObjectName("segment_temperature_head_entry_stats_C_3")
+        self.segment_entry_stats_Al_61 = QtWidgets.QGridLayout(self.segment_temperature_head_entry_stats_C_3)
+        self.segment_entry_stats_Al_61.setContentsMargins(0, 0, 0, 0)
+        self.segment_entry_stats_Al_61.setHorizontalSpacing(6)
+        self.segment_entry_stats_Al_61.setVerticalSpacing(0)
+        self.segment_entry_stats_Al_61.setObjectName("segment_entry_stats_Al_61")
+        self.segment_temperature_head_entry_stats_C_voltage_3 = QtWidgets.QProgressBar(self.segment_temperature_head_entry_stats_C_3)
+        self.segment_temperature_head_entry_stats_C_voltage_3.setMinimumSize(QtCore.QSize(0, 12))
+        self.segment_temperature_head_entry_stats_C_voltage_3.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.segment_temperature_head_entry_stats_C_voltage_3.setStyleSheet("QProgressBar\n"
+"{\n"
+"background-color: rgb(31, 31, 31);\n"
+"border-radius: 4px;\n"
+"border: 1px solid rgb(145, 145, 145);\n"
+"margin-left: 8px;\n"
+"margin-right: 8px;\n"
+"}\n"
+"\n"
+"QProgressBar::chunk\n"
+"{\n"
+"background-color: rgb(80, 203, 156);\n"
+"border-radius: 4px;\n"
+"border: 4px;\n"
+"margin:2px;\n"
+"}")
+        self.segment_temperature_head_entry_stats_C_voltage_3.setProperty("value", 0)
+        self.segment_temperature_head_entry_stats_C_voltage_3.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
+        self.segment_temperature_head_entry_stats_C_voltage_3.setTextVisible(False)
+        self.segment_temperature_head_entry_stats_C_voltage_3.setObjectName("segment_temperature_head_entry_stats_C_voltage_3")
+        self.segment_entry_stats_Al_61.addWidget(self.segment_temperature_head_entry_stats_C_voltage_3, 0, 2, 1, 1)
+        self.segment_temperature_head_entry_stats_C_nomality_3 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_C_3)
+        self.segment_temperature_head_entry_stats_C_nomality_3.setEnabled(False)
+        self.segment_temperature_head_entry_stats_C_nomality_3.setMinimumSize(QtCore.QSize(60, 20))
+        self.segment_temperature_head_entry_stats_C_nomality_3.setMaximumSize(QtCore.QSize(60, 20))
+        self.segment_temperature_head_entry_stats_C_nomality_3.setStyleSheet("background-color: rgb(80, 203, 156);\n"
+"color: rgb(31, 31, 31);\n"
+"border: 4px;\n"
+"border-radius: 4px;")
+        self.segment_temperature_head_entry_stats_C_nomality_3.setLineWidth(0)
+        self.segment_temperature_head_entry_stats_C_nomality_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_C_nomality_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_stats_C_nomality_3.setObjectName("segment_temperature_head_entry_stats_C_nomality_3")
+        self.segment_entry_stats_Al_61.addWidget(self.segment_temperature_head_entry_stats_C_nomality_3, 0, 1, 1, 1)
+        self.gridLayout_219.addWidget(self.segment_temperature_head_entry_stats_C_3, 3, 0, 1, 1)
+        self.segment_temperature_head_entry_stats_A_3 = QtWidgets.QFrame(self.segment_temperature_head_entry_header_3)
+        self.segment_temperature_head_entry_stats_A_3.setMinimumSize(QtCore.QSize(0, 20))
+        self.segment_temperature_head_entry_stats_A_3.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_head_entry_stats_A_3.setObjectName("segment_temperature_head_entry_stats_A_3")
+        self.segment_entry_stats_Al_62 = QtWidgets.QGridLayout(self.segment_temperature_head_entry_stats_A_3)
+        self.segment_entry_stats_Al_62.setContentsMargins(0, 0, 0, 0)
+        self.segment_entry_stats_Al_62.setHorizontalSpacing(6)
+        self.segment_entry_stats_Al_62.setVerticalSpacing(0)
+        self.segment_entry_stats_Al_62.setObjectName("segment_entry_stats_Al_62")
+        self.segment_temperature_head_entry_A_temperature_3 = QtWidgets.QProgressBar(self.segment_temperature_head_entry_stats_A_3)
+        self.segment_temperature_head_entry_A_temperature_3.setMinimumSize(QtCore.QSize(0, 12))
+        self.segment_temperature_head_entry_A_temperature_3.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.segment_temperature_head_entry_A_temperature_3.setStyleSheet("QProgressBar\n"
+"{\n"
+"background-color: rgb(31, 31, 31);\n"
+"border-radius: 4px;\n"
+"border: 1px solid rgb(145, 145, 145);\n"
+"margin-left: 8px;\n"
+"margin-right: 8px;\n"
+"}\n"
+"\n"
+"QProgressBar::chunk\n"
+"{\n"
+"background-color: rgb(203, 120, 130);\n"
+"border-radius: 4px;\n"
+"border: 4px;\n"
+"margin:2px;\n"
+"}")
+        self.segment_temperature_head_entry_A_temperature_3.setProperty("value", 0)
+        self.segment_temperature_head_entry_A_temperature_3.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
+        self.segment_temperature_head_entry_A_temperature_3.setTextVisible(False)
+        self.segment_temperature_head_entry_A_temperature_3.setObjectName("segment_temperature_head_entry_A_temperature_3")
+        self.segment_entry_stats_Al_62.addWidget(self.segment_temperature_head_entry_A_temperature_3, 0, 2, 1, 1)
+        self.segment_temperature_head_entry_A_nomality_3 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_A_3)
+        self.segment_temperature_head_entry_A_nomality_3.setEnabled(False)
+        self.segment_temperature_head_entry_A_nomality_3.setMinimumSize(QtCore.QSize(60, 20))
+        self.segment_temperature_head_entry_A_nomality_3.setMaximumSize(QtCore.QSize(60, 20))
+        self.segment_temperature_head_entry_A_nomality_3.setStyleSheet("background-color: rgb(80, 203, 156);\n"
+"color: rgb(31, 31, 31);\n"
+"border: 4px;\n"
+"border-radius: 4px;")
+        self.segment_temperature_head_entry_A_nomality_3.setLineWidth(0)
+        self.segment_temperature_head_entry_A_nomality_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_A_nomality_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_head_entry_A_nomality_3.setObjectName("segment_temperature_head_entry_A_nomality_3")
+        self.segment_entry_stats_Al_62.addWidget(self.segment_temperature_head_entry_A_nomality_3, 0, 1, 1, 1)
+        self.gridLayout_219.addWidget(self.segment_temperature_head_entry_stats_A_3, 5, 0, 1, 1)
+        self.segment_entry_wrapper_25.addWidget(self.segment_temperature_head_entry_header_3, 1, 0, 1, 1)
         self.segment_temperature_entry_frame_5 = QtWidgets.QFrame(self.segment_temperature_head_entry_3)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -23599,7 +23851,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_temperature_entry_stats_A_temperature_5.setProperty("value", 48)
+        self.segment_temperature_entry_stats_A_temperature_5.setProperty("value", 0)
         self.segment_temperature_entry_stats_A_temperature_5.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_temperature_entry_stats_A_temperature_5.setTextVisible(False)
         self.segment_temperature_entry_stats_A_temperature_5.setObjectName("segment_temperature_entry_stats_A_temperature_5")
@@ -23608,7 +23860,7 @@ class Ui_MainWindow(object):
         self.segment_temperature_entry_stats_A_nomality_5.setEnabled(False)
         self.segment_temperature_entry_stats_A_nomality_5.setMinimumSize(QtCore.QSize(60, 20))
         self.segment_temperature_entry_stats_A_nomality_5.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_entry_stats_A_nomality_5.setStyleSheet("background-color: rgb(203, 120, 130);\n"
+        self.segment_temperature_entry_stats_A_nomality_5.setStyleSheet("background-color: rgb(80, 203, 156);\n"
 "color: rgb(31, 31, 31);\n"
 "border: 4px;\n"
 "border-radius: 4px;")
@@ -23821,7 +24073,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_21.setProperty("value", 48)
+        self.temperature_entry_bar_21.setProperty("value", 0)
         self.temperature_entry_bar_21.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_21.setTextVisible(False)
         self.temperature_entry_bar_21.setObjectName("temperature_entry_bar_21")
@@ -23909,7 +24161,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_22.setProperty("value", 48)
+        self.temperature_entry_bar_22.setProperty("value", 0)
         self.temperature_entry_bar_22.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_22.setTextVisible(False)
         self.temperature_entry_bar_22.setObjectName("temperature_entry_bar_22")
@@ -23997,7 +24249,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_23.setProperty("value", 48)
+        self.temperature_entry_bar_23.setProperty("value", 0)
         self.temperature_entry_bar_23.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_23.setTextVisible(False)
         self.temperature_entry_bar_23.setObjectName("temperature_entry_bar_23")
@@ -24085,7 +24337,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_24.setProperty("value", 48)
+        self.temperature_entry_bar_24.setProperty("value", 0)
         self.temperature_entry_bar_24.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_24.setTextVisible(False)
         self.temperature_entry_bar_24.setObjectName("temperature_entry_bar_24")
@@ -24173,7 +24425,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_25.setProperty("value", 48)
+        self.temperature_entry_bar_25.setProperty("value", 0)
         self.temperature_entry_bar_25.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_25.setTextVisible(False)
         self.temperature_entry_bar_25.setObjectName("temperature_entry_bar_25")
@@ -24181,258 +24433,6 @@ class Ui_MainWindow(object):
         self.segment_entry_Al_21.addWidget(self.temperature_entry_25, 12757, 0, 1, 1)
         self.segment_entry_wrapper_26.addWidget(self.segment_temperature_entry_5, 4, 0, 1, 1)
         self.segment_entry_wrapper_25.addWidget(self.segment_temperature_entry_frame_5, 2, 0, 1, 1)
-        self.segment_temperature_head_entry_header_3 = QtWidgets.QFrame(self.segment_temperature_head_entry_3)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temperature_head_entry_header_3.sizePolicy().hasHeightForWidth())
-        self.segment_temperature_head_entry_header_3.setSizePolicy(sizePolicy)
-        self.segment_temperature_head_entry_header_3.setMinimumSize(QtCore.QSize(150, 120))
-        self.segment_temperature_head_entry_header_3.setMaximumSize(QtCore.QSize(16777215, 120))
-        self.segment_temperature_head_entry_header_3.setObjectName("segment_temperature_head_entry_header_3")
-        self.gridLayout_219 = QtWidgets.QGridLayout(self.segment_temperature_head_entry_header_3)
-        self.gridLayout_219.setContentsMargins(0, 0, 0, 0)
-        self.gridLayout_219.setSpacing(0)
-        self.gridLayout_219.setObjectName("gridLayout_219")
-        self.segment_temperature_head_entry_stats_B_3 = QtWidgets.QFrame(self.segment_temperature_head_entry_header_3)
-        self.segment_temperature_head_entry_stats_B_3.setMinimumSize(QtCore.QSize(0, 20))
-        self.segment_temperature_head_entry_stats_B_3.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_head_entry_stats_B_3.setObjectName("segment_temperature_head_entry_stats_B_3")
-        self.segment_entry_stats_Bl_45 = QtWidgets.QGridLayout(self.segment_temperature_head_entry_stats_B_3)
-        self.segment_entry_stats_Bl_45.setContentsMargins(0, 0, 0, 0)
-        self.segment_entry_stats_Bl_45.setHorizontalSpacing(2)
-        self.segment_entry_stats_Bl_45.setVerticalSpacing(0)
-        self.segment_entry_stats_Bl_45.setObjectName("segment_entry_stats_Bl_45")
-        self.segment_temperature_head_entry_stats_B_value_3 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_B_3)
-        self.segment_temperature_head_entry_stats_B_value_3.setEnabled(False)
-        self.segment_temperature_head_entry_stats_B_value_3.setMinimumSize(QtCore.QSize(50, 20))
-        self.segment_temperature_head_entry_stats_B_value_3.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_head_entry_stats_B_value_3.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.segment_temperature_head_entry_stats_B_value_3.setLineWidth(0)
-        self.segment_temperature_head_entry_stats_B_value_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_B_value_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_B_value_3.setObjectName("segment_temperature_head_entry_stats_B_value_3")
-        self.segment_entry_stats_Bl_45.addWidget(self.segment_temperature_head_entry_stats_B_value_3, 0, 1, 1, 1)
-        self.segment_temperature_head_entry_stats_B_name_3 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_B_3)
-        self.segment_temperature_head_entry_stats_B_name_3.setEnabled(False)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Preferred)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temperature_head_entry_stats_B_name_3.sizePolicy().hasHeightForWidth())
-        self.segment_temperature_head_entry_stats_B_name_3.setSizePolicy(sizePolicy)
-        self.segment_temperature_head_entry_stats_B_name_3.setMinimumSize(QtCore.QSize(108, 20))
-        self.segment_temperature_head_entry_stats_B_name_3.setMaximumSize(QtCore.QSize(108, 20))
-        self.segment_temperature_head_entry_stats_B_name_3.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.segment_temperature_head_entry_stats_B_name_3.setLineWidth(0)
-        self.segment_temperature_head_entry_stats_B_name_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_B_name_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_B_name_3.setObjectName("segment_temperature_head_entry_stats_B_name_3")
-        self.segment_entry_stats_Bl_45.addWidget(self.segment_temperature_head_entry_stats_B_name_3, 0, 0, 1, 1)
-        self.gridLayout_219.addWidget(self.segment_temperature_head_entry_stats_B_3, 4, 0, 1, 1)
-        self.segment_temperature_head_entry_stats_E_3 = QtWidgets.QFrame(self.segment_temperature_head_entry_header_3)
-        self.segment_temperature_head_entry_stats_E_3.setMinimumSize(QtCore.QSize(0, 20))
-        self.segment_temperature_head_entry_stats_E_3.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_head_entry_stats_E_3.setObjectName("segment_temperature_head_entry_stats_E_3")
-        self.segment_entry_stats_Bl_46 = QtWidgets.QGridLayout(self.segment_temperature_head_entry_stats_E_3)
-        self.segment_entry_stats_Bl_46.setContentsMargins(0, 0, 0, 0)
-        self.segment_entry_stats_Bl_46.setHorizontalSpacing(2)
-        self.segment_entry_stats_Bl_46.setVerticalSpacing(0)
-        self.segment_entry_stats_Bl_46.setObjectName("segment_entry_stats_Bl_46")
-        self.segment_temperature_head_entry_stats_E_value_3 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_E_3)
-        self.segment_temperature_head_entry_stats_E_value_3.setEnabled(False)
-        self.segment_temperature_head_entry_stats_E_value_3.setMinimumSize(QtCore.QSize(50, 20))
-        self.segment_temperature_head_entry_stats_E_value_3.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_head_entry_stats_E_value_3.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.segment_temperature_head_entry_stats_E_value_3.setLineWidth(0)
-        self.segment_temperature_head_entry_stats_E_value_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_E_value_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_E_value_3.setObjectName("segment_temperature_head_entry_stats_E_value_3")
-        self.segment_entry_stats_Bl_46.addWidget(self.segment_temperature_head_entry_stats_E_value_3, 0, 1, 1, 1)
-        self.segment_temperature_head_entry_stats_E_name_3 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_E_3)
-        self.segment_temperature_head_entry_stats_E_name_3.setEnabled(False)
-        self.segment_temperature_head_entry_stats_E_name_3.setMinimumSize(QtCore.QSize(110, 20))
-        self.segment_temperature_head_entry_stats_E_name_3.setMaximumSize(QtCore.QSize(110, 20))
-        self.segment_temperature_head_entry_stats_E_name_3.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.segment_temperature_head_entry_stats_E_name_3.setLineWidth(0)
-        self.segment_temperature_head_entry_stats_E_name_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_E_name_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_E_name_3.setObjectName("segment_temperature_head_entry_stats_E_name_3")
-        self.segment_entry_stats_Bl_46.addWidget(self.segment_temperature_head_entry_stats_E_name_3, 0, 0, 1, 1)
-        self.gridLayout_219.addWidget(self.segment_temperature_head_entry_stats_E_3, 1, 0, 1, 1)
-        self.segment_temperature_head_entry_stats_D_3 = QtWidgets.QFrame(self.segment_temperature_head_entry_header_3)
-        self.segment_temperature_head_entry_stats_D_3.setMinimumSize(QtCore.QSize(0, 20))
-        self.segment_temperature_head_entry_stats_D_3.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_head_entry_stats_D_3.setObjectName("segment_temperature_head_entry_stats_D_3")
-        self.segment_entry_stats_Bl_47 = QtWidgets.QGridLayout(self.segment_temperature_head_entry_stats_D_3)
-        self.segment_entry_stats_Bl_47.setContentsMargins(0, 0, 0, 0)
-        self.segment_entry_stats_Bl_47.setHorizontalSpacing(2)
-        self.segment_entry_stats_Bl_47.setVerticalSpacing(0)
-        self.segment_entry_stats_Bl_47.setObjectName("segment_entry_stats_Bl_47")
-        self.segment_temperature_head_entry_stats_D_min_name_3 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_D_3)
-        self.segment_temperature_head_entry_stats_D_min_name_3.setEnabled(False)
-        self.segment_temperature_head_entry_stats_D_min_name_3.setMinimumSize(QtCore.QSize(30, 20))
-        self.segment_temperature_head_entry_stats_D_min_name_3.setMaximumSize(QtCore.QSize(30, 20))
-        self.segment_temperature_head_entry_stats_D_min_name_3.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.segment_temperature_head_entry_stats_D_min_name_3.setLineWidth(0)
-        self.segment_temperature_head_entry_stats_D_min_name_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_D_min_name_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_D_min_name_3.setObjectName("segment_temperature_head_entry_stats_D_min_name_3")
-        self.segment_entry_stats_Bl_47.addWidget(self.segment_temperature_head_entry_stats_D_min_name_3, 0, 0, 1, 1)
-        self.segment_temperature_head_entry_stats_D_max_name_3 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_D_3)
-        self.segment_temperature_head_entry_stats_D_max_name_3.setEnabled(False)
-        self.segment_temperature_head_entry_stats_D_max_name_3.setMinimumSize(QtCore.QSize(30, 20))
-        self.segment_temperature_head_entry_stats_D_max_name_3.setMaximumSize(QtCore.QSize(30, 20))
-        self.segment_temperature_head_entry_stats_D_max_name_3.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.segment_temperature_head_entry_stats_D_max_name_3.setLineWidth(0)
-        self.segment_temperature_head_entry_stats_D_max_name_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_D_max_name_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_D_max_name_3.setObjectName("segment_temperature_head_entry_stats_D_max_name_3")
-        self.segment_entry_stats_Bl_47.addWidget(self.segment_temperature_head_entry_stats_D_max_name_3, 0, 2, 1, 1)
-        self.segment_temperature_head_entry_stats_D_max_value_3 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_D_3)
-        self.segment_temperature_head_entry_stats_D_max_value_3.setEnabled(False)
-        self.segment_temperature_head_entry_stats_D_max_value_3.setMinimumSize(QtCore.QSize(50, 20))
-        self.segment_temperature_head_entry_stats_D_max_value_3.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_head_entry_stats_D_max_value_3.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.segment_temperature_head_entry_stats_D_max_value_3.setLineWidth(0)
-        self.segment_temperature_head_entry_stats_D_max_value_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_D_max_value_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_D_max_value_3.setObjectName("segment_temperature_head_entry_stats_D_max_value_3")
-        self.segment_entry_stats_Bl_47.addWidget(self.segment_temperature_head_entry_stats_D_max_value_3, 0, 3, 1, 1)
-        self.segment_temperature_head_entry_stats_D_min_value_3 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_D_3)
-        self.segment_temperature_head_entry_stats_D_min_value_3.setEnabled(False)
-        self.segment_temperature_head_entry_stats_D_min_value_3.setMinimumSize(QtCore.QSize(50, 20))
-        self.segment_temperature_head_entry_stats_D_min_value_3.setMaximumSize(QtCore.QSize(50, 20))
-        self.segment_temperature_head_entry_stats_D_min_value_3.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.segment_temperature_head_entry_stats_D_min_value_3.setLineWidth(0)
-        self.segment_temperature_head_entry_stats_D_min_value_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_D_min_value_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_D_min_value_3.setObjectName("segment_temperature_head_entry_stats_D_min_value_3")
-        self.segment_entry_stats_Bl_47.addWidget(self.segment_temperature_head_entry_stats_D_min_value_3, 0, 1, 1, 1)
-        self.gridLayout_219.addWidget(self.segment_temperature_head_entry_stats_D_3, 2, 0, 1, 1)
-        self.segment_temperature_head_entry_id_3 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_header_3)
-        self.segment_temperature_head_entry_id_3.setEnabled(False)
-        self.segment_temperature_head_entry_id_3.setMinimumSize(QtCore.QSize(0, 20))
-        self.segment_temperature_head_entry_id_3.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_head_entry_id_3.setStyleSheet("background-color: rgb(230, 230, 230);\n"
-"color: rgb(31, 31, 31);\n"
-"border: 4px;\n"
-"border-radius: 4px;")
-        self.segment_temperature_head_entry_id_3.setLineWidth(0)
-        self.segment_temperature_head_entry_id_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_id_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_id_3.setObjectName("segment_temperature_head_entry_id_3")
-        self.gridLayout_219.addWidget(self.segment_temperature_head_entry_id_3, 0, 0, 1, 1)
-        self.segment_temperature_head_entry_stats_C_3 = QtWidgets.QFrame(self.segment_temperature_head_entry_header_3)
-        self.segment_temperature_head_entry_stats_C_3.setMinimumSize(QtCore.QSize(0, 20))
-        self.segment_temperature_head_entry_stats_C_3.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_head_entry_stats_C_3.setObjectName("segment_temperature_head_entry_stats_C_3")
-        self.segment_entry_stats_Al_61 = QtWidgets.QGridLayout(self.segment_temperature_head_entry_stats_C_3)
-        self.segment_entry_stats_Al_61.setContentsMargins(0, 0, 0, 0)
-        self.segment_entry_stats_Al_61.setHorizontalSpacing(6)
-        self.segment_entry_stats_Al_61.setVerticalSpacing(0)
-        self.segment_entry_stats_Al_61.setObjectName("segment_entry_stats_Al_61")
-        self.segment_temperature_head_entry_stats_C_voltage_3 = QtWidgets.QProgressBar(self.segment_temperature_head_entry_stats_C_3)
-        self.segment_temperature_head_entry_stats_C_voltage_3.setMinimumSize(QtCore.QSize(0, 12))
-        self.segment_temperature_head_entry_stats_C_voltage_3.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.segment_temperature_head_entry_stats_C_voltage_3.setStyleSheet("QProgressBar\n"
-"{\n"
-"background-color: rgb(31, 31, 31);\n"
-"border-radius: 4px;\n"
-"border: 1px solid rgb(145, 145, 145);\n"
-"margin-left: 8px;\n"
-"margin-right: 8px;\n"
-"}\n"
-"\n"
-"QProgressBar::chunk\n"
-"{\n"
-"background-color: rgb(80, 203, 156);\n"
-"border-radius: 4px;\n"
-"border: 4px;\n"
-"margin:2px;\n"
-"}")
-        self.segment_temperature_head_entry_stats_C_voltage_3.setProperty("value", 48)
-        self.segment_temperature_head_entry_stats_C_voltage_3.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
-        self.segment_temperature_head_entry_stats_C_voltage_3.setTextVisible(False)
-        self.segment_temperature_head_entry_stats_C_voltage_3.setObjectName("segment_temperature_head_entry_stats_C_voltage_3")
-        self.segment_entry_stats_Al_61.addWidget(self.segment_temperature_head_entry_stats_C_voltage_3, 0, 2, 1, 1)
-        self.segment_temperature_head_entry_stats_C_nomality_3 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_C_3)
-        self.segment_temperature_head_entry_stats_C_nomality_3.setEnabled(False)
-        self.segment_temperature_head_entry_stats_C_nomality_3.setMinimumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_head_entry_stats_C_nomality_3.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_head_entry_stats_C_nomality_3.setStyleSheet("background-color: rgb(80, 203, 156);\n"
-"color: rgb(31, 31, 31);\n"
-"border: 4px;\n"
-"border-radius: 4px;")
-        self.segment_temperature_head_entry_stats_C_nomality_3.setLineWidth(0)
-        self.segment_temperature_head_entry_stats_C_nomality_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_C_nomality_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_stats_C_nomality_3.setObjectName("segment_temperature_head_entry_stats_C_nomality_3")
-        self.segment_entry_stats_Al_61.addWidget(self.segment_temperature_head_entry_stats_C_nomality_3, 0, 1, 1, 1)
-        self.gridLayout_219.addWidget(self.segment_temperature_head_entry_stats_C_3, 3, 0, 1, 1)
-        self.segment_temperature_head_entry_stats_A_3 = QtWidgets.QFrame(self.segment_temperature_head_entry_header_3)
-        self.segment_temperature_head_entry_stats_A_3.setMinimumSize(QtCore.QSize(0, 20))
-        self.segment_temperature_head_entry_stats_A_3.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_head_entry_stats_A_3.setObjectName("segment_temperature_head_entry_stats_A_3")
-        self.segment_entry_stats_Al_62 = QtWidgets.QGridLayout(self.segment_temperature_head_entry_stats_A_3)
-        self.segment_entry_stats_Al_62.setContentsMargins(0, 0, 0, 0)
-        self.segment_entry_stats_Al_62.setHorizontalSpacing(6)
-        self.segment_entry_stats_Al_62.setVerticalSpacing(0)
-        self.segment_entry_stats_Al_62.setObjectName("segment_entry_stats_Al_62")
-        self.segment_temperature_head_entry_A_temperature_3 = QtWidgets.QProgressBar(self.segment_temperature_head_entry_stats_A_3)
-        self.segment_temperature_head_entry_A_temperature_3.setMinimumSize(QtCore.QSize(0, 12))
-        self.segment_temperature_head_entry_A_temperature_3.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.segment_temperature_head_entry_A_temperature_3.setStyleSheet("QProgressBar\n"
-"{\n"
-"background-color: rgb(31, 31, 31);\n"
-"border-radius: 4px;\n"
-"border: 1px solid rgb(145, 145, 145);\n"
-"margin-left: 8px;\n"
-"margin-right: 8px;\n"
-"}\n"
-"\n"
-"QProgressBar::chunk\n"
-"{\n"
-"background-color: rgb(203, 120, 130);\n"
-"border-radius: 4px;\n"
-"border: 4px;\n"
-"margin:2px;\n"
-"}")
-        self.segment_temperature_head_entry_A_temperature_3.setProperty("value", 48)
-        self.segment_temperature_head_entry_A_temperature_3.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
-        self.segment_temperature_head_entry_A_temperature_3.setTextVisible(False)
-        self.segment_temperature_head_entry_A_temperature_3.setObjectName("segment_temperature_head_entry_A_temperature_3")
-        self.segment_entry_stats_Al_62.addWidget(self.segment_temperature_head_entry_A_temperature_3, 0, 2, 1, 1)
-        self.segment_temperature_head_entry_A_nomality_3 = QtWidgets.QTextBrowser(self.segment_temperature_head_entry_stats_A_3)
-        self.segment_temperature_head_entry_A_nomality_3.setEnabled(False)
-        self.segment_temperature_head_entry_A_nomality_3.setMinimumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_head_entry_A_nomality_3.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_head_entry_A_nomality_3.setStyleSheet("background-color: rgb(203, 120, 130);\n"
-"color: rgb(31, 31, 31);\n"
-"border: 4px;\n"
-"border-radius: 4px;")
-        self.segment_temperature_head_entry_A_nomality_3.setLineWidth(0)
-        self.segment_temperature_head_entry_A_nomality_3.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_A_nomality_3.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_head_entry_A_nomality_3.setObjectName("segment_temperature_head_entry_A_nomality_3")
-        self.segment_entry_stats_Al_62.addWidget(self.segment_temperature_head_entry_A_nomality_3, 0, 1, 1, 1)
-        self.gridLayout_219.addWidget(self.segment_temperature_head_entry_stats_A_3, 5, 0, 1, 1)
-        self.segment_entry_wrapper_25.addWidget(self.segment_temperature_head_entry_header_3, 1, 0, 1, 1)
         self.segment_temperature_viz_A_3 = QtWidgets.QWidget(self.segment_temperature_head_entry_3)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -24458,16 +24458,6 @@ class Ui_MainWindow(object):
         self.segment_temperature_visualization_6.setContentsMargins(0, 0, 0, 0)
         self.segment_temperature_visualization_6.setSpacing(0)
         self.segment_temperature_visualization_6.setObjectName("segment_temperature_visualization_6")
-        self.segment_temperature_minus_3 = QtWidgets.QLabel(self.segment_temperature_viz_B_3)
-        self.segment_temperature_minus_3.setMinimumSize(QtCore.QSize(18, 18))
-        self.segment_temperature_minus_3.setMaximumSize(QtCore.QSize(18, 18))
-        self.segment_temperature_minus_3.setObjectName("segment_temperature_minus_3")
-        self.segment_temperature_visualization_6.addWidget(self.segment_temperature_minus_3, 0, 0, 1, 1)
-        self.segment_temperature_plus_3 = QtWidgets.QLabel(self.segment_temperature_viz_B_3)
-        self.segment_temperature_plus_3.setMinimumSize(QtCore.QSize(18, 18))
-        self.segment_temperature_plus_3.setMaximumSize(QtCore.QSize(18, 18))
-        self.segment_temperature_plus_3.setObjectName("segment_temperature_plus_3")
-        self.segment_temperature_visualization_6.addWidget(self.segment_temperature_plus_3, 2, 2, 1, 1)
         self.segment_temperature_vertical_p_3 = QtWidgets.QFrame(self.segment_temperature_viz_B_3)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -24496,40 +24486,51 @@ class Ui_MainWindow(object):
         self.gridLayout_10.setHorizontalSpacing(8)
         self.gridLayout_10.setVerticalSpacing(0)
         self.gridLayout_10.setObjectName("gridLayout_10")
-        self.segment_temp_node_21 = QtWidgets.QLabel(self.segment_temperature_horizontal_7)
+        self.segment_temp_node_25 = QtWidgets.QLabel(self.segment_temperature_horizontal_7)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_21.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_21.setSizePolicy(sizePolicy)
-        self.segment_temp_node_21.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_21.setStyleSheet("color: rgb(31, 31, 31);\n"
+        sizePolicy.setHeightForWidth(self.segment_temp_node_25.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_25.setSizePolicy(sizePolicy)
+        self.segment_temp_node_25.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_25.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_21.setObjectName("segment_temp_node_21")
-        self.gridLayout_10.addWidget(self.segment_temp_node_21, 0, 0, 1, 1)
-        self.segment_temp_node_22 = QtWidgets.QLabel(self.segment_temperature_horizontal_7)
+        self.segment_temp_node_25.setObjectName("segment_temp_node_25")
+        self.gridLayout_10.addWidget(self.segment_temp_node_25, 2, 1, 1, 1)
+        self.segment_temp_node_24 = QtWidgets.QLabel(self.segment_temperature_horizontal_7)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_22.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_22.setSizePolicy(sizePolicy)
-        self.segment_temp_node_22.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_22.setStyleSheet("color: rgb(31, 31, 31);\n"
+        sizePolicy.setHeightForWidth(self.segment_temp_node_24.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_24.setSizePolicy(sizePolicy)
+        self.segment_temp_node_24.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_24.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_22.setObjectName("segment_temp_node_22")
-        self.gridLayout_10.addWidget(self.segment_temp_node_22, 0, 1, 1, 1)
-        self.segment_temp_node_23 = QtWidgets.QLabel(self.segment_temperature_horizontal_7)
+        self.segment_temp_node_24.setObjectName("segment_temp_node_24")
+        self.gridLayout_10.addWidget(self.segment_temp_node_24, 0, 1, 1, 1)
+        self.segment_temp_node_27 = QtWidgets.QLabel(self.segment_temperature_horizontal_7)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_23.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_23.setSizePolicy(sizePolicy)
-        self.segment_temp_node_23.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_23.setStyleSheet("color: rgb(31, 31, 31);\n"
+        sizePolicy.setHeightForWidth(self.segment_temp_node_27.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_27.setSizePolicy(sizePolicy)
+        self.segment_temp_node_27.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_27.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_23.setObjectName("segment_temp_node_23")
-        self.gridLayout_10.addWidget(self.segment_temp_node_23, 0, 2, 1, 1)
-        self.segment_temperature_vertical_3.addWidget(self.segment_temperature_horizontal_7, 0, 0, 1, 1)
+        self.segment_temp_node_27.setObjectName("segment_temp_node_27")
+        self.gridLayout_10.addWidget(self.segment_temp_node_27, 4, 1, 1, 1)
+        self.segment_temp_node_26 = QtWidgets.QLabel(self.segment_temperature_horizontal_7)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node_26.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_26.setSizePolicy(sizePolicy)
+        self.segment_temp_node_26.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_26.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node_26.setObjectName("segment_temp_node_26")
+        self.gridLayout_10.addWidget(self.segment_temp_node_26, 3, 1, 1, 1)
+        self.segment_temperature_vertical_3.addWidget(self.segment_temperature_horizontal_7, 0, 1, 1, 1)
         self.segment_temperature_horizontal_8 = QtWidgets.QFrame(self.segment_temperature_vertical_p_3)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -24544,51 +24545,40 @@ class Ui_MainWindow(object):
         self.gridLayout_11.setHorizontalSpacing(8)
         self.gridLayout_11.setVerticalSpacing(0)
         self.gridLayout_11.setObjectName("gridLayout_11")
-        self.segment_temp_node_24 = QtWidgets.QLabel(self.segment_temperature_horizontal_8)
+        self.segment_temp_node_22 = QtWidgets.QLabel(self.segment_temperature_horizontal_8)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_24.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_24.setSizePolicy(sizePolicy)
-        self.segment_temp_node_24.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_24.setStyleSheet("color: rgb(31, 31, 31);\n"
+        sizePolicy.setHeightForWidth(self.segment_temp_node_22.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_22.setSizePolicy(sizePolicy)
+        self.segment_temp_node_22.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_22.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_24.setObjectName("segment_temp_node_24")
-        self.gridLayout_11.addWidget(self.segment_temp_node_24, 0, 0, 1, 1)
-        self.segment_temp_node_25 = QtWidgets.QLabel(self.segment_temperature_horizontal_8)
+        self.segment_temp_node_22.setObjectName("segment_temp_node_22")
+        self.gridLayout_11.addWidget(self.segment_temp_node_22, 2, 1, 1, 1)
+        self.segment_temp_node_23 = QtWidgets.QLabel(self.segment_temperature_horizontal_8)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_25.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_25.setSizePolicy(sizePolicy)
-        self.segment_temp_node_25.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_25.setStyleSheet("color: rgb(31, 31, 31);\n"
+        sizePolicy.setHeightForWidth(self.segment_temp_node_23.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_23.setSizePolicy(sizePolicy)
+        self.segment_temp_node_23.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_23.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_25.setObjectName("segment_temp_node_25")
-        self.gridLayout_11.addWidget(self.segment_temp_node_25, 0, 1, 1, 1)
-        self.segment_temp_node_26 = QtWidgets.QLabel(self.segment_temperature_horizontal_8)
+        self.segment_temp_node_23.setObjectName("segment_temp_node_23")
+        self.gridLayout_11.addWidget(self.segment_temp_node_23, 4, 1, 1, 1)
+        self.segment_temp_node_21 = QtWidgets.QLabel(self.segment_temperature_horizontal_8)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_26.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_26.setSizePolicy(sizePolicy)
-        self.segment_temp_node_26.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_26.setStyleSheet("color: rgb(31, 31, 31);\n"
+        sizePolicy.setHeightForWidth(self.segment_temp_node_21.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_21.setSizePolicy(sizePolicy)
+        self.segment_temp_node_21.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_21.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_26.setObjectName("segment_temp_node_26")
-        self.gridLayout_11.addWidget(self.segment_temp_node_26, 0, 2, 1, 1)
-        self.segment_temp_node_27 = QtWidgets.QLabel(self.segment_temperature_horizontal_8)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_27.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_27.setSizePolicy(sizePolicy)
-        self.segment_temp_node_27.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_27.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_27.setObjectName("segment_temp_node_27")
-        self.gridLayout_11.addWidget(self.segment_temp_node_27, 0, 3, 1, 1)
-        self.segment_temperature_vertical_3.addWidget(self.segment_temperature_horizontal_8, 1, 0, 1, 1)
+        self.segment_temp_node_21.setObjectName("segment_temp_node_21")
+        self.gridLayout_11.addWidget(self.segment_temp_node_21, 1, 1, 1, 1)
+        self.segment_temperature_vertical_3.addWidget(self.segment_temperature_horizontal_8, 0, 0, 1, 1)
         self.segment_temperature_horizontal_9 = QtWidgets.QFrame(self.segment_temperature_vertical_p_3)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -24603,6 +24593,28 @@ class Ui_MainWindow(object):
         self.gridLayout_12.setHorizontalSpacing(8)
         self.gridLayout_12.setVerticalSpacing(0)
         self.gridLayout_12.setObjectName("gridLayout_12")
+        self.segment_temp_node_30 = QtWidgets.QLabel(self.segment_temperature_horizontal_9)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node_30.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_30.setSizePolicy(sizePolicy)
+        self.segment_temp_node_30.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_30.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node_30.setObjectName("segment_temp_node_30")
+        self.gridLayout_12.addWidget(self.segment_temp_node_30, 3, 0, 1, 1)
+        self.segment_temp_node_29 = QtWidgets.QLabel(self.segment_temperature_horizontal_9)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node_29.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_29.setSizePolicy(sizePolicy)
+        self.segment_temp_node_29.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_29.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node_29.setObjectName("segment_temp_node_29")
+        self.gridLayout_12.addWidget(self.segment_temp_node_29, 1, 0, 1, 1)
         self.segment_temp_node_28 = QtWidgets.QLabel(self.segment_temperature_horizontal_9)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -24614,30 +24626,18 @@ class Ui_MainWindow(object):
 "background-color: rgb(203, 120, 130);")
         self.segment_temp_node_28.setObjectName("segment_temp_node_28")
         self.gridLayout_12.addWidget(self.segment_temp_node_28, 0, 0, 1, 1)
-        self.segment_temp_node_29 = QtWidgets.QLabel(self.segment_temperature_horizontal_9)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_29.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_29.setSizePolicy(sizePolicy)
-        self.segment_temp_node_29.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_29.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_29.setObjectName("segment_temp_node_29")
-        self.gridLayout_12.addWidget(self.segment_temp_node_29, 0, 1, 1, 1)
-        self.segment_temp_node_30 = QtWidgets.QLabel(self.segment_temperature_horizontal_9)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_30.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_30.setSizePolicy(sizePolicy)
-        self.segment_temp_node_30.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_30.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_30.setObjectName("segment_temp_node_30")
-        self.gridLayout_12.addWidget(self.segment_temp_node_30, 0, 2, 1, 1)
-        self.segment_temperature_vertical_3.addWidget(self.segment_temperature_horizontal_9, 2, 0, 1, 1)
+        self.segment_temperature_vertical_3.addWidget(self.segment_temperature_horizontal_9, 0, 2, 1, 1)
         self.segment_temperature_visualization_6.addWidget(self.segment_temperature_vertical_p_3, 1, 1, 1, 1)
+        self.segment_temperature_plus_3 = QtWidgets.QLabel(self.segment_temperature_viz_B_3)
+        self.segment_temperature_plus_3.setMinimumSize(QtCore.QSize(18, 18))
+        self.segment_temperature_plus_3.setMaximumSize(QtCore.QSize(18, 18))
+        self.segment_temperature_plus_3.setObjectName("segment_temperature_plus_3")
+        self.segment_temperature_visualization_6.addWidget(self.segment_temperature_plus_3, 0, 2, 1, 1)
+        self.segment_temperature_minus_3 = QtWidgets.QLabel(self.segment_temperature_viz_B_3)
+        self.segment_temperature_minus_3.setMinimumSize(QtCore.QSize(18, 18))
+        self.segment_temperature_minus_3.setMaximumSize(QtCore.QSize(18, 18))
+        self.segment_temperature_minus_3.setObjectName("segment_temperature_minus_3")
+        self.segment_temperature_visualization_6.addWidget(self.segment_temperature_minus_3, 2, 0, 1, 1)
         self.segment_temperature_visualization_5.addWidget(self.segment_temperature_viz_B_3, 0, 0, 1, 1)
         self.segment_entry_wrapper_25.addWidget(self.segment_temperature_viz_A_3, 4, 0, 1, 1)
         self.gridLayout_3.addWidget(self.segment_temperature_head_entry_3, 0, 5, 1, 1)
@@ -24680,654 +24680,6 @@ class Ui_MainWindow(object):
         self.segment_entry_wrapper_31.setHorizontalSpacing(0)
         self.segment_entry_wrapper_31.setVerticalSpacing(12)
         self.segment_entry_wrapper_31.setObjectName("segment_entry_wrapper_31")
-        self.segment_temperature_entry_frame_10 = QtWidgets.QFrame(self.segment_temperature_head_entry_5)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temperature_entry_frame_10.sizePolicy().hasHeightForWidth())
-        self.segment_temperature_entry_frame_10.setSizePolicy(sizePolicy)
-        self.segment_temperature_entry_frame_10.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.segment_temperature_entry_frame_10.setObjectName("segment_temperature_entry_frame_10")
-        self.segment_entry_wrapper_33 = QtWidgets.QGridLayout(self.segment_temperature_entry_frame_10)
-        self.segment_entry_wrapper_33.setContentsMargins(0, 0, 0, 0)
-        self.segment_entry_wrapper_33.setSpacing(0)
-        self.segment_entry_wrapper_33.setObjectName("segment_entry_wrapper_33")
-        self.segment_temperature_entry_header_10 = QtWidgets.QFrame(self.segment_temperature_entry_frame_10)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Fixed)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temperature_entry_header_10.sizePolicy().hasHeightForWidth())
-        self.segment_temperature_entry_header_10.setSizePolicy(sizePolicy)
-        self.segment_temperature_entry_header_10.setMinimumSize(QtCore.QSize(150, 0))
-        self.segment_temperature_entry_header_10.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.segment_temperature_entry_header_10.setObjectName("segment_temperature_entry_header_10")
-        self.gridLayout_239 = QtWidgets.QGridLayout(self.segment_temperature_entry_header_10)
-        self.gridLayout_239.setContentsMargins(0, 0, 0, 0)
-        self.gridLayout_239.setSpacing(0)
-        self.gridLayout_239.setObjectName("gridLayout_239")
-        self.segment_temperature_entry_id_10 = QtWidgets.QTextBrowser(self.segment_temperature_entry_header_10)
-        self.segment_temperature_entry_id_10.setEnabled(False)
-        self.segment_temperature_entry_id_10.setMinimumSize(QtCore.QSize(0, 20))
-        self.segment_temperature_entry_id_10.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_entry_id_10.setStyleSheet("background-color: rgb(230, 230, 230);\n"
-"color: rgb(31, 31, 31);\n"
-"border: 4px;\n"
-"border-radius: 4px;")
-        self.segment_temperature_entry_id_10.setLineWidth(0)
-        self.segment_temperature_entry_id_10.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_id_10.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_id_10.setObjectName("segment_temperature_entry_id_10")
-        self.gridLayout_239.addWidget(self.segment_temperature_entry_id_10, 0, 0, 1, 1)
-        self.segment_temperature_entry_stats_A_10 = QtWidgets.QFrame(self.segment_temperature_entry_header_10)
-        self.segment_temperature_entry_stats_A_10.setMinimumSize(QtCore.QSize(0, 20))
-        self.segment_temperature_entry_stats_A_10.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_entry_stats_A_10.setObjectName("segment_temperature_entry_stats_A_10")
-        self.segment_entry_stats_Al_71 = QtWidgets.QGridLayout(self.segment_temperature_entry_stats_A_10)
-        self.segment_entry_stats_Al_71.setContentsMargins(0, 0, 0, 0)
-        self.segment_entry_stats_Al_71.setHorizontalSpacing(6)
-        self.segment_entry_stats_Al_71.setVerticalSpacing(0)
-        self.segment_entry_stats_Al_71.setObjectName("segment_entry_stats_Al_71")
-        self.segment_temperature_entry_stats_A_temperature_10 = QtWidgets.QProgressBar(self.segment_temperature_entry_stats_A_10)
-        self.segment_temperature_entry_stats_A_temperature_10.setMinimumSize(QtCore.QSize(0, 12))
-        self.segment_temperature_entry_stats_A_temperature_10.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.segment_temperature_entry_stats_A_temperature_10.setStyleSheet("QProgressBar\n"
-"{\n"
-"background-color: rgb(31, 31, 31);\n"
-"border-radius: 4px;\n"
-"border: 1px solid rgb(145, 145, 145);\n"
-"margin-left: 8px;\n"
-"margin-right: 8px;\n"
-"}\n"
-"\n"
-"QProgressBar::chunk\n"
-"{\n"
-"background-color: rgb(203, 120, 130);\n"
-"border-radius: 4px;\n"
-"border: 4px;\n"
-"margin:2px;\n"
-"}")
-        self.segment_temperature_entry_stats_A_temperature_10.setProperty("value", 48)
-        self.segment_temperature_entry_stats_A_temperature_10.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
-        self.segment_temperature_entry_stats_A_temperature_10.setTextVisible(False)
-        self.segment_temperature_entry_stats_A_temperature_10.setObjectName("segment_temperature_entry_stats_A_temperature_10")
-        self.segment_entry_stats_Al_71.addWidget(self.segment_temperature_entry_stats_A_temperature_10, 0, 2, 1, 1)
-        self.segment_temperature_entry_stats_A_nomality_10 = QtWidgets.QTextBrowser(self.segment_temperature_entry_stats_A_10)
-        self.segment_temperature_entry_stats_A_nomality_10.setEnabled(False)
-        self.segment_temperature_entry_stats_A_nomality_10.setMinimumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_entry_stats_A_nomality_10.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_entry_stats_A_nomality_10.setStyleSheet("background-color: rgb(203, 120, 130);\n"
-"color: rgb(31, 31, 31);\n"
-"border: 4px;\n"
-"border-radius: 4px;")
-        self.segment_temperature_entry_stats_A_nomality_10.setLineWidth(0)
-        self.segment_temperature_entry_stats_A_nomality_10.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_stats_A_nomality_10.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_stats_A_nomality_10.setObjectName("segment_temperature_entry_stats_A_nomality_10")
-        self.segment_entry_stats_Al_71.addWidget(self.segment_temperature_entry_stats_A_nomality_10, 0, 1, 1, 1)
-        self.gridLayout_239.addWidget(self.segment_temperature_entry_stats_A_10, 2, 0, 1, 1)
-        self.segment_temperature_entry_stats_B_10 = QtWidgets.QFrame(self.segment_temperature_entry_header_10)
-        self.segment_temperature_entry_stats_B_10.setMinimumSize(QtCore.QSize(0, 20))
-        self.segment_temperature_entry_stats_B_10.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_entry_stats_B_10.setObjectName("segment_temperature_entry_stats_B_10")
-        self.segment_entry_stats_Bl_54 = QtWidgets.QGridLayout(self.segment_temperature_entry_stats_B_10)
-        self.segment_entry_stats_Bl_54.setContentsMargins(0, 0, 0, 0)
-        self.segment_entry_stats_Bl_54.setHorizontalSpacing(2)
-        self.segment_entry_stats_Bl_54.setVerticalSpacing(0)
-        self.segment_entry_stats_Bl_54.setObjectName("segment_entry_stats_Bl_54")
-        self.segment_temperature_entry_stats_B_value_10 = QtWidgets.QTextBrowser(self.segment_temperature_entry_stats_B_10)
-        self.segment_temperature_entry_stats_B_value_10.setEnabled(False)
-        self.segment_temperature_entry_stats_B_value_10.setMinimumSize(QtCore.QSize(50, 20))
-        self.segment_temperature_entry_stats_B_value_10.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_entry_stats_B_value_10.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.segment_temperature_entry_stats_B_value_10.setLineWidth(0)
-        self.segment_temperature_entry_stats_B_value_10.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_stats_B_value_10.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_stats_B_value_10.setObjectName("segment_temperature_entry_stats_B_value_10")
-        self.segment_entry_stats_Bl_54.addWidget(self.segment_temperature_entry_stats_B_value_10, 0, 1, 1, 1)
-        self.segment_temperature_entry_stats_B_name_10 = QtWidgets.QTextBrowser(self.segment_temperature_entry_stats_B_10)
-        self.segment_temperature_entry_stats_B_name_10.setEnabled(False)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Preferred)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temperature_entry_stats_B_name_10.sizePolicy().hasHeightForWidth())
-        self.segment_temperature_entry_stats_B_name_10.setSizePolicy(sizePolicy)
-        self.segment_temperature_entry_stats_B_name_10.setMinimumSize(QtCore.QSize(108, 20))
-        self.segment_temperature_entry_stats_B_name_10.setMaximumSize(QtCore.QSize(108, 20))
-        self.segment_temperature_entry_stats_B_name_10.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.segment_temperature_entry_stats_B_name_10.setLineWidth(0)
-        self.segment_temperature_entry_stats_B_name_10.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_stats_B_name_10.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_stats_B_name_10.setObjectName("segment_temperature_entry_stats_B_name_10")
-        self.segment_entry_stats_Bl_54.addWidget(self.segment_temperature_entry_stats_B_name_10, 0, 0, 1, 1)
-        self.gridLayout_239.addWidget(self.segment_temperature_entry_stats_B_10, 1, 0, 1, 1)
-        self.segment_temperature_entry_label_10 = QtWidgets.QFrame(self.segment_temperature_entry_header_10)
-        self.segment_temperature_entry_label_10.setMinimumSize(QtCore.QSize(0, 20))
-        self.segment_temperature_entry_label_10.setMaximumSize(QtCore.QSize(16777215, 20))
-        self.segment_temperature_entry_label_10.setObjectName("segment_temperature_entry_label_10")
-        self.segment_entry_stats_Al_72 = QtWidgets.QGridLayout(self.segment_temperature_entry_label_10)
-        self.segment_entry_stats_Al_72.setContentsMargins(0, 0, 0, 0)
-        self.segment_entry_stats_Al_72.setSpacing(0)
-        self.segment_entry_stats_Al_72.setObjectName("segment_entry_stats_Al_72")
-        self.segment_temperature_entry_label_C_10 = QtWidgets.QTextBrowser(self.segment_temperature_entry_label_10)
-        self.segment_temperature_entry_label_C_10.setEnabled(False)
-        self.segment_temperature_entry_label_C_10.setMinimumSize(QtCore.QSize(0, 16))
-        self.segment_temperature_entry_label_C_10.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.segment_temperature_entry_label_C_10.setStyleSheet("background-color: rgb(230, 230, 230);\n"
-"color: rgb(31, 31, 31);\n"
-"border: 4px;\n"
-"\n"
-"border-top-right-radius: 4px;\n"
-"border-bottom-right-radius: 4px;\n"
-"border-top-left-radius: 0px;\n"
-"border-bottom-left-radius: 0px;")
-        self.segment_temperature_entry_label_C_10.setLineWidth(0)
-        self.segment_temperature_entry_label_C_10.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_label_C_10.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_label_C_10.setObjectName("segment_temperature_entry_label_C_10")
-        self.segment_entry_stats_Al_72.addWidget(self.segment_temperature_entry_label_C_10, 0, 2, 1, 1)
-        self.segment_temperature_entry_label_A_10 = QtWidgets.QTextBrowser(self.segment_temperature_entry_label_10)
-        self.segment_temperature_entry_label_A_10.setEnabled(False)
-        self.segment_temperature_entry_label_A_10.setMinimumSize(QtCore.QSize(0, 16))
-        self.segment_temperature_entry_label_A_10.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.segment_temperature_entry_label_A_10.setStyleSheet("background-color: rgb(230, 230, 230);\n"
-"color: rgb(31, 31, 31);\n"
-"border: 4px;\n"
-"\n"
-"border-top-right-radius: 0px;\n"
-"border-bottom-right-radius: 0px;\n"
-"border-top-left-radius: 4px;\n"
-"border-bottom-left-radius: 4px;")
-        self.segment_temperature_entry_label_A_10.setLineWidth(0)
-        self.segment_temperature_entry_label_A_10.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_label_A_10.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_label_A_10.setObjectName("segment_temperature_entry_label_A_10")
-        self.segment_entry_stats_Al_72.addWidget(self.segment_temperature_entry_label_A_10, 0, 0, 1, 1)
-        self.segment_temperature_entry_label_B_10 = QtWidgets.QTextBrowser(self.segment_temperature_entry_label_10)
-        self.segment_temperature_entry_label_B_10.setEnabled(False)
-        self.segment_temperature_entry_label_B_10.setMinimumSize(QtCore.QSize(0, 16))
-        self.segment_temperature_entry_label_B_10.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.segment_temperature_entry_label_B_10.setStyleSheet("background-color: rgb(230, 230, 230);\n"
-"color: rgb(31, 31, 31);\n"
-"border: 4px;\n"
-"\n"
-"border-top-right-radius: 0px;\n"
-"border-bottom-right-radius: 0px;\n"
-"border-top-left-radius: 0px;\n"
-"border-bottom-left-radius: 0px;")
-        self.segment_temperature_entry_label_B_10.setLineWidth(0)
-        self.segment_temperature_entry_label_B_10.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_label_B_10.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.segment_temperature_entry_label_B_10.setObjectName("segment_temperature_entry_label_B_10")
-        self.segment_entry_stats_Al_72.addWidget(self.segment_temperature_entry_label_B_10, 0, 1, 1, 1)
-        self.gridLayout_239.addWidget(self.segment_temperature_entry_label_10, 3, 0, 1, 1)
-        self.segment_entry_wrapper_33.addWidget(self.segment_temperature_entry_header_10, 2, 0, 1, 1)
-        self.segment_temperature_entry_10 = QtWidgets.QFrame(self.segment_temperature_entry_frame_10)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temperature_entry_10.sizePolicy().hasHeightForWidth())
-        self.segment_temperature_entry_10.setSizePolicy(sizePolicy)
-        self.segment_temperature_entry_10.setMinimumSize(QtCore.QSize(160, 0))
-        self.segment_temperature_entry_10.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.segment_temperature_entry_10.setFrameShape(QtWidgets.QFrame.NoFrame)
-        self.segment_temperature_entry_10.setLineWidth(0)
-        self.segment_temperature_entry_10.setObjectName("segment_temperature_entry_10")
-        self.segment_entry_Al_26 = QtWidgets.QGridLayout(self.segment_temperature_entry_10)
-        self.segment_entry_Al_26.setContentsMargins(0, 0, 0, 0)
-        self.segment_entry_Al_26.setSpacing(0)
-        self.segment_entry_Al_26.setObjectName("segment_entry_Al_26")
-        self.segment_temperature_entry_hline_10 = QtWidgets.QFrame(self.segment_temperature_entry_10)
-        self.segment_temperature_entry_hline_10.setStyleSheet("color: rgb(145, 145, 145);")
-        self.segment_temperature_entry_hline_10.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.segment_temperature_entry_hline_10.setFrameShape(QtWidgets.QFrame.HLine)
-        self.segment_temperature_entry_hline_10.setObjectName("segment_temperature_entry_hline_10")
-        self.segment_entry_Al_26.addWidget(self.segment_temperature_entry_hline_10, 0, 0, 1, 1)
-        self.temperature_entry_46 = QtWidgets.QFrame(self.segment_temperature_entry_10)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_46.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_46.setSizePolicy(sizePolicy)
-        self.temperature_entry_46.setMinimumSize(QtCore.QSize(100, 20))
-        self.temperature_entry_46.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.temperature_entry_46.setObjectName("temperature_entry_46")
-        self.gridLayout_240 = QtWidgets.QGridLayout(self.temperature_entry_46)
-        self.gridLayout_240.setContentsMargins(0, 0, 0, 0)
-        self.gridLayout_240.setSpacing(0)
-        self.gridLayout_240.setObjectName("gridLayout_240")
-        self.temperature_entry_name_46 = QtWidgets.QTextBrowser(self.temperature_entry_46)
-        self.temperature_entry_name_46.setEnabled(False)
-        self.temperature_entry_name_46.setMinimumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_46.setMaximumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_46.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_name_46.setLineWidth(0)
-        self.temperature_entry_name_46.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_46.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_46.setObjectName("temperature_entry_name_46")
-        self.gridLayout_240.addWidget(self.temperature_entry_name_46, 0, 0, 1, 1)
-        self.temperature_entry_right_line_46 = QtWidgets.QFrame(self.temperature_entry_46)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_46.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_right_line_46.setSizePolicy(sizePolicy)
-        self.temperature_entry_right_line_46.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_right_line_46.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_right_line_46.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_right_line_46.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_right_line_46.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_right_line_46.setObjectName("temperature_entry_right_line_46")
-        self.gridLayout_240.addWidget(self.temperature_entry_right_line_46, 0, 5, 1, 1)
-        self.temperature_entry_left_line_46 = QtWidgets.QFrame(self.temperature_entry_46)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_46.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_left_line_46.setSizePolicy(sizePolicy)
-        self.temperature_entry_left_line_46.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_left_line_46.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_left_line_46.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_left_line_46.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_left_line_46.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_left_line_46.setObjectName("temperature_entry_left_line_46")
-        self.gridLayout_240.addWidget(self.temperature_entry_left_line_46, 0, 1, 1, 1)
-        self.temperature_entry_value_46 = QtWidgets.QTextBrowser(self.temperature_entry_46)
-        self.temperature_entry_value_46.setEnabled(False)
-        self.temperature_entry_value_46.setMinimumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_46.setMaximumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_46.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_value_46.setLineWidth(0)
-        self.temperature_entry_value_46.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_46.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_46.setObjectName("temperature_entry_value_46")
-        self.gridLayout_240.addWidget(self.temperature_entry_value_46, 0, 6, 1, 1)
-        self.temperature_entry_bar_46 = QtWidgets.QProgressBar(self.temperature_entry_46)
-        self.temperature_entry_bar_46.setMinimumSize(QtCore.QSize(0, 12))
-        self.temperature_entry_bar_46.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.temperature_entry_bar_46.setStyleSheet("QProgressBar\n"
-"{\n"
-"background-color: rgb(31, 31, 31);\n"
-"border-radius: 4px;\n"
-"border: 1px solid rgb(145, 145, 145);\n"
-"margin-left: 8px;\n"
-"margin-right: 8px;\n"
-"}\n"
-"\n"
-"QProgressBar::chunk\n"
-"{\n"
-"background-color: rgb(203, 120, 130);\n"
-"border-radius: 4px;\n"
-"border: 4px;\n"
-"margin:2px;\n"
-"}")
-        self.temperature_entry_bar_46.setProperty("value", 48)
-        self.temperature_entry_bar_46.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
-        self.temperature_entry_bar_46.setTextVisible(False)
-        self.temperature_entry_bar_46.setObjectName("temperature_entry_bar_46")
-        self.gridLayout_240.addWidget(self.temperature_entry_bar_46, 0, 2, 1, 1)
-        self.segment_entry_Al_26.addWidget(self.temperature_entry_46, 13187, 0, 1, 1)
-        self.temperature_entry_47 = QtWidgets.QFrame(self.segment_temperature_entry_10)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_47.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_47.setSizePolicy(sizePolicy)
-        self.temperature_entry_47.setMinimumSize(QtCore.QSize(100, 20))
-        self.temperature_entry_47.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.temperature_entry_47.setObjectName("temperature_entry_47")
-        self.gridLayout_241 = QtWidgets.QGridLayout(self.temperature_entry_47)
-        self.gridLayout_241.setContentsMargins(0, 0, 0, 0)
-        self.gridLayout_241.setSpacing(0)
-        self.gridLayout_241.setObjectName("gridLayout_241")
-        self.temperature_entry_name_47 = QtWidgets.QTextBrowser(self.temperature_entry_47)
-        self.temperature_entry_name_47.setEnabled(False)
-        self.temperature_entry_name_47.setMinimumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_47.setMaximumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_47.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_name_47.setLineWidth(0)
-        self.temperature_entry_name_47.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_47.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_47.setObjectName("temperature_entry_name_47")
-        self.gridLayout_241.addWidget(self.temperature_entry_name_47, 0, 0, 1, 1)
-        self.temperature_entry_right_line_47 = QtWidgets.QFrame(self.temperature_entry_47)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_47.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_right_line_47.setSizePolicy(sizePolicy)
-        self.temperature_entry_right_line_47.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_right_line_47.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_right_line_47.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_right_line_47.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_right_line_47.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_right_line_47.setObjectName("temperature_entry_right_line_47")
-        self.gridLayout_241.addWidget(self.temperature_entry_right_line_47, 0, 5, 1, 1)
-        self.temperature_entry_left_line_47 = QtWidgets.QFrame(self.temperature_entry_47)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_47.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_left_line_47.setSizePolicy(sizePolicy)
-        self.temperature_entry_left_line_47.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_left_line_47.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_left_line_47.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_left_line_47.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_left_line_47.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_left_line_47.setObjectName("temperature_entry_left_line_47")
-        self.gridLayout_241.addWidget(self.temperature_entry_left_line_47, 0, 1, 1, 1)
-        self.temperature_entry_value_47 = QtWidgets.QTextBrowser(self.temperature_entry_47)
-        self.temperature_entry_value_47.setEnabled(False)
-        self.temperature_entry_value_47.setMinimumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_47.setMaximumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_47.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_value_47.setLineWidth(0)
-        self.temperature_entry_value_47.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_47.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_47.setObjectName("temperature_entry_value_47")
-        self.gridLayout_241.addWidget(self.temperature_entry_value_47, 0, 6, 1, 1)
-        self.temperature_entry_bar_47 = QtWidgets.QProgressBar(self.temperature_entry_47)
-        self.temperature_entry_bar_47.setMinimumSize(QtCore.QSize(0, 12))
-        self.temperature_entry_bar_47.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.temperature_entry_bar_47.setStyleSheet("QProgressBar\n"
-"{\n"
-"background-color: rgb(31, 31, 31);\n"
-"border-radius: 4px;\n"
-"border: 1px solid rgb(145, 145, 145);\n"
-"margin-left: 8px;\n"
-"margin-right: 8px;\n"
-"}\n"
-"\n"
-"QProgressBar::chunk\n"
-"{\n"
-"background-color: rgb(203, 120, 130);\n"
-"border-radius: 4px;\n"
-"border: 4px;\n"
-"margin:2px;\n"
-"}")
-        self.temperature_entry_bar_47.setProperty("value", 48)
-        self.temperature_entry_bar_47.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
-        self.temperature_entry_bar_47.setTextVisible(False)
-        self.temperature_entry_bar_47.setObjectName("temperature_entry_bar_47")
-        self.gridLayout_241.addWidget(self.temperature_entry_bar_47, 0, 2, 1, 1)
-        self.segment_entry_Al_26.addWidget(self.temperature_entry_47, 13232, 0, 1, 1)
-        self.temperature_entry_48 = QtWidgets.QFrame(self.segment_temperature_entry_10)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_48.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_48.setSizePolicy(sizePolicy)
-        self.temperature_entry_48.setMinimumSize(QtCore.QSize(100, 20))
-        self.temperature_entry_48.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.temperature_entry_48.setObjectName("temperature_entry_48")
-        self.gridLayout_242 = QtWidgets.QGridLayout(self.temperature_entry_48)
-        self.gridLayout_242.setContentsMargins(0, 0, 0, 0)
-        self.gridLayout_242.setSpacing(0)
-        self.gridLayout_242.setObjectName("gridLayout_242")
-        self.temperature_entry_name_48 = QtWidgets.QTextBrowser(self.temperature_entry_48)
-        self.temperature_entry_name_48.setEnabled(False)
-        self.temperature_entry_name_48.setMinimumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_48.setMaximumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_48.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_name_48.setLineWidth(0)
-        self.temperature_entry_name_48.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_48.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_48.setObjectName("temperature_entry_name_48")
-        self.gridLayout_242.addWidget(self.temperature_entry_name_48, 0, 0, 1, 1)
-        self.temperature_entry_right_line_48 = QtWidgets.QFrame(self.temperature_entry_48)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_48.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_right_line_48.setSizePolicy(sizePolicy)
-        self.temperature_entry_right_line_48.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_right_line_48.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_right_line_48.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_right_line_48.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_right_line_48.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_right_line_48.setObjectName("temperature_entry_right_line_48")
-        self.gridLayout_242.addWidget(self.temperature_entry_right_line_48, 0, 5, 1, 1)
-        self.temperature_entry_left_line_48 = QtWidgets.QFrame(self.temperature_entry_48)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_48.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_left_line_48.setSizePolicy(sizePolicy)
-        self.temperature_entry_left_line_48.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_left_line_48.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_left_line_48.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_left_line_48.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_left_line_48.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_left_line_48.setObjectName("temperature_entry_left_line_48")
-        self.gridLayout_242.addWidget(self.temperature_entry_left_line_48, 0, 1, 1, 1)
-        self.temperature_entry_value_48 = QtWidgets.QTextBrowser(self.temperature_entry_48)
-        self.temperature_entry_value_48.setEnabled(False)
-        self.temperature_entry_value_48.setMinimumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_48.setMaximumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_48.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_value_48.setLineWidth(0)
-        self.temperature_entry_value_48.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_48.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_48.setObjectName("temperature_entry_value_48")
-        self.gridLayout_242.addWidget(self.temperature_entry_value_48, 0, 6, 1, 1)
-        self.temperature_entry_bar_48 = QtWidgets.QProgressBar(self.temperature_entry_48)
-        self.temperature_entry_bar_48.setMinimumSize(QtCore.QSize(0, 12))
-        self.temperature_entry_bar_48.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.temperature_entry_bar_48.setStyleSheet("QProgressBar\n"
-"{\n"
-"background-color: rgb(31, 31, 31);\n"
-"border-radius: 4px;\n"
-"border: 1px solid rgb(145, 145, 145);\n"
-"margin-left: 8px;\n"
-"margin-right: 8px;\n"
-"}\n"
-"\n"
-"QProgressBar::chunk\n"
-"{\n"
-"background-color: rgb(203, 120, 130);\n"
-"border-radius: 4px;\n"
-"border: 4px;\n"
-"margin:2px;\n"
-"}")
-        self.temperature_entry_bar_48.setProperty("value", 48)
-        self.temperature_entry_bar_48.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
-        self.temperature_entry_bar_48.setTextVisible(False)
-        self.temperature_entry_bar_48.setObjectName("temperature_entry_bar_48")
-        self.gridLayout_242.addWidget(self.temperature_entry_bar_48, 0, 2, 1, 1)
-        self.segment_entry_Al_26.addWidget(self.temperature_entry_48, 13276, 0, 1, 1)
-        self.temperature_entry_49 = QtWidgets.QFrame(self.segment_temperature_entry_10)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_49.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_49.setSizePolicy(sizePolicy)
-        self.temperature_entry_49.setMinimumSize(QtCore.QSize(100, 20))
-        self.temperature_entry_49.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.temperature_entry_49.setObjectName("temperature_entry_49")
-        self.gridLayout_243 = QtWidgets.QGridLayout(self.temperature_entry_49)
-        self.gridLayout_243.setContentsMargins(0, 0, 0, 0)
-        self.gridLayout_243.setSpacing(0)
-        self.gridLayout_243.setObjectName("gridLayout_243")
-        self.temperature_entry_name_49 = QtWidgets.QTextBrowser(self.temperature_entry_49)
-        self.temperature_entry_name_49.setEnabled(False)
-        self.temperature_entry_name_49.setMinimumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_49.setMaximumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_49.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_name_49.setLineWidth(0)
-        self.temperature_entry_name_49.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_49.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_49.setObjectName("temperature_entry_name_49")
-        self.gridLayout_243.addWidget(self.temperature_entry_name_49, 0, 0, 1, 1)
-        self.temperature_entry_right_line_49 = QtWidgets.QFrame(self.temperature_entry_49)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_49.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_right_line_49.setSizePolicy(sizePolicy)
-        self.temperature_entry_right_line_49.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_right_line_49.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_right_line_49.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_right_line_49.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_right_line_49.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_right_line_49.setObjectName("temperature_entry_right_line_49")
-        self.gridLayout_243.addWidget(self.temperature_entry_right_line_49, 0, 5, 1, 1)
-        self.temperature_entry_left_line_49 = QtWidgets.QFrame(self.temperature_entry_49)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_49.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_left_line_49.setSizePolicy(sizePolicy)
-        self.temperature_entry_left_line_49.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_left_line_49.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_left_line_49.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_left_line_49.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_left_line_49.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_left_line_49.setObjectName("temperature_entry_left_line_49")
-        self.gridLayout_243.addWidget(self.temperature_entry_left_line_49, 0, 1, 1, 1)
-        self.temperature_entry_value_49 = QtWidgets.QTextBrowser(self.temperature_entry_49)
-        self.temperature_entry_value_49.setEnabled(False)
-        self.temperature_entry_value_49.setMinimumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_49.setMaximumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_49.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_value_49.setLineWidth(0)
-        self.temperature_entry_value_49.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_49.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_49.setObjectName("temperature_entry_value_49")
-        self.gridLayout_243.addWidget(self.temperature_entry_value_49, 0, 6, 1, 1)
-        self.temperature_entry_bar_49 = QtWidgets.QProgressBar(self.temperature_entry_49)
-        self.temperature_entry_bar_49.setMinimumSize(QtCore.QSize(0, 12))
-        self.temperature_entry_bar_49.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.temperature_entry_bar_49.setStyleSheet("QProgressBar\n"
-"{\n"
-"background-color: rgb(31, 31, 31);\n"
-"border-radius: 4px;\n"
-"border: 1px solid rgb(145, 145, 145);\n"
-"margin-left: 8px;\n"
-"margin-right: 8px;\n"
-"}\n"
-"\n"
-"QProgressBar::chunk\n"
-"{\n"
-"background-color: rgb(203, 120, 130);\n"
-"border-radius: 4px;\n"
-"border: 4px;\n"
-"margin:2px;\n"
-"}")
-        self.temperature_entry_bar_49.setProperty("value", 48)
-        self.temperature_entry_bar_49.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
-        self.temperature_entry_bar_49.setTextVisible(False)
-        self.temperature_entry_bar_49.setObjectName("temperature_entry_bar_49")
-        self.gridLayout_243.addWidget(self.temperature_entry_bar_49, 0, 2, 1, 1)
-        self.segment_entry_Al_26.addWidget(self.temperature_entry_49, 13321, 0, 1, 1)
-        self.temperature_entry_50 = QtWidgets.QFrame(self.segment_temperature_entry_10)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_50.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_50.setSizePolicy(sizePolicy)
-        self.temperature_entry_50.setMinimumSize(QtCore.QSize(100, 20))
-        self.temperature_entry_50.setMaximumSize(QtCore.QSize(16777215, 16777215))
-        self.temperature_entry_50.setObjectName("temperature_entry_50")
-        self.gridLayout_244 = QtWidgets.QGridLayout(self.temperature_entry_50)
-        self.gridLayout_244.setContentsMargins(0, 0, 0, 0)
-        self.gridLayout_244.setSpacing(0)
-        self.gridLayout_244.setObjectName("gridLayout_244")
-        self.temperature_entry_name_50 = QtWidgets.QTextBrowser(self.temperature_entry_50)
-        self.temperature_entry_name_50.setEnabled(False)
-        self.temperature_entry_name_50.setMinimumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_50.setMaximumSize(QtCore.QSize(40, 20))
-        self.temperature_entry_name_50.setStyleSheet("color: rgb(121, 121, 121);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_name_50.setLineWidth(0)
-        self.temperature_entry_name_50.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_50.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_name_50.setObjectName("temperature_entry_name_50")
-        self.gridLayout_244.addWidget(self.temperature_entry_name_50, 0, 0, 1, 1)
-        self.temperature_entry_right_line_50 = QtWidgets.QFrame(self.temperature_entry_50)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_50.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_right_line_50.setSizePolicy(sizePolicy)
-        self.temperature_entry_right_line_50.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_right_line_50.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_right_line_50.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_right_line_50.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_right_line_50.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_right_line_50.setObjectName("temperature_entry_right_line_50")
-        self.gridLayout_244.addWidget(self.temperature_entry_right_line_50, 0, 5, 1, 1)
-        self.temperature_entry_left_line_50 = QtWidgets.QFrame(self.temperature_entry_50)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_50.sizePolicy().hasHeightForWidth())
-        self.temperature_entry_left_line_50.setSizePolicy(sizePolicy)
-        self.temperature_entry_left_line_50.setMinimumSize(QtCore.QSize(0, 20))
-        self.temperature_entry_left_line_50.setMaximumSize(QtCore.QSize(1, 16777215))
-        self.temperature_entry_left_line_50.setStyleSheet("color: rgb(145, 145, 145);")
-        self.temperature_entry_left_line_50.setFrameShadow(QtWidgets.QFrame.Plain)
-        self.temperature_entry_left_line_50.setFrameShape(QtWidgets.QFrame.VLine)
-        self.temperature_entry_left_line_50.setObjectName("temperature_entry_left_line_50")
-        self.gridLayout_244.addWidget(self.temperature_entry_left_line_50, 0, 1, 1, 1)
-        self.temperature_entry_value_50 = QtWidgets.QTextBrowser(self.temperature_entry_50)
-        self.temperature_entry_value_50.setEnabled(False)
-        self.temperature_entry_value_50.setMinimumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_50.setMaximumSize(QtCore.QSize(50, 20))
-        self.temperature_entry_value_50.setStyleSheet("color: rgb(230, 230, 230);\n"
-"background-color: rgb(31, 31, 31);\n"
-"border: 0px;")
-        self.temperature_entry_value_50.setLineWidth(0)
-        self.temperature_entry_value_50.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_50.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
-        self.temperature_entry_value_50.setObjectName("temperature_entry_value_50")
-        self.gridLayout_244.addWidget(self.temperature_entry_value_50, 0, 6, 1, 1)
-        self.temperature_entry_bar_50 = QtWidgets.QProgressBar(self.temperature_entry_50)
-        self.temperature_entry_bar_50.setMinimumSize(QtCore.QSize(0, 12))
-        self.temperature_entry_bar_50.setMaximumSize(QtCore.QSize(16777215, 16))
-        self.temperature_entry_bar_50.setStyleSheet("QProgressBar\n"
-"{\n"
-"background-color: rgb(31, 31, 31);\n"
-"border-radius: 4px;\n"
-"border: 1px solid rgb(145, 145, 145);\n"
-"margin-left: 8px;\n"
-"margin-right: 8px;\n"
-"}\n"
-"\n"
-"QProgressBar::chunk\n"
-"{\n"
-"background-color: rgb(203, 120, 130);\n"
-"border-radius: 4px;\n"
-"border: 4px;\n"
-"margin:2px;\n"
-"}")
-        self.temperature_entry_bar_50.setProperty("value", 48)
-        self.temperature_entry_bar_50.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
-        self.temperature_entry_bar_50.setTextVisible(False)
-        self.temperature_entry_bar_50.setObjectName("temperature_entry_bar_50")
-        self.gridLayout_244.addWidget(self.temperature_entry_bar_50, 0, 2, 1, 1)
-        self.segment_entry_Al_26.addWidget(self.temperature_entry_50, 13366, 0, 1, 1)
-        self.segment_entry_wrapper_33.addWidget(self.segment_temperature_entry_10, 3, 0, 1, 1)
-        self.segment_entry_wrapper_31.addWidget(self.segment_temperature_entry_frame_10, 3, 0, 1, 1)
         self.segment_temperature_entry_frame_9 = QtWidgets.QFrame(self.segment_temperature_head_entry_5)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -25394,7 +24746,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_temperature_entry_stats_A_temperature_9.setProperty("value", 48)
+        self.segment_temperature_entry_stats_A_temperature_9.setProperty("value", 0)
         self.segment_temperature_entry_stats_A_temperature_9.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_temperature_entry_stats_A_temperature_9.setTextVisible(False)
         self.segment_temperature_entry_stats_A_temperature_9.setObjectName("segment_temperature_entry_stats_A_temperature_9")
@@ -25403,7 +24755,7 @@ class Ui_MainWindow(object):
         self.segment_temperature_entry_stats_A_nomality_9.setEnabled(False)
         self.segment_temperature_entry_stats_A_nomality_9.setMinimumSize(QtCore.QSize(60, 20))
         self.segment_temperature_entry_stats_A_nomality_9.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_entry_stats_A_nomality_9.setStyleSheet("background-color: rgb(203, 120, 130);\n"
+        self.segment_temperature_entry_stats_A_nomality_9.setStyleSheet("background-color: rgb(80, 203, 156);\n"
 "color: rgb(31, 31, 31);\n"
 "border: 4px;\n"
 "border-radius: 4px;")
@@ -25616,7 +24968,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_41.setProperty("value", 48)
+        self.temperature_entry_bar_41.setProperty("value", 0)
         self.temperature_entry_bar_41.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_41.setTextVisible(False)
         self.temperature_entry_bar_41.setObjectName("temperature_entry_bar_41")
@@ -25704,7 +25056,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_42.setProperty("value", 48)
+        self.temperature_entry_bar_42.setProperty("value", 0)
         self.temperature_entry_bar_42.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_42.setTextVisible(False)
         self.temperature_entry_bar_42.setObjectName("temperature_entry_bar_42")
@@ -25792,7 +25144,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_43.setProperty("value", 48)
+        self.temperature_entry_bar_43.setProperty("value", 0)
         self.temperature_entry_bar_43.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_43.setTextVisible(False)
         self.temperature_entry_bar_43.setObjectName("temperature_entry_bar_43")
@@ -25880,7 +25232,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_44.setProperty("value", 48)
+        self.temperature_entry_bar_44.setProperty("value", 0)
         self.temperature_entry_bar_44.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_44.setTextVisible(False)
         self.temperature_entry_bar_44.setObjectName("temperature_entry_bar_44")
@@ -25968,7 +25320,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.temperature_entry_bar_45.setProperty("value", 48)
+        self.temperature_entry_bar_45.setProperty("value", 0)
         self.temperature_entry_bar_45.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.temperature_entry_bar_45.setTextVisible(False)
         self.temperature_entry_bar_45.setObjectName("temperature_entry_bar_45")
@@ -26161,7 +25513,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_temperature_head_entry_stats_C_voltage_5.setProperty("value", 48)
+        self.segment_temperature_head_entry_stats_C_voltage_5.setProperty("value", 0)
         self.segment_temperature_head_entry_stats_C_voltage_5.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_temperature_head_entry_stats_C_voltage_5.setTextVisible(False)
         self.segment_temperature_head_entry_stats_C_voltage_5.setObjectName("segment_temperature_head_entry_stats_C_voltage_5")
@@ -26208,7 +25560,7 @@ class Ui_MainWindow(object):
 "border: 4px;\n"
 "margin:2px;\n"
 "}")
-        self.segment_temperature_head_entry_A_temperature_5.setProperty("value", 48)
+        self.segment_temperature_head_entry_A_temperature_5.setProperty("value", 0)
         self.segment_temperature_head_entry_A_temperature_5.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
         self.segment_temperature_head_entry_A_temperature_5.setTextVisible(False)
         self.segment_temperature_head_entry_A_temperature_5.setObjectName("segment_temperature_head_entry_A_temperature_5")
@@ -26217,7 +25569,7 @@ class Ui_MainWindow(object):
         self.segment_temperature_head_entry_A_nomality_5.setEnabled(False)
         self.segment_temperature_head_entry_A_nomality_5.setMinimumSize(QtCore.QSize(60, 20))
         self.segment_temperature_head_entry_A_nomality_5.setMaximumSize(QtCore.QSize(60, 20))
-        self.segment_temperature_head_entry_A_nomality_5.setStyleSheet("background-color: rgb(203, 120, 130);\n"
+        self.segment_temperature_head_entry_A_nomality_5.setStyleSheet("background-color: rgb(80, 203, 156);\n"
 "color: rgb(31, 31, 31);\n"
 "border: 4px;\n"
 "border-radius: 4px;")
@@ -26228,6 +25580,654 @@ class Ui_MainWindow(object):
         self.segment_entry_stats_Al_74.addWidget(self.segment_temperature_head_entry_A_nomality_5, 0, 1, 1, 1)
         self.gridLayout_245.addWidget(self.segment_temperature_head_entry_stats_A_5, 5, 0, 1, 1)
         self.segment_entry_wrapper_31.addWidget(self.segment_temperature_head_entry_header_5, 1, 0, 1, 1)
+        self.segment_temperature_entry_frame_10 = QtWidgets.QFrame(self.segment_temperature_head_entry_5)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temperature_entry_frame_10.sizePolicy().hasHeightForWidth())
+        self.segment_temperature_entry_frame_10.setSizePolicy(sizePolicy)
+        self.segment_temperature_entry_frame_10.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.segment_temperature_entry_frame_10.setObjectName("segment_temperature_entry_frame_10")
+        self.segment_entry_wrapper_33 = QtWidgets.QGridLayout(self.segment_temperature_entry_frame_10)
+        self.segment_entry_wrapper_33.setContentsMargins(0, 0, 0, 0)
+        self.segment_entry_wrapper_33.setSpacing(0)
+        self.segment_entry_wrapper_33.setObjectName("segment_entry_wrapper_33")
+        self.segment_temperature_entry_header_10 = QtWidgets.QFrame(self.segment_temperature_entry_frame_10)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Fixed)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temperature_entry_header_10.sizePolicy().hasHeightForWidth())
+        self.segment_temperature_entry_header_10.setSizePolicy(sizePolicy)
+        self.segment_temperature_entry_header_10.setMinimumSize(QtCore.QSize(150, 0))
+        self.segment_temperature_entry_header_10.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.segment_temperature_entry_header_10.setObjectName("segment_temperature_entry_header_10")
+        self.gridLayout_239 = QtWidgets.QGridLayout(self.segment_temperature_entry_header_10)
+        self.gridLayout_239.setContentsMargins(0, 0, 0, 0)
+        self.gridLayout_239.setSpacing(0)
+        self.gridLayout_239.setObjectName("gridLayout_239")
+        self.segment_temperature_entry_id_10 = QtWidgets.QTextBrowser(self.segment_temperature_entry_header_10)
+        self.segment_temperature_entry_id_10.setEnabled(False)
+        self.segment_temperature_entry_id_10.setMinimumSize(QtCore.QSize(0, 20))
+        self.segment_temperature_entry_id_10.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_entry_id_10.setStyleSheet("background-color: rgb(230, 230, 230);\n"
+"color: rgb(31, 31, 31);\n"
+"border: 4px;\n"
+"border-radius: 4px;")
+        self.segment_temperature_entry_id_10.setLineWidth(0)
+        self.segment_temperature_entry_id_10.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_id_10.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_id_10.setObjectName("segment_temperature_entry_id_10")
+        self.gridLayout_239.addWidget(self.segment_temperature_entry_id_10, 0, 0, 1, 1)
+        self.segment_temperature_entry_stats_A_10 = QtWidgets.QFrame(self.segment_temperature_entry_header_10)
+        self.segment_temperature_entry_stats_A_10.setMinimumSize(QtCore.QSize(0, 20))
+        self.segment_temperature_entry_stats_A_10.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_entry_stats_A_10.setObjectName("segment_temperature_entry_stats_A_10")
+        self.segment_entry_stats_Al_71 = QtWidgets.QGridLayout(self.segment_temperature_entry_stats_A_10)
+        self.segment_entry_stats_Al_71.setContentsMargins(0, 0, 0, 0)
+        self.segment_entry_stats_Al_71.setHorizontalSpacing(6)
+        self.segment_entry_stats_Al_71.setVerticalSpacing(0)
+        self.segment_entry_stats_Al_71.setObjectName("segment_entry_stats_Al_71")
+        self.segment_temperature_entry_stats_A_temperature_10 = QtWidgets.QProgressBar(self.segment_temperature_entry_stats_A_10)
+        self.segment_temperature_entry_stats_A_temperature_10.setMinimumSize(QtCore.QSize(0, 12))
+        self.segment_temperature_entry_stats_A_temperature_10.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.segment_temperature_entry_stats_A_temperature_10.setStyleSheet("QProgressBar\n"
+"{\n"
+"background-color: rgb(31, 31, 31);\n"
+"border-radius: 4px;\n"
+"border: 1px solid rgb(145, 145, 145);\n"
+"margin-left: 8px;\n"
+"margin-right: 8px;\n"
+"}\n"
+"\n"
+"QProgressBar::chunk\n"
+"{\n"
+"background-color: rgb(203, 120, 130);\n"
+"border-radius: 4px;\n"
+"border: 4px;\n"
+"margin:2px;\n"
+"}")
+        self.segment_temperature_entry_stats_A_temperature_10.setProperty("value", 0)
+        self.segment_temperature_entry_stats_A_temperature_10.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
+        self.segment_temperature_entry_stats_A_temperature_10.setTextVisible(False)
+        self.segment_temperature_entry_stats_A_temperature_10.setObjectName("segment_temperature_entry_stats_A_temperature_10")
+        self.segment_entry_stats_Al_71.addWidget(self.segment_temperature_entry_stats_A_temperature_10, 0, 2, 1, 1)
+        self.segment_temperature_entry_stats_A_nomality_10 = QtWidgets.QTextBrowser(self.segment_temperature_entry_stats_A_10)
+        self.segment_temperature_entry_stats_A_nomality_10.setEnabled(False)
+        self.segment_temperature_entry_stats_A_nomality_10.setMinimumSize(QtCore.QSize(60, 20))
+        self.segment_temperature_entry_stats_A_nomality_10.setMaximumSize(QtCore.QSize(60, 20))
+        self.segment_temperature_entry_stats_A_nomality_10.setStyleSheet("background-color: rgb(80, 203, 156);\n"
+"color: rgb(31, 31, 31);\n"
+"border: 4px;\n"
+"border-radius: 4px;")
+        self.segment_temperature_entry_stats_A_nomality_10.setLineWidth(0)
+        self.segment_temperature_entry_stats_A_nomality_10.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_stats_A_nomality_10.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_stats_A_nomality_10.setObjectName("segment_temperature_entry_stats_A_nomality_10")
+        self.segment_entry_stats_Al_71.addWidget(self.segment_temperature_entry_stats_A_nomality_10, 0, 1, 1, 1)
+        self.gridLayout_239.addWidget(self.segment_temperature_entry_stats_A_10, 2, 0, 1, 1)
+        self.segment_temperature_entry_stats_B_10 = QtWidgets.QFrame(self.segment_temperature_entry_header_10)
+        self.segment_temperature_entry_stats_B_10.setMinimumSize(QtCore.QSize(0, 20))
+        self.segment_temperature_entry_stats_B_10.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_entry_stats_B_10.setObjectName("segment_temperature_entry_stats_B_10")
+        self.segment_entry_stats_Bl_54 = QtWidgets.QGridLayout(self.segment_temperature_entry_stats_B_10)
+        self.segment_entry_stats_Bl_54.setContentsMargins(0, 0, 0, 0)
+        self.segment_entry_stats_Bl_54.setHorizontalSpacing(2)
+        self.segment_entry_stats_Bl_54.setVerticalSpacing(0)
+        self.segment_entry_stats_Bl_54.setObjectName("segment_entry_stats_Bl_54")
+        self.segment_temperature_entry_stats_B_value_10 = QtWidgets.QTextBrowser(self.segment_temperature_entry_stats_B_10)
+        self.segment_temperature_entry_stats_B_value_10.setEnabled(False)
+        self.segment_temperature_entry_stats_B_value_10.setMinimumSize(QtCore.QSize(50, 20))
+        self.segment_temperature_entry_stats_B_value_10.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_entry_stats_B_value_10.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.segment_temperature_entry_stats_B_value_10.setLineWidth(0)
+        self.segment_temperature_entry_stats_B_value_10.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_stats_B_value_10.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_stats_B_value_10.setObjectName("segment_temperature_entry_stats_B_value_10")
+        self.segment_entry_stats_Bl_54.addWidget(self.segment_temperature_entry_stats_B_value_10, 0, 1, 1, 1)
+        self.segment_temperature_entry_stats_B_name_10 = QtWidgets.QTextBrowser(self.segment_temperature_entry_stats_B_10)
+        self.segment_temperature_entry_stats_B_name_10.setEnabled(False)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Preferred)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temperature_entry_stats_B_name_10.sizePolicy().hasHeightForWidth())
+        self.segment_temperature_entry_stats_B_name_10.setSizePolicy(sizePolicy)
+        self.segment_temperature_entry_stats_B_name_10.setMinimumSize(QtCore.QSize(108, 20))
+        self.segment_temperature_entry_stats_B_name_10.setMaximumSize(QtCore.QSize(108, 20))
+        self.segment_temperature_entry_stats_B_name_10.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.segment_temperature_entry_stats_B_name_10.setLineWidth(0)
+        self.segment_temperature_entry_stats_B_name_10.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_stats_B_name_10.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_stats_B_name_10.setObjectName("segment_temperature_entry_stats_B_name_10")
+        self.segment_entry_stats_Bl_54.addWidget(self.segment_temperature_entry_stats_B_name_10, 0, 0, 1, 1)
+        self.gridLayout_239.addWidget(self.segment_temperature_entry_stats_B_10, 1, 0, 1, 1)
+        self.segment_temperature_entry_label_10 = QtWidgets.QFrame(self.segment_temperature_entry_header_10)
+        self.segment_temperature_entry_label_10.setMinimumSize(QtCore.QSize(0, 20))
+        self.segment_temperature_entry_label_10.setMaximumSize(QtCore.QSize(16777215, 20))
+        self.segment_temperature_entry_label_10.setObjectName("segment_temperature_entry_label_10")
+        self.segment_entry_stats_Al_72 = QtWidgets.QGridLayout(self.segment_temperature_entry_label_10)
+        self.segment_entry_stats_Al_72.setContentsMargins(0, 0, 0, 0)
+        self.segment_entry_stats_Al_72.setSpacing(0)
+        self.segment_entry_stats_Al_72.setObjectName("segment_entry_stats_Al_72")
+        self.segment_temperature_entry_label_C_10 = QtWidgets.QTextBrowser(self.segment_temperature_entry_label_10)
+        self.segment_temperature_entry_label_C_10.setEnabled(False)
+        self.segment_temperature_entry_label_C_10.setMinimumSize(QtCore.QSize(0, 16))
+        self.segment_temperature_entry_label_C_10.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.segment_temperature_entry_label_C_10.setStyleSheet("background-color: rgb(230, 230, 230);\n"
+"color: rgb(31, 31, 31);\n"
+"border: 4px;\n"
+"\n"
+"border-top-right-radius: 4px;\n"
+"border-bottom-right-radius: 4px;\n"
+"border-top-left-radius: 0px;\n"
+"border-bottom-left-radius: 0px;")
+        self.segment_temperature_entry_label_C_10.setLineWidth(0)
+        self.segment_temperature_entry_label_C_10.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_label_C_10.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_label_C_10.setObjectName("segment_temperature_entry_label_C_10")
+        self.segment_entry_stats_Al_72.addWidget(self.segment_temperature_entry_label_C_10, 0, 2, 1, 1)
+        self.segment_temperature_entry_label_A_10 = QtWidgets.QTextBrowser(self.segment_temperature_entry_label_10)
+        self.segment_temperature_entry_label_A_10.setEnabled(False)
+        self.segment_temperature_entry_label_A_10.setMinimumSize(QtCore.QSize(0, 16))
+        self.segment_temperature_entry_label_A_10.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.segment_temperature_entry_label_A_10.setStyleSheet("background-color: rgb(230, 230, 230);\n"
+"color: rgb(31, 31, 31);\n"
+"border: 4px;\n"
+"\n"
+"border-top-right-radius: 0px;\n"
+"border-bottom-right-radius: 0px;\n"
+"border-top-left-radius: 4px;\n"
+"border-bottom-left-radius: 4px;")
+        self.segment_temperature_entry_label_A_10.setLineWidth(0)
+        self.segment_temperature_entry_label_A_10.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_label_A_10.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_label_A_10.setObjectName("segment_temperature_entry_label_A_10")
+        self.segment_entry_stats_Al_72.addWidget(self.segment_temperature_entry_label_A_10, 0, 0, 1, 1)
+        self.segment_temperature_entry_label_B_10 = QtWidgets.QTextBrowser(self.segment_temperature_entry_label_10)
+        self.segment_temperature_entry_label_B_10.setEnabled(False)
+        self.segment_temperature_entry_label_B_10.setMinimumSize(QtCore.QSize(0, 16))
+        self.segment_temperature_entry_label_B_10.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.segment_temperature_entry_label_B_10.setStyleSheet("background-color: rgb(230, 230, 230);\n"
+"color: rgb(31, 31, 31);\n"
+"border: 4px;\n"
+"\n"
+"border-top-right-radius: 0px;\n"
+"border-bottom-right-radius: 0px;\n"
+"border-top-left-radius: 0px;\n"
+"border-bottom-left-radius: 0px;")
+        self.segment_temperature_entry_label_B_10.setLineWidth(0)
+        self.segment_temperature_entry_label_B_10.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_label_B_10.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.segment_temperature_entry_label_B_10.setObjectName("segment_temperature_entry_label_B_10")
+        self.segment_entry_stats_Al_72.addWidget(self.segment_temperature_entry_label_B_10, 0, 1, 1, 1)
+        self.gridLayout_239.addWidget(self.segment_temperature_entry_label_10, 3, 0, 1, 1)
+        self.segment_entry_wrapper_33.addWidget(self.segment_temperature_entry_header_10, 2, 0, 1, 1)
+        self.segment_temperature_entry_10 = QtWidgets.QFrame(self.segment_temperature_entry_frame_10)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temperature_entry_10.sizePolicy().hasHeightForWidth())
+        self.segment_temperature_entry_10.setSizePolicy(sizePolicy)
+        self.segment_temperature_entry_10.setMinimumSize(QtCore.QSize(160, 0))
+        self.segment_temperature_entry_10.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.segment_temperature_entry_10.setFrameShape(QtWidgets.QFrame.NoFrame)
+        self.segment_temperature_entry_10.setLineWidth(0)
+        self.segment_temperature_entry_10.setObjectName("segment_temperature_entry_10")
+        self.segment_entry_Al_26 = QtWidgets.QGridLayout(self.segment_temperature_entry_10)
+        self.segment_entry_Al_26.setContentsMargins(0, 0, 0, 0)
+        self.segment_entry_Al_26.setSpacing(0)
+        self.segment_entry_Al_26.setObjectName("segment_entry_Al_26")
+        self.segment_temperature_entry_hline_10 = QtWidgets.QFrame(self.segment_temperature_entry_10)
+        self.segment_temperature_entry_hline_10.setStyleSheet("color: rgb(145, 145, 145);")
+        self.segment_temperature_entry_hline_10.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.segment_temperature_entry_hline_10.setFrameShape(QtWidgets.QFrame.HLine)
+        self.segment_temperature_entry_hline_10.setObjectName("segment_temperature_entry_hline_10")
+        self.segment_entry_Al_26.addWidget(self.segment_temperature_entry_hline_10, 0, 0, 1, 1)
+        self.temperature_entry_46 = QtWidgets.QFrame(self.segment_temperature_entry_10)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_46.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_46.setSizePolicy(sizePolicy)
+        self.temperature_entry_46.setMinimumSize(QtCore.QSize(100, 20))
+        self.temperature_entry_46.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.temperature_entry_46.setObjectName("temperature_entry_46")
+        self.gridLayout_240 = QtWidgets.QGridLayout(self.temperature_entry_46)
+        self.gridLayout_240.setContentsMargins(0, 0, 0, 0)
+        self.gridLayout_240.setSpacing(0)
+        self.gridLayout_240.setObjectName("gridLayout_240")
+        self.temperature_entry_name_46 = QtWidgets.QTextBrowser(self.temperature_entry_46)
+        self.temperature_entry_name_46.setEnabled(False)
+        self.temperature_entry_name_46.setMinimumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_46.setMaximumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_46.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_name_46.setLineWidth(0)
+        self.temperature_entry_name_46.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_46.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_46.setObjectName("temperature_entry_name_46")
+        self.gridLayout_240.addWidget(self.temperature_entry_name_46, 0, 0, 1, 1)
+        self.temperature_entry_right_line_46 = QtWidgets.QFrame(self.temperature_entry_46)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_46.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_right_line_46.setSizePolicy(sizePolicy)
+        self.temperature_entry_right_line_46.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_right_line_46.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_right_line_46.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_right_line_46.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_right_line_46.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_right_line_46.setObjectName("temperature_entry_right_line_46")
+        self.gridLayout_240.addWidget(self.temperature_entry_right_line_46, 0, 5, 1, 1)
+        self.temperature_entry_left_line_46 = QtWidgets.QFrame(self.temperature_entry_46)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_46.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_left_line_46.setSizePolicy(sizePolicy)
+        self.temperature_entry_left_line_46.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_left_line_46.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_left_line_46.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_left_line_46.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_left_line_46.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_left_line_46.setObjectName("temperature_entry_left_line_46")
+        self.gridLayout_240.addWidget(self.temperature_entry_left_line_46, 0, 1, 1, 1)
+        self.temperature_entry_value_46 = QtWidgets.QTextBrowser(self.temperature_entry_46)
+        self.temperature_entry_value_46.setEnabled(False)
+        self.temperature_entry_value_46.setMinimumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_46.setMaximumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_46.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_value_46.setLineWidth(0)
+        self.temperature_entry_value_46.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_46.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_46.setObjectName("temperature_entry_value_46")
+        self.gridLayout_240.addWidget(self.temperature_entry_value_46, 0, 6, 1, 1)
+        self.temperature_entry_bar_46 = QtWidgets.QProgressBar(self.temperature_entry_46)
+        self.temperature_entry_bar_46.setMinimumSize(QtCore.QSize(0, 12))
+        self.temperature_entry_bar_46.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.temperature_entry_bar_46.setStyleSheet("QProgressBar\n"
+"{\n"
+"background-color: rgb(31, 31, 31);\n"
+"border-radius: 4px;\n"
+"border: 1px solid rgb(145, 145, 145);\n"
+"margin-left: 8px;\n"
+"margin-right: 8px;\n"
+"}\n"
+"\n"
+"QProgressBar::chunk\n"
+"{\n"
+"background-color: rgb(203, 120, 130);\n"
+"border-radius: 4px;\n"
+"border: 4px;\n"
+"margin:2px;\n"
+"}")
+        self.temperature_entry_bar_46.setProperty("value", 0)
+        self.temperature_entry_bar_46.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
+        self.temperature_entry_bar_46.setTextVisible(False)
+        self.temperature_entry_bar_46.setObjectName("temperature_entry_bar_46")
+        self.gridLayout_240.addWidget(self.temperature_entry_bar_46, 0, 2, 1, 1)
+        self.segment_entry_Al_26.addWidget(self.temperature_entry_46, 13187, 0, 1, 1)
+        self.temperature_entry_47 = QtWidgets.QFrame(self.segment_temperature_entry_10)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_47.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_47.setSizePolicy(sizePolicy)
+        self.temperature_entry_47.setMinimumSize(QtCore.QSize(100, 20))
+        self.temperature_entry_47.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.temperature_entry_47.setObjectName("temperature_entry_47")
+        self.gridLayout_241 = QtWidgets.QGridLayout(self.temperature_entry_47)
+        self.gridLayout_241.setContentsMargins(0, 0, 0, 0)
+        self.gridLayout_241.setSpacing(0)
+        self.gridLayout_241.setObjectName("gridLayout_241")
+        self.temperature_entry_name_47 = QtWidgets.QTextBrowser(self.temperature_entry_47)
+        self.temperature_entry_name_47.setEnabled(False)
+        self.temperature_entry_name_47.setMinimumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_47.setMaximumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_47.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_name_47.setLineWidth(0)
+        self.temperature_entry_name_47.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_47.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_47.setObjectName("temperature_entry_name_47")
+        self.gridLayout_241.addWidget(self.temperature_entry_name_47, 0, 0, 1, 1)
+        self.temperature_entry_right_line_47 = QtWidgets.QFrame(self.temperature_entry_47)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_47.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_right_line_47.setSizePolicy(sizePolicy)
+        self.temperature_entry_right_line_47.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_right_line_47.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_right_line_47.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_right_line_47.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_right_line_47.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_right_line_47.setObjectName("temperature_entry_right_line_47")
+        self.gridLayout_241.addWidget(self.temperature_entry_right_line_47, 0, 5, 1, 1)
+        self.temperature_entry_left_line_47 = QtWidgets.QFrame(self.temperature_entry_47)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_47.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_left_line_47.setSizePolicy(sizePolicy)
+        self.temperature_entry_left_line_47.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_left_line_47.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_left_line_47.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_left_line_47.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_left_line_47.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_left_line_47.setObjectName("temperature_entry_left_line_47")
+        self.gridLayout_241.addWidget(self.temperature_entry_left_line_47, 0, 1, 1, 1)
+        self.temperature_entry_value_47 = QtWidgets.QTextBrowser(self.temperature_entry_47)
+        self.temperature_entry_value_47.setEnabled(False)
+        self.temperature_entry_value_47.setMinimumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_47.setMaximumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_47.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_value_47.setLineWidth(0)
+        self.temperature_entry_value_47.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_47.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_47.setObjectName("temperature_entry_value_47")
+        self.gridLayout_241.addWidget(self.temperature_entry_value_47, 0, 6, 1, 1)
+        self.temperature_entry_bar_47 = QtWidgets.QProgressBar(self.temperature_entry_47)
+        self.temperature_entry_bar_47.setMinimumSize(QtCore.QSize(0, 12))
+        self.temperature_entry_bar_47.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.temperature_entry_bar_47.setStyleSheet("QProgressBar\n"
+"{\n"
+"background-color: rgb(31, 31, 31);\n"
+"border-radius: 4px;\n"
+"border: 1px solid rgb(145, 145, 145);\n"
+"margin-left: 8px;\n"
+"margin-right: 8px;\n"
+"}\n"
+"\n"
+"QProgressBar::chunk\n"
+"{\n"
+"background-color: rgb(203, 120, 130);\n"
+"border-radius: 4px;\n"
+"border: 4px;\n"
+"margin:2px;\n"
+"}")
+        self.temperature_entry_bar_47.setProperty("value", 0)
+        self.temperature_entry_bar_47.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
+        self.temperature_entry_bar_47.setTextVisible(False)
+        self.temperature_entry_bar_47.setObjectName("temperature_entry_bar_47")
+        self.gridLayout_241.addWidget(self.temperature_entry_bar_47, 0, 2, 1, 1)
+        self.segment_entry_Al_26.addWidget(self.temperature_entry_47, 13232, 0, 1, 1)
+        self.temperature_entry_48 = QtWidgets.QFrame(self.segment_temperature_entry_10)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_48.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_48.setSizePolicy(sizePolicy)
+        self.temperature_entry_48.setMinimumSize(QtCore.QSize(100, 20))
+        self.temperature_entry_48.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.temperature_entry_48.setObjectName("temperature_entry_48")
+        self.gridLayout_242 = QtWidgets.QGridLayout(self.temperature_entry_48)
+        self.gridLayout_242.setContentsMargins(0, 0, 0, 0)
+        self.gridLayout_242.setSpacing(0)
+        self.gridLayout_242.setObjectName("gridLayout_242")
+        self.temperature_entry_name_48 = QtWidgets.QTextBrowser(self.temperature_entry_48)
+        self.temperature_entry_name_48.setEnabled(False)
+        self.temperature_entry_name_48.setMinimumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_48.setMaximumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_48.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_name_48.setLineWidth(0)
+        self.temperature_entry_name_48.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_48.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_48.setObjectName("temperature_entry_name_48")
+        self.gridLayout_242.addWidget(self.temperature_entry_name_48, 0, 0, 1, 1)
+        self.temperature_entry_right_line_48 = QtWidgets.QFrame(self.temperature_entry_48)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_48.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_right_line_48.setSizePolicy(sizePolicy)
+        self.temperature_entry_right_line_48.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_right_line_48.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_right_line_48.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_right_line_48.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_right_line_48.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_right_line_48.setObjectName("temperature_entry_right_line_48")
+        self.gridLayout_242.addWidget(self.temperature_entry_right_line_48, 0, 5, 1, 1)
+        self.temperature_entry_left_line_48 = QtWidgets.QFrame(self.temperature_entry_48)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_48.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_left_line_48.setSizePolicy(sizePolicy)
+        self.temperature_entry_left_line_48.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_left_line_48.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_left_line_48.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_left_line_48.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_left_line_48.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_left_line_48.setObjectName("temperature_entry_left_line_48")
+        self.gridLayout_242.addWidget(self.temperature_entry_left_line_48, 0, 1, 1, 1)
+        self.temperature_entry_value_48 = QtWidgets.QTextBrowser(self.temperature_entry_48)
+        self.temperature_entry_value_48.setEnabled(False)
+        self.temperature_entry_value_48.setMinimumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_48.setMaximumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_48.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_value_48.setLineWidth(0)
+        self.temperature_entry_value_48.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_48.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_48.setObjectName("temperature_entry_value_48")
+        self.gridLayout_242.addWidget(self.temperature_entry_value_48, 0, 6, 1, 1)
+        self.temperature_entry_bar_48 = QtWidgets.QProgressBar(self.temperature_entry_48)
+        self.temperature_entry_bar_48.setMinimumSize(QtCore.QSize(0, 12))
+        self.temperature_entry_bar_48.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.temperature_entry_bar_48.setStyleSheet("QProgressBar\n"
+"{\n"
+"background-color: rgb(31, 31, 31);\n"
+"border-radius: 4px;\n"
+"border: 1px solid rgb(145, 145, 145);\n"
+"margin-left: 8px;\n"
+"margin-right: 8px;\n"
+"}\n"
+"\n"
+"QProgressBar::chunk\n"
+"{\n"
+"background-color: rgb(203, 120, 130);\n"
+"border-radius: 4px;\n"
+"border: 4px;\n"
+"margin:2px;\n"
+"}")
+        self.temperature_entry_bar_48.setProperty("value", 0)
+        self.temperature_entry_bar_48.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
+        self.temperature_entry_bar_48.setTextVisible(False)
+        self.temperature_entry_bar_48.setObjectName("temperature_entry_bar_48")
+        self.gridLayout_242.addWidget(self.temperature_entry_bar_48, 0, 2, 1, 1)
+        self.segment_entry_Al_26.addWidget(self.temperature_entry_48, 13276, 0, 1, 1)
+        self.temperature_entry_49 = QtWidgets.QFrame(self.segment_temperature_entry_10)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_49.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_49.setSizePolicy(sizePolicy)
+        self.temperature_entry_49.setMinimumSize(QtCore.QSize(100, 20))
+        self.temperature_entry_49.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.temperature_entry_49.setObjectName("temperature_entry_49")
+        self.gridLayout_243 = QtWidgets.QGridLayout(self.temperature_entry_49)
+        self.gridLayout_243.setContentsMargins(0, 0, 0, 0)
+        self.gridLayout_243.setSpacing(0)
+        self.gridLayout_243.setObjectName("gridLayout_243")
+        self.temperature_entry_name_49 = QtWidgets.QTextBrowser(self.temperature_entry_49)
+        self.temperature_entry_name_49.setEnabled(False)
+        self.temperature_entry_name_49.setMinimumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_49.setMaximumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_49.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_name_49.setLineWidth(0)
+        self.temperature_entry_name_49.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_49.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_49.setObjectName("temperature_entry_name_49")
+        self.gridLayout_243.addWidget(self.temperature_entry_name_49, 0, 0, 1, 1)
+        self.temperature_entry_right_line_49 = QtWidgets.QFrame(self.temperature_entry_49)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_49.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_right_line_49.setSizePolicy(sizePolicy)
+        self.temperature_entry_right_line_49.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_right_line_49.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_right_line_49.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_right_line_49.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_right_line_49.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_right_line_49.setObjectName("temperature_entry_right_line_49")
+        self.gridLayout_243.addWidget(self.temperature_entry_right_line_49, 0, 5, 1, 1)
+        self.temperature_entry_left_line_49 = QtWidgets.QFrame(self.temperature_entry_49)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_49.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_left_line_49.setSizePolicy(sizePolicy)
+        self.temperature_entry_left_line_49.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_left_line_49.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_left_line_49.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_left_line_49.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_left_line_49.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_left_line_49.setObjectName("temperature_entry_left_line_49")
+        self.gridLayout_243.addWidget(self.temperature_entry_left_line_49, 0, 1, 1, 1)
+        self.temperature_entry_value_49 = QtWidgets.QTextBrowser(self.temperature_entry_49)
+        self.temperature_entry_value_49.setEnabled(False)
+        self.temperature_entry_value_49.setMinimumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_49.setMaximumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_49.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_value_49.setLineWidth(0)
+        self.temperature_entry_value_49.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_49.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_49.setObjectName("temperature_entry_value_49")
+        self.gridLayout_243.addWidget(self.temperature_entry_value_49, 0, 6, 1, 1)
+        self.temperature_entry_bar_49 = QtWidgets.QProgressBar(self.temperature_entry_49)
+        self.temperature_entry_bar_49.setMinimumSize(QtCore.QSize(0, 12))
+        self.temperature_entry_bar_49.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.temperature_entry_bar_49.setStyleSheet("QProgressBar\n"
+"{\n"
+"background-color: rgb(31, 31, 31);\n"
+"border-radius: 4px;\n"
+"border: 1px solid rgb(145, 145, 145);\n"
+"margin-left: 8px;\n"
+"margin-right: 8px;\n"
+"}\n"
+"\n"
+"QProgressBar::chunk\n"
+"{\n"
+"background-color: rgb(203, 120, 130);\n"
+"border-radius: 4px;\n"
+"border: 4px;\n"
+"margin:2px;\n"
+"}")
+        self.temperature_entry_bar_49.setProperty("value", 0)
+        self.temperature_entry_bar_49.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
+        self.temperature_entry_bar_49.setTextVisible(False)
+        self.temperature_entry_bar_49.setObjectName("temperature_entry_bar_49")
+        self.gridLayout_243.addWidget(self.temperature_entry_bar_49, 0, 2, 1, 1)
+        self.segment_entry_Al_26.addWidget(self.temperature_entry_49, 13321, 0, 1, 1)
+        self.temperature_entry_50 = QtWidgets.QFrame(self.segment_temperature_entry_10)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_50.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_50.setSizePolicy(sizePolicy)
+        self.temperature_entry_50.setMinimumSize(QtCore.QSize(100, 20))
+        self.temperature_entry_50.setMaximumSize(QtCore.QSize(16777215, 16777215))
+        self.temperature_entry_50.setObjectName("temperature_entry_50")
+        self.gridLayout_244 = QtWidgets.QGridLayout(self.temperature_entry_50)
+        self.gridLayout_244.setContentsMargins(0, 0, 0, 0)
+        self.gridLayout_244.setSpacing(0)
+        self.gridLayout_244.setObjectName("gridLayout_244")
+        self.temperature_entry_name_50 = QtWidgets.QTextBrowser(self.temperature_entry_50)
+        self.temperature_entry_name_50.setEnabled(False)
+        self.temperature_entry_name_50.setMinimumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_50.setMaximumSize(QtCore.QSize(40, 20))
+        self.temperature_entry_name_50.setStyleSheet("color: rgb(121, 121, 121);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_name_50.setLineWidth(0)
+        self.temperature_entry_name_50.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_50.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_name_50.setObjectName("temperature_entry_name_50")
+        self.gridLayout_244.addWidget(self.temperature_entry_name_50, 0, 0, 1, 1)
+        self.temperature_entry_right_line_50 = QtWidgets.QFrame(self.temperature_entry_50)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_right_line_50.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_right_line_50.setSizePolicy(sizePolicy)
+        self.temperature_entry_right_line_50.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_right_line_50.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_right_line_50.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_right_line_50.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_right_line_50.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_right_line_50.setObjectName("temperature_entry_right_line_50")
+        self.gridLayout_244.addWidget(self.temperature_entry_right_line_50, 0, 5, 1, 1)
+        self.temperature_entry_left_line_50 = QtWidgets.QFrame(self.temperature_entry_50)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.temperature_entry_left_line_50.sizePolicy().hasHeightForWidth())
+        self.temperature_entry_left_line_50.setSizePolicy(sizePolicy)
+        self.temperature_entry_left_line_50.setMinimumSize(QtCore.QSize(0, 20))
+        self.temperature_entry_left_line_50.setMaximumSize(QtCore.QSize(1, 16777215))
+        self.temperature_entry_left_line_50.setStyleSheet("color: rgb(145, 145, 145);")
+        self.temperature_entry_left_line_50.setFrameShadow(QtWidgets.QFrame.Plain)
+        self.temperature_entry_left_line_50.setFrameShape(QtWidgets.QFrame.VLine)
+        self.temperature_entry_left_line_50.setObjectName("temperature_entry_left_line_50")
+        self.gridLayout_244.addWidget(self.temperature_entry_left_line_50, 0, 1, 1, 1)
+        self.temperature_entry_value_50 = QtWidgets.QTextBrowser(self.temperature_entry_50)
+        self.temperature_entry_value_50.setEnabled(False)
+        self.temperature_entry_value_50.setMinimumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_50.setMaximumSize(QtCore.QSize(50, 20))
+        self.temperature_entry_value_50.setStyleSheet("color: rgb(230, 230, 230);\n"
+"background-color: rgb(31, 31, 31);\n"
+"border: 0px;")
+        self.temperature_entry_value_50.setLineWidth(0)
+        self.temperature_entry_value_50.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_50.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.temperature_entry_value_50.setObjectName("temperature_entry_value_50")
+        self.gridLayout_244.addWidget(self.temperature_entry_value_50, 0, 6, 1, 1)
+        self.temperature_entry_bar_50 = QtWidgets.QProgressBar(self.temperature_entry_50)
+        self.temperature_entry_bar_50.setMinimumSize(QtCore.QSize(0, 12))
+        self.temperature_entry_bar_50.setMaximumSize(QtCore.QSize(16777215, 16))
+        self.temperature_entry_bar_50.setStyleSheet("QProgressBar\n"
+"{\n"
+"background-color: rgb(31, 31, 31);\n"
+"border-radius: 4px;\n"
+"border: 1px solid rgb(145, 145, 145);\n"
+"margin-left: 8px;\n"
+"margin-right: 8px;\n"
+"}\n"
+"\n"
+"QProgressBar::chunk\n"
+"{\n"
+"background-color: rgb(203, 120, 130);\n"
+"border-radius: 4px;\n"
+"border: 4px;\n"
+"margin:2px;\n"
+"}")
+        self.temperature_entry_bar_50.setProperty("value", 0)
+        self.temperature_entry_bar_50.setAlignment(QtCore.Qt.AlignJustify|QtCore.Qt.AlignVCenter)
+        self.temperature_entry_bar_50.setTextVisible(False)
+        self.temperature_entry_bar_50.setObjectName("temperature_entry_bar_50")
+        self.gridLayout_244.addWidget(self.temperature_entry_bar_50, 0, 2, 1, 1)
+        self.segment_entry_Al_26.addWidget(self.temperature_entry_50, 13366, 0, 1, 1)
+        self.segment_entry_wrapper_33.addWidget(self.segment_temperature_entry_10, 3, 0, 1, 1)
+        self.segment_entry_wrapper_31.addWidget(self.segment_temperature_entry_frame_10, 3, 0, 1, 1)
         self.segment_temperature_viz_A_5 = QtWidgets.QWidget(self.segment_temperature_head_entry_5)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -26253,16 +26253,6 @@ class Ui_MainWindow(object):
         self.segment_temperature_visualization_10.setContentsMargins(0, 0, 0, 0)
         self.segment_temperature_visualization_10.setSpacing(0)
         self.segment_temperature_visualization_10.setObjectName("segment_temperature_visualization_10")
-        self.segment_temperature_minus_5 = QtWidgets.QLabel(self.segment_temperature_viz_B_5)
-        self.segment_temperature_minus_5.setMinimumSize(QtCore.QSize(18, 18))
-        self.segment_temperature_minus_5.setMaximumSize(QtCore.QSize(18, 18))
-        self.segment_temperature_minus_5.setObjectName("segment_temperature_minus_5")
-        self.segment_temperature_visualization_10.addWidget(self.segment_temperature_minus_5, 0, 0, 1, 1)
-        self.segment_temperature_plus_5 = QtWidgets.QLabel(self.segment_temperature_viz_B_5)
-        self.segment_temperature_plus_5.setMinimumSize(QtCore.QSize(18, 18))
-        self.segment_temperature_plus_5.setMaximumSize(QtCore.QSize(18, 18))
-        self.segment_temperature_plus_5.setObjectName("segment_temperature_plus_5")
-        self.segment_temperature_visualization_10.addWidget(self.segment_temperature_plus_5, 2, 2, 1, 1)
         self.segment_temperature_vertical_p_5 = QtWidgets.QFrame(self.segment_temperature_viz_B_5)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -26291,40 +26281,51 @@ class Ui_MainWindow(object):
         self.gridLayout_16.setHorizontalSpacing(8)
         self.gridLayout_16.setVerticalSpacing(0)
         self.gridLayout_16.setObjectName("gridLayout_16")
-        self.segment_temp_node_41 = QtWidgets.QLabel(self.segment_temperature_horizontal_13)
+        self.segment_temp_node_47 = QtWidgets.QLabel(self.segment_temperature_horizontal_13)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_41.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_41.setSizePolicy(sizePolicy)
-        self.segment_temp_node_41.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_41.setStyleSheet("color: rgb(31, 31, 31);\n"
+        sizePolicy.setHeightForWidth(self.segment_temp_node_47.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_47.setSizePolicy(sizePolicy)
+        self.segment_temp_node_47.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_47.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_41.setObjectName("segment_temp_node_41")
-        self.gridLayout_16.addWidget(self.segment_temp_node_41, 0, 0, 1, 1)
-        self.segment_temp_node_42 = QtWidgets.QLabel(self.segment_temperature_horizontal_13)
+        self.segment_temp_node_47.setObjectName("segment_temp_node_47")
+        self.gridLayout_16.addWidget(self.segment_temp_node_47, 7, 1, 1, 1)
+        self.segment_temp_node_45 = QtWidgets.QLabel(self.segment_temperature_horizontal_13)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_42.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_42.setSizePolicy(sizePolicy)
-        self.segment_temp_node_42.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_42.setStyleSheet("color: rgb(31, 31, 31);\n"
+        sizePolicy.setHeightForWidth(self.segment_temp_node_45.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_45.setSizePolicy(sizePolicy)
+        self.segment_temp_node_45.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_45.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_42.setObjectName("segment_temp_node_42")
-        self.gridLayout_16.addWidget(self.segment_temp_node_42, 0, 1, 1, 1)
-        self.segment_temp_node_43 = QtWidgets.QLabel(self.segment_temperature_horizontal_13)
+        self.segment_temp_node_45.setObjectName("segment_temp_node_45")
+        self.gridLayout_16.addWidget(self.segment_temp_node_45, 5, 1, 1, 1)
+        self.segment_temp_node_44 = QtWidgets.QLabel(self.segment_temperature_horizontal_13)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_43.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_43.setSizePolicy(sizePolicy)
-        self.segment_temp_node_43.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_43.setStyleSheet("color: rgb(31, 31, 31);\n"
+        sizePolicy.setHeightForWidth(self.segment_temp_node_44.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_44.setSizePolicy(sizePolicy)
+        self.segment_temp_node_44.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_44.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_43.setObjectName("segment_temp_node_43")
-        self.gridLayout_16.addWidget(self.segment_temp_node_43, 0, 2, 1, 1)
-        self.segment_temperature_vertical_5.addWidget(self.segment_temperature_horizontal_13, 0, 0, 1, 1)
+        self.segment_temp_node_44.setObjectName("segment_temp_node_44")
+        self.gridLayout_16.addWidget(self.segment_temp_node_44, 3, 1, 1, 1)
+        self.segment_temp_node_46 = QtWidgets.QLabel(self.segment_temperature_horizontal_13)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node_46.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_46.setSizePolicy(sizePolicy)
+        self.segment_temp_node_46.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_46.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node_46.setObjectName("segment_temp_node_46")
+        self.gridLayout_16.addWidget(self.segment_temp_node_46, 6, 1, 1, 1)
+        self.segment_temperature_vertical_5.addWidget(self.segment_temperature_horizontal_13, 0, 1, 1, 1)
         self.segment_temperature_horizontal_14 = QtWidgets.QFrame(self.segment_temperature_vertical_p_5)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -26339,51 +26340,40 @@ class Ui_MainWindow(object):
         self.gridLayout_17.setHorizontalSpacing(8)
         self.gridLayout_17.setVerticalSpacing(0)
         self.gridLayout_17.setObjectName("gridLayout_17")
-        self.segment_temp_node_44 = QtWidgets.QLabel(self.segment_temperature_horizontal_14)
+        self.segment_temp_node_43 = QtWidgets.QLabel(self.segment_temperature_horizontal_14)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_44.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_44.setSizePolicy(sizePolicy)
-        self.segment_temp_node_44.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_44.setStyleSheet("color: rgb(31, 31, 31);\n"
+        sizePolicy.setHeightForWidth(self.segment_temp_node_43.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_43.setSizePolicy(sizePolicy)
+        self.segment_temp_node_43.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_43.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_44.setObjectName("segment_temp_node_44")
-        self.gridLayout_17.addWidget(self.segment_temp_node_44, 0, 0, 1, 1)
-        self.segment_temp_node_45 = QtWidgets.QLabel(self.segment_temperature_horizontal_14)
+        self.segment_temp_node_43.setObjectName("segment_temp_node_43")
+        self.gridLayout_17.addWidget(self.segment_temp_node_43, 2, 1, 1, 1)
+        self.segment_temp_node_42 = QtWidgets.QLabel(self.segment_temperature_horizontal_14)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_45.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_45.setSizePolicy(sizePolicy)
-        self.segment_temp_node_45.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_45.setStyleSheet("color: rgb(31, 31, 31);\n"
+        sizePolicy.setHeightForWidth(self.segment_temp_node_42.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_42.setSizePolicy(sizePolicy)
+        self.segment_temp_node_42.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_42.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_45.setObjectName("segment_temp_node_45")
-        self.gridLayout_17.addWidget(self.segment_temp_node_45, 0, 1, 1, 1)
-        self.segment_temp_node_46 = QtWidgets.QLabel(self.segment_temperature_horizontal_14)
+        self.segment_temp_node_42.setObjectName("segment_temp_node_42")
+        self.gridLayout_17.addWidget(self.segment_temp_node_42, 1, 1, 1, 1)
+        self.segment_temp_node_41 = QtWidgets.QLabel(self.segment_temperature_horizontal_14)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_46.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_46.setSizePolicy(sizePolicy)
-        self.segment_temp_node_46.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_46.setStyleSheet("color: rgb(31, 31, 31);\n"
+        sizePolicy.setHeightForWidth(self.segment_temp_node_41.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_41.setSizePolicy(sizePolicy)
+        self.segment_temp_node_41.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_41.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_46.setObjectName("segment_temp_node_46")
-        self.gridLayout_17.addWidget(self.segment_temp_node_46, 0, 2, 1, 1)
-        self.segment_temp_node_47 = QtWidgets.QLabel(self.segment_temperature_horizontal_14)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_47.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_47.setSizePolicy(sizePolicy)
-        self.segment_temp_node_47.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_47.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_47.setObjectName("segment_temp_node_47")
-        self.gridLayout_17.addWidget(self.segment_temp_node_47, 0, 3, 1, 1)
-        self.segment_temperature_vertical_5.addWidget(self.segment_temperature_horizontal_14, 1, 0, 1, 1)
+        self.segment_temp_node_41.setObjectName("segment_temp_node_41")
+        self.gridLayout_17.addWidget(self.segment_temp_node_41, 0, 1, 1, 1)
+        self.segment_temperature_vertical_5.addWidget(self.segment_temperature_horizontal_14, 0, 0, 1, 1)
         self.segment_temperature_horizontal_15 = QtWidgets.QFrame(self.segment_temperature_vertical_p_5)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -26408,18 +26398,7 @@ class Ui_MainWindow(object):
         self.segment_temp_node_48.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
         self.segment_temp_node_48.setObjectName("segment_temp_node_48")
-        self.gridLayout_18.addWidget(self.segment_temp_node_48, 0, 0, 1, 1)
-        self.segment_temp_node_49 = QtWidgets.QLabel(self.segment_temperature_horizontal_15)
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.segment_temp_node_49.sizePolicy().hasHeightForWidth())
-        self.segment_temp_node_49.setSizePolicy(sizePolicy)
-        self.segment_temp_node_49.setMaximumSize(QtCore.QSize(30, 30))
-        self.segment_temp_node_49.setStyleSheet("color: rgb(31, 31, 31);\n"
-"background-color: rgb(203, 120, 130);")
-        self.segment_temp_node_49.setObjectName("segment_temp_node_49")
-        self.gridLayout_18.addWidget(self.segment_temp_node_49, 0, 1, 1, 1)
+        self.gridLayout_18.addWidget(self.segment_temp_node_48, 1, 0, 1, 1)
         self.segment_temp_node_50 = QtWidgets.QLabel(self.segment_temperature_horizontal_15)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -26430,9 +26409,30 @@ class Ui_MainWindow(object):
         self.segment_temp_node_50.setStyleSheet("color: rgb(31, 31, 31);\n"
 "background-color: rgb(203, 120, 130);")
         self.segment_temp_node_50.setObjectName("segment_temp_node_50")
-        self.gridLayout_18.addWidget(self.segment_temp_node_50, 0, 2, 1, 1)
-        self.segment_temperature_vertical_5.addWidget(self.segment_temperature_horizontal_15, 2, 0, 1, 1)
+        self.gridLayout_18.addWidget(self.segment_temp_node_50, 3, 0, 1, 1)
+        self.segment_temp_node_49 = QtWidgets.QLabel(self.segment_temperature_horizontal_15)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.segment_temp_node_49.sizePolicy().hasHeightForWidth())
+        self.segment_temp_node_49.setSizePolicy(sizePolicy)
+        self.segment_temp_node_49.setMaximumSize(QtCore.QSize(30, 30))
+        self.segment_temp_node_49.setStyleSheet("color: rgb(31, 31, 31);\n"
+"background-color: rgb(203, 120, 130);")
+        self.segment_temp_node_49.setObjectName("segment_temp_node_49")
+        self.gridLayout_18.addWidget(self.segment_temp_node_49, 2, 0, 1, 1)
+        self.segment_temperature_vertical_5.addWidget(self.segment_temperature_horizontal_15, 0, 2, 1, 1)
         self.segment_temperature_visualization_10.addWidget(self.segment_temperature_vertical_p_5, 1, 1, 1, 1)
+        self.segment_temperature_plus_5 = QtWidgets.QLabel(self.segment_temperature_viz_B_5)
+        self.segment_temperature_plus_5.setMinimumSize(QtCore.QSize(18, 18))
+        self.segment_temperature_plus_5.setMaximumSize(QtCore.QSize(18, 18))
+        self.segment_temperature_plus_5.setObjectName("segment_temperature_plus_5")
+        self.segment_temperature_visualization_10.addWidget(self.segment_temperature_plus_5, 0, 2, 1, 1)
+        self.segment_temperature_minus_5 = QtWidgets.QLabel(self.segment_temperature_viz_B_5)
+        self.segment_temperature_minus_5.setMinimumSize(QtCore.QSize(18, 18))
+        self.segment_temperature_minus_5.setMaximumSize(QtCore.QSize(18, 18))
+        self.segment_temperature_minus_5.setObjectName("segment_temperature_minus_5")
+        self.segment_temperature_visualization_10.addWidget(self.segment_temperature_minus_5, 2, 0, 1, 1)
         self.segment_temperature_visualization_9.addWidget(self.segment_temperature_viz_B_5, 0, 0, 1, 1)
         self.segment_entry_wrapper_31.addWidget(self.segment_temperature_viz_A_5, 4, 0, 1, 1)
         self.gridLayout_3.addWidget(self.segment_temperature_head_entry_5, 0, 9, 1, 1)
@@ -27089,7 +27089,7 @@ class Ui_MainWindow(object):
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">CRITICAL</p></body></html>"))
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
         self.segment_voltage_entry_stats_A_nominality_8.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
@@ -27289,7 +27289,7 @@ class Ui_MainWindow(object):
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">CRITICAL</p></body></html>"))
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
         self.segment_voltage_entry_stats_A_nominality.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
@@ -27644,7 +27644,7 @@ class Ui_MainWindow(object):
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">CRITICAL</p></body></html>"))
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
         self.segment_voltage_entry_stats_A_nominality_6.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
@@ -28299,7 +28299,7 @@ class Ui_MainWindow(object):
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">CRITICAL</p></body></html>"))
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
         self.segment_voltage_entry_stats_A_nominality_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
@@ -28509,7 +28509,7 @@ class Ui_MainWindow(object):
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">CRITICAL</p></body></html>"))
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
         self.segment_voltage_entry_stats_A_nominality_4.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
@@ -28864,7 +28864,7 @@ class Ui_MainWindow(object):
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">CRITICAL</p></body></html>"))
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
         self.segment_voltage_entry_stats_A_nominality_10.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
@@ -29065,92 +29065,7 @@ class Ui_MainWindow(object):
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">CRITICAL</p></body></html>"))
-        self.segment_temperature_entry_id.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">SLAVE ID: 01</p></body></html>"))
-        self.segment_temperature_entry_stats_A_nomality.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">CRITICAL</p></body></html>"))
-        self.segment_temperature_entry_stats_B_value.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.segment_temperature_entry_stats_B_name.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">MAX TEMPERATURE:</p></body></html>"))
-        self.segment_temperature_entry_label_C.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:6pt;\">TEMPERATURE</span></p></body></html>"))
-        self.segment_temperature_entry_label_A.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:6pt;\">THERM PAIR</span></p></body></html>"))
-        self.segment_temperature_entry_label_B.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:6pt;\">VISUAL</span></p></body></html>"))
-        self.temperature_entry_name_4.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
-        self.temperature_entry_value_4.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.temperature_entry_name_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
-        self.temperature_entry_value_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.temperature_entry_name_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
-        self.temperature_entry_value_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.temperature_entry_name.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
-        self.temperature_entry_value.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.temperature_entry_name_5.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
-        self.temperature_entry_value_5.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
         self.segment_temperature_entry_id_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
@@ -29160,7 +29075,7 @@ class Ui_MainWindow(object):
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">CRITICAL</p></body></html>"))
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
         self.segment_temperature_entry_stats_B_value_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
@@ -29236,85 +29151,103 @@ class Ui_MainWindow(object):
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.segment_temperature_minus.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#f7e702;\">_</span></p></body></html>"))
-        self.segment_temperature_plus.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#f7e702;\">+</span></p></body></html>"))
-        self.segment_temp_node.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_2.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_3.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_4.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_6.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_5.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_7.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_8.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_9.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_10.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temperature_head_entry_stats_B_value_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+        self.segment_temperature_entry_id.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.segment_temperature_head_entry_stats_B_name_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">MAX TEMPERATURE:</p></body></html>"))
-        self.segment_temperature_head_entry_stats_E_value_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.segment_temperature_head_entry_stats_E_name_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">SEGMENT VOLTAGE:</p></body></html>"))
-        self.segment_temperature_head_entry_stats_D_min_name_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">MIN</p></body></html>"))
-        self.segment_temperature_head_entry_stats_D_max_name_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">MAX</p></body></html>"))
-        self.segment_temperature_head_entry_stats_D_max_value_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.segment_temperature_head_entry_stats_D_min_value_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.segment_temperature_head_entry_id_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">SEGMENT 1</p></body></html>"))
-        self.segment_temperature_head_entry_stats_C_nomality_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">SLAVE ID: 01</p></body></html>"))
+        self.segment_temperature_entry_stats_A_nomality.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
-        self.segment_temperature_head_entry_A_nomality_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+        self.segment_temperature_entry_stats_B_value.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">CRITICAL</p></body></html>"))
-        self.segment_temperature_minus_2.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#f7e702;\">_</span></p></body></html>"))
-        self.segment_temperature_plus_2.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#f7e702;\">+</span></p></body></html>"))
-        self.segment_temp_node_11.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_12.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_13.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_14.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_15.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_16.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_17.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_18.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_19.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_20.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+        self.segment_temperature_entry_stats_B_name.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">MAX TEMPERATURE:</p></body></html>"))
+        self.segment_temperature_entry_label_C.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:6pt;\">TEMPERATURE</span></p></body></html>"))
+        self.segment_temperature_entry_label_A.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:6pt;\">THERM PAIR</span></p></body></html>"))
+        self.segment_temperature_entry_label_B.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:6pt;\">VISUAL</span></p></body></html>"))
+        self.temperature_entry_name_4.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
+        self.temperature_entry_value_4.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+        self.temperature_entry_name_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
+        self.temperature_entry_value_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+        self.temperature_entry_name_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
+        self.temperature_entry_value_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+        self.temperature_entry_name.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
+        self.temperature_entry_value.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+        self.temperature_entry_name_5.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
+        self.temperature_entry_value_5.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+        self.segment_temp_node_6.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_5.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_4.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_7.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_2.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_3.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_8.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_10.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_9.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temperature_plus.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#f7e702;\">+</span></p></body></html>"))
+        self.segment_temperature_minus.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#f7e702;\">-</span></p></body></html>"))
         self.segment_temperature_entry_id_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
@@ -29324,7 +29257,7 @@ class Ui_MainWindow(object):
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">CRITICAL</p></body></html>"))
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
         self.segment_temperature_entry_stats_B_value_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
@@ -29419,7 +29352,7 @@ class Ui_MainWindow(object):
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">CRITICAL</p></body></html>"))
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
         self.segment_temperature_entry_stats_B_value_4.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
@@ -29485,91 +29418,73 @@ class Ui_MainWindow(object):
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.segment_temperature_entry_id_11.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">SLAVE ID: 01</p></body></html>"))
-        self.segment_temperature_entry_stats_A_nomality_11.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">CRITICAL</p></body></html>"))
-        self.segment_temperature_entry_stats_B_value_11.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+        self.segment_temperature_head_entry_stats_B_value_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
 "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.segment_temperature_entry_stats_B_name_11.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+        self.segment_temperature_head_entry_stats_B_name_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
 "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">MAX TEMPERATURE:</p></body></html>"))
-        self.segment_temperature_entry_label_C_11.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+        self.segment_temperature_head_entry_stats_E_value_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:6pt;\">TEMPERATURE</span></p></body></html>"))
-        self.segment_temperature_entry_label_A_11.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+        self.segment_temperature_head_entry_stats_E_name_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:6pt;\">THERM PAIR</span></p></body></html>"))
-        self.segment_temperature_entry_label_B_11.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">SEGMENT VOLTAGE:</p></body></html>"))
+        self.segment_temperature_head_entry_stats_D_min_name_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:6pt;\">VISUAL</span></p></body></html>"))
-        self.temperature_entry_name_51.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">MIN</p></body></html>"))
+        self.segment_temperature_head_entry_stats_D_max_name_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
-        self.temperature_entry_value_51.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">MAX</p></body></html>"))
+        self.segment_temperature_head_entry_stats_D_max_value_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.temperature_entry_name_52.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+        self.segment_temperature_head_entry_stats_D_min_value_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
-        self.temperature_entry_value_52.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+        self.segment_temperature_head_entry_id_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.temperature_entry_name_53.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">SEGMENT 1</p></body></html>"))
+        self.segment_temperature_head_entry_stats_C_nomality_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
-        self.temperature_entry_value_53.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
+        self.segment_temperature_head_entry_A_nomality_2.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.temperature_entry_name_54.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
-        self.temperature_entry_value_54.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.temperature_entry_name_55.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
-        self.temperature_entry_value_55.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
+        self.segment_temp_node_15.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_14.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_16.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_17.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_11.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_12.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_13.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_19.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_20.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_18.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temperature_plus_2.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#f7e702;\">+</span></p></body></html>"))
+        self.segment_temperature_minus_2.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#f7e702;\">-</span></p></body></html>"))
         self.segment_temperature_entry_id_12.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
@@ -29579,7 +29494,7 @@ class Ui_MainWindow(object):
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">CRITICAL</p></body></html>"))
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
         self.segment_temperature_entry_stats_B_value_12.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
@@ -29709,19 +29624,104 @@ class Ui_MainWindow(object):
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">CRITICAL</p></body></html>"))
-        self.segment_temperature_minus_6.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#f7e702;\">_</span></p></body></html>"))
-        self.segment_temperature_plus_6.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#f7e702;\">+</span></p></body></html>"))
-        self.segment_temp_node_51.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_52.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_53.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
+        self.segment_temperature_entry_id_11.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">SLAVE ID: 01</p></body></html>"))
+        self.segment_temperature_entry_stats_A_nomality_11.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
+        self.segment_temperature_entry_stats_B_value_11.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+        self.segment_temperature_entry_stats_B_name_11.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">MAX TEMPERATURE:</p></body></html>"))
+        self.segment_temperature_entry_label_C_11.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:6pt;\">TEMPERATURE</span></p></body></html>"))
+        self.segment_temperature_entry_label_A_11.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:6pt;\">THERM PAIR</span></p></body></html>"))
+        self.segment_temperature_entry_label_B_11.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:6pt;\">VISUAL</span></p></body></html>"))
+        self.temperature_entry_name_51.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
+        self.temperature_entry_value_51.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+        self.temperature_entry_name_52.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
+        self.temperature_entry_value_52.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+        self.temperature_entry_name_53.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
+        self.temperature_entry_value_53.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+        self.temperature_entry_name_54.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
+        self.temperature_entry_value_54.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+        self.temperature_entry_name_55.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
+        self.temperature_entry_value_55.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
         self.segment_temp_node_54.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
         self.segment_temp_node_55.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
         self.segment_temp_node_56.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
         self.segment_temp_node_57.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_58.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_59.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_53.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_52.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_51.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
         self.segment_temp_node_60.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_59.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_58.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temperature_plus_6.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#f7e702;\">+</span></p></body></html>"))
+        self.segment_temperature_minus_6.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#f7e702;\">-</span></p></body></html>"))
         self.segment_temperature_entry_id_7.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
@@ -29731,7 +29731,7 @@ class Ui_MainWindow(object):
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">CRITICAL</p></body></html>"))
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
         self.segment_temperature_entry_stats_B_value_7.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
@@ -29816,7 +29816,7 @@ class Ui_MainWindow(object):
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">CRITICAL</p></body></html>"))
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
         self.segment_temperature_entry_stats_B_value_8.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
@@ -29946,19 +29946,19 @@ class Ui_MainWindow(object):
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">CRITICAL</p></body></html>"))
-        self.segment_temperature_minus_4.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#f7e702;\">_</span></p></body></html>"))
-        self.segment_temperature_plus_4.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#f7e702;\">+</span></p></body></html>"))
-        self.segment_temp_node_31.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_32.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_33.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
+        self.segment_temp_node_36.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
         self.segment_temp_node_34.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
         self.segment_temp_node_35.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_36.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
         self.segment_temp_node_37.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_38.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_32.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_33.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_31.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
         self.segment_temp_node_39.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
         self.segment_temp_node_40.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_38.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temperature_plus_4.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#f7e702;\">+</span></p></body></html>"))
+        self.segment_temperature_minus_4.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#f7e702;\">-</span></p></body></html>"))
         self.segment_temperature_entry_id_6.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
@@ -29968,7 +29968,7 @@ class Ui_MainWindow(object):
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">CRITICAL</p></body></html>"))
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
         self.segment_temperature_entry_stats_B_value_6.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
@@ -30044,6 +30044,61 @@ class Ui_MainWindow(object):
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+        self.segment_temperature_head_entry_stats_B_value_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+        self.segment_temperature_head_entry_stats_B_name_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">MAX TEMPERATURE:</p></body></html>"))
+        self.segment_temperature_head_entry_stats_E_value_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+        self.segment_temperature_head_entry_stats_E_name_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">SEGMENT VOLTAGE:</p></body></html>"))
+        self.segment_temperature_head_entry_stats_D_min_name_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">MIN</p></body></html>"))
+        self.segment_temperature_head_entry_stats_D_max_name_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">MAX</p></body></html>"))
+        self.segment_temperature_head_entry_stats_D_max_value_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+        self.segment_temperature_head_entry_stats_D_min_value_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+        self.segment_temperature_head_entry_id_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">SEGMENT 1</p></body></html>"))
+        self.segment_temperature_head_entry_stats_C_nomality_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
+        self.segment_temperature_head_entry_A_nomality_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
         self.segment_temperature_entry_id_5.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
@@ -30053,7 +30108,7 @@ class Ui_MainWindow(object):
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">CRITICAL</p></body></html>"))
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
         self.segment_temperature_entry_stats_B_value_5.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
@@ -30129,158 +30184,18 @@ class Ui_MainWindow(object):
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.segment_temperature_head_entry_stats_B_value_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.segment_temperature_head_entry_stats_B_name_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">MAX TEMPERATURE:</p></body></html>"))
-        self.segment_temperature_head_entry_stats_E_value_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.segment_temperature_head_entry_stats_E_name_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">SEGMENT VOLTAGE:</p></body></html>"))
-        self.segment_temperature_head_entry_stats_D_min_name_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">MIN</p></body></html>"))
-        self.segment_temperature_head_entry_stats_D_max_name_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">MAX</p></body></html>"))
-        self.segment_temperature_head_entry_stats_D_max_value_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.segment_temperature_head_entry_stats_D_min_value_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.segment_temperature_head_entry_id_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">SEGMENT 1</p></body></html>"))
-        self.segment_temperature_head_entry_stats_C_nomality_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
-        self.segment_temperature_head_entry_A_nomality_3.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">CRITICAL</p></body></html>"))
-        self.segment_temperature_minus_3.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#f7e702;\">_</span></p></body></html>"))
-        self.segment_temperature_plus_3.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#f7e702;\">+</span></p></body></html>"))
-        self.segment_temp_node_21.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_25.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_24.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_27.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_26.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
         self.segment_temp_node_22.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
         self.segment_temp_node_23.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_24.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_25.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_26.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_27.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_28.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_29.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_21.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
         self.segment_temp_node_30.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temperature_entry_id_10.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">SLAVE ID: 01</p></body></html>"))
-        self.segment_temperature_entry_stats_A_nomality_10.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">CRITICAL</p></body></html>"))
-        self.segment_temperature_entry_stats_B_value_10.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.segment_temperature_entry_stats_B_name_10.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">MAX TEMPERATURE:</p></body></html>"))
-        self.segment_temperature_entry_label_C_10.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:6pt;\">TEMPERATURE</span></p></body></html>"))
-        self.segment_temperature_entry_label_A_10.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:6pt;\">THERM PAIR</span></p></body></html>"))
-        self.segment_temperature_entry_label_B_10.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:6pt;\">VISUAL</span></p></body></html>"))
-        self.temperature_entry_name_46.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
-        self.temperature_entry_value_46.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.temperature_entry_name_47.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
-        self.temperature_entry_value_47.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.temperature_entry_name_48.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
-        self.temperature_entry_value_48.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.temperature_entry_name_49.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
-        self.temperature_entry_value_49.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
-        self.temperature_entry_name_50.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
-        self.temperature_entry_value_50.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+        self.segment_temp_node_29.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_28.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temperature_plus_3.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#f7e702;\">+</span></p></body></html>"))
+        self.segment_temperature_minus_3.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#f7e702;\">-</span></p></body></html>"))
         self.segment_temperature_entry_id_9.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
@@ -30290,7 +30205,7 @@ class Ui_MainWindow(object):
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">CRITICAL</p></body></html>"))
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
         self.segment_temperature_entry_stats_B_value_9.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
@@ -30420,19 +30335,104 @@ class Ui_MainWindow(object):
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">CRITICAL</p></body></html>"))
-        self.segment_temperature_minus_5.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#f7e702;\">_</span></p></body></html>"))
-        self.segment_temperature_plus_5.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#f7e702;\">+</span></p></body></html>"))
-        self.segment_temp_node_41.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_42.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_43.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_44.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_45.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_46.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
+        self.segment_temperature_entry_id_10.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">SLAVE ID: 01</p></body></html>"))
+        self.segment_temperature_entry_stats_A_nomality_10.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">NOMINAL</p></body></html>"))
+        self.segment_temperature_entry_stats_B_value_10.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+        self.segment_temperature_entry_stats_B_name_10.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">MAX TEMPERATURE:</p></body></html>"))
+        self.segment_temperature_entry_label_C_10.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:6pt;\">TEMPERATURE</span></p></body></html>"))
+        self.segment_temperature_entry_label_A_10.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:6pt;\">THERM PAIR</span></p></body></html>"))
+        self.segment_temperature_entry_label_B_10.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:6pt;\">VISUAL</span></p></body></html>"))
+        self.temperature_entry_name_46.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
+        self.temperature_entry_value_46.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+        self.temperature_entry_name_47.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
+        self.temperature_entry_value_47.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+        self.temperature_entry_name_48.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
+        self.temperature_entry_value_48.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+        self.temperature_entry_name_49.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
+        self.temperature_entry_value_49.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
+        self.temperature_entry_name_50.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">S1T11</p></body></html>"))
+        self.temperature_entry_value_50.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">None</p></body></html>"))
         self.segment_temp_node_47.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_45.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_44.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_46.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_43.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_42.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_41.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
         self.segment_temp_node_48.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
-        self.segment_temp_node_49.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
         self.segment_temp_node_50.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temp_node_49.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:6pt; color:#1f1f1f;\">S1T11</span></p></body></html>"))
+        self.segment_temperature_plus_5.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#f7e702;\">+</span></p></body></html>"))
+        self.segment_temperature_minus_5.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#f7e702;\">-</span></p></body></html>"))
         self.monitor.setTabText(self.monitor.indexOf(self.temperatures), _translate("MainWindow", "Temperatures"))
         self.CAN2_label.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" color:#e6e6e6;\">CAN2</span></p></body></html>"))
         self.CAN1_output_label.setText(_translate("MainWindow", "<html><head/><body><p><span style=\" color:#e6e6e6;\">Output Control:</span></p></body></html>"))

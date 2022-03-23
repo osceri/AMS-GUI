@@ -1,7 +1,10 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 import monitor
 
-
+nominal_stylesheet = "background-color: rgb(80, 203, 156);\ncolor: rgb(31, 31, 31);\nborder: 4px;\nborder-radius: 4px;"
+critical_stylesheet = "background-color: rgb(203, 120, 130);\ncolor: rgb(31, 31, 31);\nborder: 4px;\nborder-radius: 4px;"
+color_stylesheet = lambda R, G, B: f"color: rgb(31, 31, 31);\nbackground-color: rgb({R}, {G}, {B});"
+color_bar_stylesheet = lambda R, G, B: r"QProgressBar{background-color: rgb(31, 31, 31);border-radius: 4px;border: 1px solid rgb(145, 145, 145);margin-left: 8px;margin-right: 8px;}QProgressBar::chunk{background-color: " + f"rgb({R}, {G}, {B})" + r";border-radius: 4px;border: 4px;margin:2px;}"
 
 def indexer(index):
     if index == 1:
@@ -19,6 +22,18 @@ def replace_text_label(element, currentText, newText):
     current = element.text()
     new = current.replace(f">{currentText}</", f">{newText}</")
     element.setText(new)
+
+def replace_color(element, newText):
+    currentHtml = element.toHtml()
+    currentText = element.toPlainText()
+    newHtml = currentHtml.replace(f">{currentText}</", f">{newText}</")
+    element.setHtml(newHtml)
+
+def replace_color_label(element, newText):
+    currentHtml = element.toHtml()
+    currentText = element.toPlainText()
+    newHtml = currentHtml.replace(f">{currentText}</", f">{newText}</")
+    element.setHtml(newHtml)
 
 voltage_lower_boundary = 2.8
 voltage_upper_boundary = 4.2
@@ -44,7 +59,7 @@ def voltage_clamp(voltage):
 def temperature_nominal(temperature):
     if temperature < temperature_lower_boundary:
         return False
-    if temperature_lower_boundary < temperature:
+    if temperature_upper_boundary < temperature:
         return False
     return True
 
@@ -57,18 +72,18 @@ def temperature_clamp(temperature):
 
     return value
 
-R_0 = 160
+R_0 = 120
 G_0 = 120
 B_0 = 120
 R_1 = 240
 G_1 = 160
-B_1 = 190
+B_1 = 120
 
 def temperature_walk(DC):
     R = round(R_0 + (R_1-R_0)*DC/100)
     G = round(G_0 + (G_1-G_0)*DC/100)
     B = round(B_0 + (B_1-B_0)*DC/100)
-    return f"rgb(R, G, B)"
+    return R, G, B
 
 
 LLLL = [ 3, 6, 9, 1, 4, 7, 10, 2, 5, 8 ]
@@ -94,15 +109,15 @@ class Ui_MainWindow(monitor.Ui_MainWindow):
         for index in range(126):
             s, c = scfi(index)
             eval(f"replace_text(self.voltage_entry_name{indexer(index+1)}, 'S{s}C{c}')")
-            eval(f"self.voltage_entry_value{indexer(index+1)}.setHtml('{3.802:.3f}V')")
+            eval(f"self.voltage_entry_value{indexer(index+1)}.setHtml('None')")
         for index in range(60):
             s, t = stfi(index)
             eval(f"replace_text(self.temperature_entry_name{indexer(index+1)}, 'S{s}T{t}')")
 
             ni = index % 10
-            nj = index // 10
-            ns = RRRR[ni] + nj
-            nt = LLLL[ni]
+            nj = 2*(index // 10)
+            nt = 1 + (LLLL[ni] - 1) % 5
+            ns = nj + 1 + (LLLL[ni] - 1) // 5
             eval(f"replace_text_label(self.segment_temp_node{indexer(index+1)}, 'S1T11', 'S{ns}T{nt}')")
 
 
@@ -147,13 +162,16 @@ class Ui_MainWindow(monitor.Ui_MainWindow):
 
 
         self.set_references()
+
+        self.update_timer = QtCore.QTimer()
+        self.update_timer.start(160)
+        self.update_timer.timeout.connect(self.update)
+
+
+    def update(self):
         self.random_values()
         self.update_data()
         self.update_elements()
-
-        #self.update_elements_callback = QTimer(self)
-
-
 
 
     def random_values(self):
@@ -169,7 +187,7 @@ class Ui_MainWindow(monitor.Ui_MainWindow):
             s, t = stfi(index)
             S = s // 2
 
-            self.temperature[f's{s}t{t}'] = 28.97 + (randint(0, 100) - 50)/10
+            self.temperature[f's{s}t{t}'] = 28.97 + (randint(0, 100) - 50)
 
 
 
@@ -177,23 +195,31 @@ class Ui_MainWindow(monitor.Ui_MainWindow):
         for k in range(6):
             S = k+1
             segment = f'S{S}'
-            self.voltage_segment_sum[segment] = self.voltage[f's{S}v1']
-            self.voltage_segment_min[segment] = self.voltage[f's{S}v1']
-            self.voltage_segment_max[segment] = self.voltage[f's{S}v1']
-            self.voltage_segment_nominal[segment] = voltage_nominal(self.voltage[f's{S}v1'])
-            self.temperature_segment_max[segment] = self.temperature[f's{S}t1']
-            self.temperature_segment_nominal[segment] = temperature_nominal(self.temperature[f's{S}t1'])
+
+            try:
+                self.voltage_segment_sum[segment] = self.voltage[f's{2*S}v1']
+                self.voltage_segment_min[segment] = self.voltage[f's{2*S}v1']
+                self.voltage_segment_max[segment] = self.voltage[f's{2*S}v1']
+                self.voltage_segment_nominal[segment] = voltage_nominal(self.voltage[f's{2*S}v1'])
+                self.temperature_segment_max[segment] = self.temperature[f's{2*S}t1']
+                self.temperature_segment_nominal[segment] = temperature_nominal(self.temperature[f's{2*S}t1'])
+            except KeyError:
+                pass
 
 
         for k in range(12):
             s = k+1
             slave = f's{s}'
-            self.voltage_slave_sum[slave] = self.voltage[f's{s}v1']
-            self.voltage_slave_min[slave] = self.voltage[f's{s}v1']
-            self.voltage_slave_max[slave] = self.voltage[f's{s}v1']
-            self.voltage_slave_nominal[slave] = voltage_nominal(self.voltage[f's{S}v1'])
-            self.temperature_slave_max[slave] = self.temperature[f's{s}t1']
-            self.temperature_slave_nominal[slave] = temperature_nominal(self.temperature[f's{S}t1'])
+
+            try:
+                self.voltage_slave_sum[slave] = self.voltage[f's{s}v1']
+                self.voltage_slave_min[slave] = self.voltage[f's{s}v1']
+                self.voltage_slave_max[slave] = self.voltage[f's{s}v1']
+                self.voltage_slave_nominal[slave] = voltage_nominal(self.voltage[f's{s}v1'])
+                self.temperature_slave_max[slave] = self.temperature[f's{s}t1']
+                self.temperature_slave_nominal[slave] = temperature_nominal(self.temperature[f's{s}t1'])
+            except KeyError:
+                pass
 
         for index in range(60):
             s, t = stfi(index)
@@ -203,13 +229,19 @@ class Ui_MainWindow(monitor.Ui_MainWindow):
             slave = f's{s}'
             segment = f'S{S}'
 
-            if self.temperature_slave_max[slave] < self.temperature[cell]:
-                self.temperature_slave_max[slave] = self.temperature[cell]
-            if self.temperature_segment_max[segment] < self.temperature[cell]:
-                self.temperature_segment_max[segment] = self.temperature[cell]
+            try:
+                self.temperature_slave_nominal[slave] = self.temperature_slave_nominal[slave] and temperature_nominal(self.temperature[cell])
+                if self.temperature_slave_max[slave] < self.temperature[cell]:
+                    self.temperature_slave_max[slave] = self.temperature[cell]
+            except KeyError:
+                pass
 
-            self.temperature_slave_nominal[slave] = self.temperature_slave_nominal[slave] and temperature_nominal(self.temperature[cell])
-            self.temperature_segment_nominal[segment] = self.temperature_segment_nominal[segment] and temperature_nominal(self.temperature[cell])
+            try:
+                self.temperature_segment_nominal[segment] = self.temperature_segment_nominal[segment] and temperature_nominal(self.temperature[cell])
+                if self.temperature_segment_max[segment] < self.temperature[cell]:
+                    self.temperature_segment_max[segment] = self.temperature[cell]
+            except KeyError:
+                pass
 
 
         for index in range(126):
@@ -220,140 +252,210 @@ class Ui_MainWindow(monitor.Ui_MainWindow):
             slave = f's{s}'
             segment = f'S{S}'
 
-            self.voltage_slave_sum[slave] += self.voltage[cell]
-            self.voltage_segment_sum[segment] += self.voltage[cell]
+            try:
+                self.voltage_slave_sum[slave] += self.voltage[cell]
+                if self.voltage[cell] < self.voltage_slave_min[slave]:
+                    self.voltage_slave_min[slave] = self.voltage[cell]
+                if self.voltage_slave_max[slave] < self.voltage[cell]:
+                    self.voltage_slave_max[slave] = self.voltage[cell]
+                self.voltage_slave_nominal[slave] = self.voltage_slave_nominal[slave] and voltage_nominal(self.voltage[cell])
+            except KeyError:
+                pass
 
-            if self.voltage[cell] < self.voltage_slave_min[slave]:
-                self.voltage_slave_min[slave] = self.voltage[cell]
-            if self.voltage[cell] < self.voltage_segment_min[segment]:
-                self.voltage_segment_min[segment] = self.voltage[cell]
+            try:
+                self.voltage_segment_sum[segment] += self.voltage[cell]
+                if self.voltage[cell] < self.voltage_segment_min[segment]:
+                    self.voltage_segment_min[segment] = self.voltage[cell]
+                if self.voltage_segment_max[segment] < self.voltage[cell]:
+                    self.voltage_segment_max[segment] = self.voltage[cell]
+                self.voltage_segment_nominal[segment] = self.voltage_segment_nominal[segment] and voltage_nominal(self.voltage[cell])
+            except KeyError:
+                pass
 
-            if self.voltage_slave_max[slave] < self.voltage[cell]:
-                self.voltage_slave_max[slave] = self.voltage[cell]
-            if self.voltage_segment_max[segment] < self.voltage[cell]:
-                self.voltage_segment_max[segment] = self.voltage[cell]
-
-            self.voltage_slave_nominal[slave] = self.voltage_slave_nominal[slave] and voltage_nominal(self.voltage[cell])
-            self.voltage_segment_nominal[segment] = self.voltage_segment_nominal[segment] and voltage_nominal(self.voltage[cell])
-
-        #self.voltage_bars = dict()
-        #self.voltage_values = dict()
-        #self.voltage_slave_sum_bars = dict()
-        #self.voltage_slave_min_values = dict()
-        #self.voltage_slave_max_values = dict()
-        #self.voltage_slave_nominality = dict()
-        #self.voltage_segment_sum_values = dict()
-        #self.voltage_segment_sum_bars = dict()
-        #self.voltage_segment_min_values = dict()
-        #self.voltage_segment_max_values = dict()
-        #self.voltage_segment_nominality = dict()
-        #self.temperature_bars = dict()
-        #self.temperature_values = dict()
-        #self.temperature_indicator = dict()
-        #self.temperature_slave_max_values = dict()
-        #self.temperature_slave_max_bars = dict()
-        #self.temperature_slave_nominality = dict()
-        #self.temperature_segment_max_values = dict()
-        #self.temperature_segment_max_bars = dict()
-        #self.temperature_segment_nominality = dict()
-
-        #self.voltage = dict()
-        #self.voltage_slave_sum = dict()
-        #self.voltage_slave_min = dict()
-        #self.voltage_slave_max = dict()
-        #self.voltage_slave_nominal = dict()
-        #self.voltage_segment_sum = dict()
-        #self.voltage_segment_min = dict()
-        #self.voltage_segment_max = dict()
-        #self.voltage_segment_nominal = dict()
-        #self.temperature = dict()
-        #self.temperature_slave_max = dict()
-        #self.temperature_slave_nominal = dict()
-        #self.temperature_segment_max = dict()
-        #self.temperature_segment_nominal = dict()
 
     def update_elements(self):
         for cell in self.voltage:
             for element in self.voltage_values[cell]:
-                voltage = self.voltage[cell]
-                element.setText(f'{voltage:.3f}V')
+                try:
+                    voltage = self.voltage[cell]
+                    element.setText(f'{voltage:.3f}V')
+                except KeyError:
+                    pass
 
             for element in self.voltage_bars[cell]:
-                level = voltage_clamp(self.voltage[cell])
-                element.setValue(level)
+                try:
+                    level = voltage_clamp(self.voltage[cell])
+                    element.setValue(level)
+                except KeyError:
+                    pass
 
         for slave in self.voltage_slave_sum:
             for element in self.voltage_slave_sum_bars[slave]:
-                level = voltage_clamp(self.voltage_slave_sum[slave] / 12)
-                element.setValue(level)
+                try:
+                    level = voltage_clamp(self.voltage_slave_sum[slave] / 12)
+                    element.setValue(level)
+                except KeyError:
+                    pass
 
         for slave in self.voltage_slave_min:
             for element in self.voltage_slave_min_values[slave]:
-                voltage = self.voltage_slave_min[slave]
-                element.setText(f'{voltage:.3f}V')
+                try:
+                    voltage = self.voltage_slave_min[slave]
+                    element.setText(f'{voltage:.3f}V')
+                except KeyError:
+                    pass
 
         for slave in self.voltage_slave_max:
             for element in self.voltage_slave_max_values[slave]:
-                voltage = self.voltage_slave_max[slave]
-                element.setText(f'{voltage:.3f}V')
+                try:
+                    voltage = self.voltage_slave_max[slave]
+                    element.setText(f'{voltage:.3f}V')
+                except KeyError:
+                    pass
 
-        #for slave in self.voltage_slave_nominal:
-        #   for element in self.voltage_slave_nominality[slave]:
-        #       nominality = self.voltage_slave_nominal[slave]
-        #       ???
+        for slave in self.voltage_slave_nominal:
+            for element in self.voltage_slave_nominality[slave]:
+                try:
+                    nominality = self.voltage_slave_nominal[slave]
+                    if nominality:
+                        replace_text(element, "NOMINAL")
+                        element.setStyleSheet(nominal_stylesheet)
+                    else:
+                        replace_text(element, "CRITICAL")
+                        element.setStyleSheet(critical_stylesheet)
+                except KeyError:
+                    pass
 
         for segment in self.voltage_segment_sum:
+            for element in self.voltage_segment_sum_values[segment]:
+                try:
+                    voltage = self.voltage_segment_sum[segment]
+                    element.setText(f'{voltage:.3f}V')
+                except KeyError:
+                    pass
+
             for element in self.voltage_segment_sum_bars[segment]:
-                level = voltage_clamp(self.voltage_segment_sum[segment] / 21)
-                element.setValue(level)
+                try:
+                    level = voltage_clamp(self.voltage_segment_sum[segment] / 21)
+                    element.setValue(level)
+                except KeyError:
+                    pass
 
         for segment in self.voltage_segment_min:
             for element in self.voltage_segment_min_values[segment]:
-                voltage = self.voltage_segment_min[segment]
-                element.setText(f'{voltage:.3f}V')
+                try:
+                    voltage = self.voltage_segment_min[segment]
+                    element.setText(f'{voltage:.3f}V')
+                except KeyError:
+                    pass
 
         for segment in self.voltage_segment_max:
             for element in self.voltage_segment_max_values[segment]:
-                voltage = self.voltage_segment_max[segment]
-                element.setText(f'{voltage:.3f}V')
+                try:
+                    voltage = self.voltage_segment_max[segment]
+                    element.setText(f'{voltage:.3f}V')
+                except KeyError:
+                    pass
 
-        #for segment in self.voltage_segment_nominal:
-        #   for element in self.voltage_segment_nominality[segment]:
-        #       nominality = self.voltage_segment_nominal[segment]
-        #       ???
+        for segment in self.voltage_segment_nominal:
+            for element in self.voltage_segment_nominality[segment]:
+                try:
+                    nominality = self.voltage_segment_nominal[segment]
+                    if nominality:
+                        replace_text(element, "NOMINAL")
+                        element.setStyleSheet(nominal_stylesheet)
+                    else:
+                        replace_text(element, "CRITICAL")
+                        element.setStyleSheet(critical_stylesheet)
+                except KeyError:
+                    pass
+
 
         for cell in self.temperature:
             for element in self.temperature_values[cell]:
-                temperature = self.temperature[cell]
-                element.setText(f'{temperature:.3f}C')
+                try:
+                    temperature = self.temperature[cell]
+                    element.setText(f'{temperature:.3f}C')
+                except KeyError:
+                    pass
 
             for element in self.temperature_bars[cell]:
-                level = temperature_clamp(self.temperature[cell])
-                element.setValue(level)
+                try:
+                    level = temperature_clamp(self.temperature[cell])
+                    element.setValue(level)
+                    R, G, B = temperature_walk(level)
+                    element.setStyleSheet(color_bar_stylesheet(R, G, B))
+                except KeyError:
+                    pass
 
             for element in self.temperature_indicator[cell]:
-                level = temperature_clamp(self.temperature[cell])
-                element.setValue(level)
+                try:
+                    level = temperature_clamp(self.temperature[cell])
+                    R, G, B = temperature_walk(level)
+                    element.setStyleSheet(color_stylesheet(R, G, B))
+                except KeyError:
+                    pass
+
 
         for slave in self.temperature_slave_max:
             for element in self.temperature_slave_max_values[slave]:
-                temperature = self.temperature_slave_max[slave]
-                element.setText(f'{temperature:.3f}C')
+                try:
+                    temperature = self.temperature_slave_max[slave]
+                    element.setText(f'{temperature:.3f}C')
+                except KeyError:
+                    pass
 
-        #for slave in self.temperature_slave_nominal:
-        #   for element in self.temperature_slave_nominality[slave]:
-        #       nominality = self.temperature_slave_nominal[slave]
-        #       ???
+            for element in self.temperature_slave_max_bars[slave]:
+                try:
+                    level = temperature_clamp(self.temperature_slave_max[slave])
+                    element.setValue(level)
+                    R, G, B = temperature_walk(level)
+                    element.setStyleSheet(color_bar_stylesheet(R, G, B))
+                except KeyError:
+                    pass
+
+        for slave in self.temperature_slave_nominal:
+            for element in self.temperature_slave_nominality[slave]:
+                try:
+                    nominality = self.temperature_slave_nominal[slave]
+                    if nominality:
+                        replace_text(element, "NOMINAL")
+                        element.setStyleSheet(nominal_stylesheet)
+                    else:
+                        replace_text(element, "CRITICAL")
+                        element.setStyleSheet(critical_stylesheet)
+                except KeyError:
+                    pass
 
         for segment in self.temperature_segment_max:
             for element in self.temperature_segment_max_values[segment]:
-                temperature = self.temperature_segment_max[segment]
-                element.setText(f'{temperature:.3f}C')
+                try:
+                    temperature = self.temperature_segment_max[segment]
+                    element.setText(f'{temperature:.3f}C')
+                except KeyError:
+                    pass
 
-        #for segment in self.temperature_segment_nominal:
-        #   for element in self.temperature_segment_nominality[segment]:
-        #       nominality = self.temperature_segment_nominal[segment]
-        #       ???
+            for element in self.temperature_segment_max_bars[segment]:
+                try:
+                    level = temperature_clamp(self.temperature_segment_max[segment])
+                    element.setValue(level)
+                    R, G, B = temperature_walk(level)
+                    element.setStyleSheet(color_bar_stylesheet(R, G, B))
+                except KeyError:
+                    pass
+
+        for segment in self.temperature_segment_nominal:
+            for element in self.temperature_segment_nominality[segment]:
+                try:
+                    nominality = self.temperature_segment_nominal[segment]
+                    if nominality:
+                        replace_text(element, "NOMINAL")
+                        element.setStyleSheet(nominal_stylesheet)
+                    else:
+                        replace_text(element, "CRITICAL")
+                        element.setStyleSheet(critical_stylesheet)
+                except KeyError:
+                    pass
         
 
 
@@ -418,9 +520,11 @@ class Ui_MainWindow(monitor.Ui_MainWindow):
 
         for index in range(60):
             ni = index % 10
-            nj = index // 10
-            s = RRRR[ni] + nj
-            t = LLLL[ni]
+            nj = 2*(index // 10)
+            t = 1 + (LLLL[ni] - 1) % 5
+            s = nj + 1 + (LLLL[ni] - 1) // 5
+
+            print(s, t)
             self.temperature_indicator[f's{s}t{t}'] = []
             eval(f"self.temperature_indicator['s{s}t{t}'].append(self.segment_temp_node{indexer(index+1)})")
 
