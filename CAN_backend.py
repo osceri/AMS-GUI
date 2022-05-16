@@ -18,7 +18,7 @@ def send_data(ch):
 
         cantx = { "temperature_multiplexor" : s}
         for t in range(0, 5):
-            cantx[f"t{t + 1}s{s + 1}"] = 40 + 40*N()
+            cantx[f"t{t + 1}s{s + 1}"] = 40 + 10*N()
     
         tx_id = txFrame.frame_id
         tx_data = txFrame.encode(cantx)
@@ -71,16 +71,19 @@ def cdev():
         cdev_[name] = channelNumber
 
     return cdev_
-        
+
 
 virtual1 = 'Kvaser Virtual CAN Driver (channel 0)'
 virtual2 = 'Kvaser Virtual CAN Driver (channel 1)'
 
-def can_channel(device_name):
+def can_channel(device_name, bitrate):
     channel_number = cdev()[device_name]
     availability = canlib.canOPEN_ACCEPT_VIRTUAL
     driver = canlib.canDRIVER_NORMAL
-    bitrate = canlib.canBITRATE_500K
+    if bitrate == 1000000:
+        bitrate =  canlib.canBITRATE_1M
+    else:
+        bitrate = canlib.canBITRATE_500K
 
     ch = canlib.openChannel(channel_number, availability)
     ch.setBusOutputControl(driver)
@@ -94,10 +97,13 @@ def receive_data(ch):
         rx_id = rx.id
         rx_data = bytes(rx.data)
     
-        if rx_id in frame_ids:
-            rxFrame = db.get_message_by_frame_id(rx_id)
-            data = rxFrame.decode(rx_data)
-            datad.update(data)
+        try:
+            if rx_id in frame_ids:
+                rxFrame = db.get_message_by_frame_id(rx_id)
+                data = rxFrame.decode(rx_data)
+                datad.update(data)
+        except:
+            print("ERROR")
     return datad
 
 
@@ -110,5 +116,3 @@ def receive_data(ch):
 #
 #send_status(ch2)
 #print(receive_data(ch1))
-
-

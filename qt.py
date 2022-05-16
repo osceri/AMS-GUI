@@ -186,11 +186,47 @@ class Ui_MainWindow(monitor.Ui_MainWindow):
         self.update_log_timer.start(1000)
         self.update_log_timer.timeout.connect(self.update_log)
 
+        self.ts_button.clicked.connect(self.ts_button_callback)
+        self.cu_button.clicked.connect(self.cu_button_callback)
+        self.ts_n_button.clicked.connect(self.ts_n_button_callback)
+        self.cu_n_button.clicked.connect(self.cu_n_button_callback)
 
+
+    def ts_button_callback(self):
+        msg = db.get_message_by_name("dbu_status_1")
+        tx = { "activate_ts_button" : 1, "ready_to_drive_button" : 0, "dbu_temperature" : 10 }
+        tx_data = msg.encode(tx)
+        tx_frame_id = msg.frame_id
+        self.LOG("TS ACTIVATE SIGNAL SENT")
+        self.ch1.write_raw(tx_frame_id, tx_data)
+
+    def ts_n_button_callback(self):
+        msg = db.get_message_by_name("dbu_status_1")
+        tx = { "activate_ts_button" : 0, "ready_to_drive_button" : 0, "dbu_temperature" : 10 }
+        tx_data = msg.encode(tx)
+        tx_frame_id = msg.frame_id
+        self.LOG("TS DEACTIVATE SIGNAL SENT")
+        self.ch1.write_raw(tx_frame_id, tx_data)
+
+    def cu_button_callback(self):
+        msg = db.get_message_by_name("dbu_status_1")
+        tx = { "activate_ts_button" : 1, "ready_to_drive_button" : 0, "dbu_temperature" : 10 }
+        tx_data = msg.encode(tx)
+        tx_frame_id = msg.frame_id
+        self.LOG("CU ACTIVATE SIGNAL SENT")
+        self.ch1.write_raw(tx_frame_id, tx_data)
+
+    def cu_n_button_callback(self):
+        msg = db.get_message_by_name("dbu_status_1")
+        tx = { "activate_ts_button" : 0, "ready_to_drive_button" : 0, "dbu_temperature" : 10 }
+        tx_data = msg.encode(tx)
+        tx_frame_id = msg.frame_id
+        self.LOG("CU DEACTIVATE SIGNAL SENT")
+        self.ch1.write_raw(tx_frame_id, tx_data)
 
     def update_can_config(self):
         items = cdev()
-
+        
         # Always keep the virtual2 bus online, in case
         if self.ch2:
             if not virtual2 in items:
@@ -198,9 +234,13 @@ class Ui_MainWindow(monitor.Ui_MainWindow):
                 self.ch2 = None
         else:
             if virtual2 in items:
-                self.ch2 = can_channel(virtual2)
+                self.ch2 = can_channel(virtual2, 500000)
                 self.ch2.busOn()
                 self.LOG("virtual2 connected")
+
+        self.ch1 = can_channel(virtual1, 500000) # <-
+        self.ch1.busOn()                         # <-
+        return                                   # <-
 
         # Get current items on screen
         citems = []
@@ -230,7 +270,7 @@ class Ui_MainWindow(monitor.Ui_MainWindow):
         # If a device is not connected, then connect the currently selected one (if possible)
         if not self.ch1:
             if not selected == '':
-                self.ch1 = can_channel(selected)
+                self.ch1 = can_channel(selected, 1000000)
                 self.ch1.busOn()
                 self.LOG("CAN1 connected")
         # If a device is connected, determine wether or not it is the currently selected one, and reconnect that one
@@ -242,7 +282,7 @@ class Ui_MainWindow(monitor.Ui_MainWindow):
                 self.ch1.close()
                 self.LOG("CAN1 disconnected")
                 if selected != '':
-                    self.ch1 = can_channel(selected)
+                    self.ch1 = can_channel(selected, 1000000)
                     self.ch1.busOn()
                     self.LOG("CAN1 connected")
 

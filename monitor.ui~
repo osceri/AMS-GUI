@@ -8019,7 +8019,7 @@ p, li { white-space: pre-wrap; }
 color: rgb(31, 31, 31);
 border: 4px;
 border-radius: 4px;
-align: center;
+
 font-size: 12pt;</string>
                 </property>
                 <property name="lineWidth">
@@ -8491,7 +8491,7 @@ p, li { white-space: pre-wrap; }
 color: rgb(31, 31, 31);
 border: 4px;
 border-radius: 4px;
-align: center;</string>
+</string>
                    </property>
                    <property name="lineWidth">
                     <number>0</number>
