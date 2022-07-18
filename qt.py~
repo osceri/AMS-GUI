@@ -101,6 +101,11 @@ def stfi(index):
 voltage_labels = [ f"v{c}s{s}" for s, c in [ scfi(index) for index in range(126) ] ]
 temperature_labels = [ f"t{t}s{s}" for s, t in [ stfi(index) for index in range(60) ] ]
 
+#def map(v, c):
+#    for i in range(12):
+#        for k in range(11 - (i % 2)):
+
+
 from time import sleep
 
 class Ui_MainWindow(monitor.Ui_MainWindow):
@@ -224,6 +229,7 @@ class Ui_MainWindow(monitor.Ui_MainWindow):
         self.LOG("CU DEACTIVATE SIGNAL SENT")
         self.ch1.write_raw(tx_frame_id, tx_data)
 
+
     def update_can_config(self):
         items = cdev()
         
@@ -238,9 +244,6 @@ class Ui_MainWindow(monitor.Ui_MainWindow):
                 self.ch2.busOn()
                 self.LOG("virtual2 connected")
 
-        self.ch1 = can_channel(virtual1, 500000)
-        self.ch1.busOn()
-        return
 
         # Get current items on screen
         citems = []
@@ -288,8 +291,8 @@ class Ui_MainWindow(monitor.Ui_MainWindow):
 
     def update(self):
         if self.ch2:
-            send_data(self.ch2)
-            send_status(self.ch2)
+            #send_data(self.ch2)
+            #send_status(self.ch2)
             pass
         if self.ch1:
             self.data.update(receive_data(self.ch1))
